@@ -169,3 +169,34 @@ audio { width: 100%; margin-top: 0.5rem; }
   text-align: center; color: var(--ink-dim);
   font-size: 0.74rem; padding: 1.5rem 1rem 2.5rem;
 }
+
+/* ---- section titles ---- */
+.section-title {
+  text-align: center;
+  font-family: Georgia, serif;
+  font-size: 1.5rem;
+  color: var(--ink);
+  margin: 2rem 1rem 0.2rem;
+}
+
+/* ---- raga map (scatter) ---- */
+.mapwrap { max-width: 560px; margin: 0 auto; padding: 0 1rem; }
+.map-sub {
+  color: var(--ink-dim); font-size: 0.82rem; line-height: 1.5;
+  text-align: center; margin: 0.35rem 0 0.7rem;
+}
+.map-sub strong { color: var(--ink); }
+.gold-word { color: var(--gold); font-weight: 700; }
+.ragamap { width: 100%; height: auto; display: block; }
+.map-frame { fill: rgba(255, 255, 255, 0.02); stroke: var(--line); stroke-width: 1; }
+.map-axis { fill: var(--ink-dim); font-size: 10px; font-family: inherit; }
+.herodot { cursor: pointer; }
+.dot-label { fill: var(--ink); font-size: 9.5px; font-weight: 700; font-family: inherit; }
+
+/* ---- 5-axis radar ---- */
+.radar { width: 240px; max-width: 100%; height: auto; display: block; margin: 0.3rem auto 0; }
+.radar-grid { fill: none; stroke: var(--line); stroke-width: 1; }
+.radar-label { fill: var(--ink-dim); font-size: 10px; font-family: inherit; }
+.radar-shape { fill: rgba(232, 176, 75, 0.28); stroke: var(--gold); stroke-width: 2; }
+.radar-dot { fill: var(--gold); }
+.fp-note { color: var(--ink-dim); font-size: 0.82rem; line-height: 1.45; margin-bottom: 0.2rem; }

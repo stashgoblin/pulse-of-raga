@@ -1,7 +1,7 @@
 {
   "_meta": {
     "title": "Pulse Of Raga",
-    "subtitle": "A Carnatic raga explorer · 8 hero ragas, scales, master recordings, and ready-made Suno fusion seeds",
+    "subtitle": "A Carnatic raga explorer · scales, master recordings, and 5-axis fusion matching",
     "raga_count": 8
   },
   "ragas": [
@@ -33,7 +33,13 @@
       "rasa": "veera / shringara",
       "mood": "bright, joyful, auspicious; uplifting and calming",
       "time_of_day": "no strong traditional association (often morning per modern convention)",
-      "rasa_note": "Pentatonic janya of Harikambhoji; equivalent to Hindustani Bhoop / Western major pentatonic; Tyagaraja's 'Nannu Palimpa', 'Mohana Rama'.",
+      "vector": {
+        "valence": 0.79,
+        "arousal": 0.725,
+        "brightness": 0.667,
+        "density": 0.2,
+        "regularity": 1.0
+      },
       "recordings": [
         {
           "id": "ninnukori-mohanam-bs",
@@ -44,14 +50,16 @@
       ],
       "fusion": [
         {
-          "genre": "lo-fi hip-hop",
-          "bpm": 82,
-          "prompt": "lo-fi hip-hop fused with South Indian Carnatic classical melody in raga Mohanam. The lead melody strictly follows raga Mohanam: ascending S R2 G3 P D2 S, descending S D2 P G3 R2 S, with ornamented, gliding gamakam phrasing (meend-style slides between notes). Carry the raga line on continuous-pitch voices — solo voice, Carnatic violin, veena, or bamboo flute — never piano. Underneath, full lo-fi hip-hop production: modern drums, bass and texture characteristic of lo-fi hip-hop. Tanpura drone and mridangam accents bridge the two worlds. Mood: bright, joyful, auspicious; uplifting and calming. Around 82 BPM. Keep the raga line monophonic and melodic; do not force Western chord changes onto it. Raga Mohanam is pentatonic — it maps naturally onto Western pop/EDM shapes."
+          "genre": "nu-disco",
+          "fit": 0.845,
+          "why": "funky, glittering, upbeat",
+          "prompt": "nu-disco fused with South Indian Carnatic classical melody in raga Mohanam. The lead melody strictly follows raga Mohanam: ascending S R2 G3 P D2 S, descending S D2 P G3 R2 S, with ornamented, gliding gamakam phrasing (meend-style slides between notes). Carry the raga line on continuous-pitch voices — solo voice, Carnatic violin, veena, or bamboo flute — never piano. Underneath, full nu-disco production: modern drums, bass and texture characteristic of nu-disco. Tanpura drone and mridangam accents bridge the two worlds. Mood: bright, joyful, auspicious; uplifting and calming. Around 112 BPM. Keep the raga line monophonic and melodic; do not force Western chord changes onto it. Raga Mohanam is pentatonic — it maps naturally onto Western pop/EDM shapes."
         },
         {
-          "genre": "festival / big-room",
-          "bpm": 128,
-          "prompt": "festival / big-room fused with South Indian Carnatic classical melody in raga Mohanam. The lead melody strictly follows raga Mohanam: ascending S R2 G3 P D2 S, descending S D2 P G3 R2 S, with ornamented, gliding gamakam phrasing (meend-style slides between notes). Carry the raga line on continuous-pitch voices — solo voice, Carnatic violin, veena, or bamboo flute — never piano. Underneath, full festival / big-room production: modern drums, bass and texture characteristic of festival / big-room. Tanpura drone and mridangam accents bridge the two worlds. Mood: bright, joyful, auspicious; uplifting and calming. Around 128 BPM. Keep the raga line monophonic and melodic; do not force Western chord changes onto it. Raga Mohanam is pentatonic — it maps naturally onto Western pop/EDM shapes."
+          "genre": "deep house",
+          "fit": 0.844,
+          "why": "warm, hypnotic four-on-the-floor",
+          "prompt": "deep house fused with South Indian Carnatic classical melody in raga Mohanam. The lead melody strictly follows raga Mohanam: ascending S R2 G3 P D2 S, descending S D2 P G3 R2 S, with ornamented, gliding gamakam phrasing (meend-style slides between notes). Carry the raga line on continuous-pitch voices — solo voice, Carnatic violin, veena, or bamboo flute — never piano. Underneath, full deep house production: modern drums, bass and texture characteristic of deep house. Tanpura drone and mridangam accents bridge the two worlds. Mood: bright, joyful, auspicious; uplifting and calming. Around 122 BPM. Keep the raga line monophonic and melodic; do not force Western chord changes onto it. Raga Mohanam is pentatonic — it maps naturally onto Western pop/EDM shapes."
         }
       ]
     },
@@ -83,7 +91,13 @@
       "rasa": "veera / hasya",
       "mood": "joyous, auspicious, energetic — 'the sound of swans'",
       "time_of_day": "evening (modern convention as concert-opener)",
-      "rasa_note": "Created by the Carnatic composer Ramaswami Dikshitar (1735–1817), father of Muthuswami Dikshitar, per Wikipedia on Hamsadhvani; brought into Hindustani music by Aman Ali Khan of the Bhendibazaar gharana; the quintessential concert opener; Dikshitar's 'Vatapi Ganapatim', Tyagaraja's 'Raghu Nayaka'.",
+      "vector": {
+        "valence": 0.84,
+        "arousal": 0.8,
+        "brightness": 0.833,
+        "density": 0.2,
+        "regularity": 1.0
+      },
       "recordings": [
         {
           "id": "jalajakshi-hamsadhwani-bs",
@@ -94,14 +108,16 @@
       ],
       "fusion": [
         {
-          "genre": "drum and bass",
-          "bpm": 174,
-          "prompt": "drum and bass fused with South Indian Carnatic classical melody in raga Hamsadhwani. The lead melody strictly follows raga Hamsadhwani: ascending S R2 G3 P N3 S, descending S N3 P G3 R2 S, with ornamented, gliding gamakam phrasing (meend-style slides between notes). Carry the raga line on continuous-pitch voices — solo voice, Carnatic violin, veena, or bamboo flute — never piano. Underneath, full drum and bass production: modern drums, bass and texture characteristic of drum and bass. Tanpura drone and mridangam accents bridge the two worlds. Mood: joyous, auspicious, energetic — 'the sound of swans'. Around 174 BPM. Keep the raga line monophonic and melodic; do not force Western chord changes onto it. Raga Hamsadhwani is pentatonic — it maps naturally onto Western pop/EDM shapes."
+          "genre": "nu-disco",
+          "fit": 0.83,
+          "why": "funky, glittering, upbeat",
+          "prompt": "nu-disco fused with South Indian Carnatic classical melody in raga Hamsadhwani. The lead melody strictly follows raga Hamsadhwani: ascending S R2 G3 P N3 S, descending S N3 P G3 R2 S, with ornamented, gliding gamakam phrasing (meend-style slides between notes). Carry the raga line on continuous-pitch voices — solo voice, Carnatic violin, veena, or bamboo flute — never piano. Underneath, full nu-disco production: modern drums, bass and texture characteristic of nu-disco. Tanpura drone and mridangam accents bridge the two worlds. Mood: joyous, auspicious, energetic — 'the sound of swans'. Around 112 BPM. Keep the raga line monophonic and melodic; do not force Western chord changes onto it. Raga Hamsadhwani is pentatonic — it maps naturally onto Western pop/EDM shapes."
         },
         {
-          "genre": "nu-disco",
-          "bpm": 112,
-          "prompt": "nu-disco fused with South Indian Carnatic classical melody in raga Hamsadhwani. The lead melody strictly follows raga Hamsadhwani: ascending S R2 G3 P N3 S, descending S N3 P G3 R2 S, with ornamented, gliding gamakam phrasing (meend-style slides between notes). Carry the raga line on continuous-pitch voices — solo voice, Carnatic violin, veena, or bamboo flute — never piano. Underneath, full nu-disco production: modern drums, bass and texture characteristic of nu-disco. Tanpura drone and mridangam accents bridge the two worlds. Mood: joyous, auspicious, energetic — 'the sound of swans'. Around 112 BPM. Keep the raga line monophonic and melodic; do not force Western chord changes onto it. Raga Hamsadhwani is pentatonic — it maps naturally onto Western pop/EDM shapes."
+          "genre": "uplifting house",
+          "fit": 0.825,
+          "why": "euphoric, bright, anthemic",
+          "prompt": "uplifting house fused with South Indian Carnatic classical melody in raga Hamsadhwani. The lead melody strictly follows raga Hamsadhwani: ascending S R2 G3 P N3 S, descending S N3 P G3 R2 S, with ornamented, gliding gamakam phrasing (meend-style slides between notes). Carry the raga line on continuous-pitch voices — solo voice, Carnatic violin, veena, or bamboo flute — never piano. Underneath, full uplifting house production: modern drums, bass and texture characteristic of uplifting house. Tanpura drone and mridangam accents bridge the two worlds. Mood: joyous, auspicious, energetic — 'the sound of swans'. Around 126 BPM. Keep the raga line monophonic and melodic; do not force Western chord changes onto it. Raga Hamsadhwani is pentatonic — it maps naturally onto Western pop/EDM shapes."
         }
       ]
     },
@@ -137,7 +153,13 @@
       "rasa": "bhakti / karuna",
       "mood": "deep devotion and tranquility with cosmic earthiness",
       "time_of_day": "no strong traditional association (different from Hindustani Bhairavi)",
-      "rasa_note": "Bhashanga janya of Natabhairavi; uses both dhaivatas; Pacchimiriyam Adiappayya's 'Viriboni' ata-tala varnam; Dikshitar's 'Balagopala'; Syama Sastri's swarajatis.",
+      "vector": {
+        "valence": 0.515,
+        "arousal": 0.4,
+        "brightness": 0.35,
+        "density": 0.8,
+        "regularity": 1.0
+      },
       "recordings": [
         {
           "id": "viriboni-bhairavi-ata-mss",
@@ -154,14 +176,16 @@
       ],
       "fusion": [
         {
-          "genre": "sufi electronic",
-          "bpm": 100,
-          "prompt": "sufi electronic fused with South Indian Carnatic classical melody in raga Bhairavi. The lead melody strictly follows raga Bhairavi: ascending S R2 G2 M1 P D2 N2 S, descending S N2 D1 P M1 G2 R2 S, with ornamented, gliding gamakam phrasing (meend-style slides between notes). Carry the raga line on continuous-pitch voices — solo voice, Carnatic violin, veena, or bamboo flute — never piano. Underneath, full sufi electronic production: modern drums, bass and texture characteristic of sufi electronic. Tanpura drone and mridangam accents bridge the two worlds. Mood: deep devotion and tranquility with cosmic earthiness. Around 100 BPM. Keep the raga line monophonic and melodic; do not force Western chord changes onto it. It is a bhashanga raga — a foreign note appears as brief colour; keep it a passing touch, never a resting note."
+          "genre": "organic house",
+          "fit": 0.818,
+          "why": "earthy, textural, percussive — a natural Indian-fusion lane",
+          "prompt": "organic house fused with South Indian Carnatic classical melody in raga Bhairavi. The lead melody strictly follows raga Bhairavi: ascending S R2 G2 M1 P D2 N2 S, descending S N2 D1 P M1 G2 R2 S, with ornamented, gliding gamakam phrasing (meend-style slides between notes). Carry the raga line on continuous-pitch voices — solo voice, Carnatic violin, veena, or bamboo flute — never piano. Underneath, full organic house production: modern drums, bass and texture characteristic of organic house. Tanpura drone and mridangam accents bridge the two worlds. Mood: deep devotion and tranquility with cosmic earthiness. Around 120 BPM. Keep the raga line monophonic and melodic; do not force Western chord changes onto it. It is a bhashanga raga — a foreign note appears as brief colour; keep it a passing touch, never a resting note."
         },
         {
-          "genre": "cinematic ambient",
-          "bpm": null,
-          "prompt": "cinematic ambient fused with South Indian Carnatic classical melody in raga Bhairavi. The lead melody strictly follows raga Bhairavi: ascending S R2 G2 M1 P D2 N2 S, descending S N2 D1 P M1 G2 R2 S, with ornamented, gliding gamakam phrasing (meend-style slides between notes). Carry the raga line on continuous-pitch voices — solo voice, Carnatic violin, veena, or bamboo flute — never piano. Underneath, full cinematic ambient production: modern drums, bass and texture characteristic of cinematic ambient. Tanpura drone and mridangam accents bridge the two worlds. Mood: deep devotion and tranquility with cosmic earthiness. Keep the raga line monophonic and melodic; do not force Western chord changes onto it. It is a bhashanga raga — a foreign note appears as brief colour; keep it a passing touch, never a resting note."
+          "genre": "progressive electronic",
+          "fit": 0.811,
+          "why": "building, evolving, wondrous arc",
+          "prompt": "progressive electronic fused with South Indian Carnatic classical melody in raga Bhairavi. The lead melody strictly follows raga Bhairavi: ascending S R2 G2 M1 P D2 N2 S, descending S N2 D1 P M1 G2 R2 S, with ornamented, gliding gamakam phrasing (meend-style slides between notes). Carry the raga line on continuous-pitch voices — solo voice, Carnatic violin, veena, or bamboo flute — never piano. Underneath, full progressive electronic production: modern drums, bass and texture characteristic of progressive electronic. Tanpura drone and mridangam accents bridge the two worlds. Mood: deep devotion and tranquility with cosmic earthiness. Around 124 BPM. Keep the raga line monophonic and melodic; do not force Western chord changes onto it. It is a bhashanga raga — a foreign note appears as brief colour; keep it a passing touch, never a resting note."
         }
       ]
     },
@@ -197,7 +221,13 @@
       "rasa": "bhakti / shringara",
       "mood": "majestic, auspicious, graceful; 'mother who dispels fear'",
       "time_of_day": "evening (traditional; suitable for concert openers)",
-      "rasa_note": "65th mela (Kalyani / Yaman); the 'queen of ragas'; encapsulates bhakti, shringara, vatsalya; 'Nidhi Chala Sukhama' (Tyagaraja), 'Kamalambam Bhajare' (Dikshitar).",
+      "vector": {
+        "valence": 0.79,
+        "arousal": 0.465,
+        "brightness": 0.8,
+        "density": 0.8,
+        "regularity": 1.0
+      },
       "recordings": [
         {
           "id": "vanajaksha-kalyani-ata-kvn",
@@ -209,13 +239,15 @@
       "fusion": [
         {
           "genre": "synthwave",
-          "bpm": 100,
+          "fit": 0.878,
+          "why": "neon, nostalgic, bright — suits a lydian-bright raga",
           "prompt": "synthwave fused with South Indian Carnatic classical melody in raga Mechakalyani. The lead melody strictly follows raga Mechakalyani: ascending S R2 G3 M2 P D2 N3 S, descending S N3 D2 P M2 G3 R2 S, with ornamented, gliding gamakam phrasing (meend-style slides between notes). Carry the raga line on continuous-pitch voices — solo voice, Carnatic violin, veena, or bamboo flute — never piano. Underneath, full synthwave production: modern drums, bass and texture characteristic of synthwave. Tanpura drone and mridangam accents bridge the two worlds. Mood: majestic, auspicious, graceful; 'mother who dispels fear'. Around 100 BPM. Keep the raga line monophonic and melodic; do not force Western chord changes onto it."
         },
         {
-          "genre": "organic house",
-          "bpm": 122,
-          "prompt": "organic house fused with South Indian Carnatic classical melody in raga Mechakalyani. The lead melody strictly follows raga Mechakalyani: ascending S R2 G3 M2 P D2 N3 S, descending S N3 D2 P M2 G3 R2 S, with ornamented, gliding gamakam phrasing (meend-style slides between notes). Carry the raga line on continuous-pitch voices — solo voice, Carnatic violin, veena, or bamboo flute — never piano. Underneath, full organic house production: modern drums, bass and texture characteristic of organic house. Tanpura drone and mridangam accents bridge the two worlds. Mood: majestic, auspicious, graceful; 'mother who dispels fear'. Around 122 BPM. Keep the raga line monophonic and melodic; do not force Western chord changes onto it."
+          "genre": "dream pop",
+          "fit": 0.85,
+          "why": "hazy, shimmering, sweet",
+          "prompt": "dream pop fused with South Indian Carnatic classical melody in raga Mechakalyani. The lead melody strictly follows raga Mechakalyani: ascending S R2 G3 M2 P D2 N3 S, descending S N3 D2 P M2 G3 R2 S, with ornamented, gliding gamakam phrasing (meend-style slides between notes). Carry the raga line on continuous-pitch voices — solo voice, Carnatic violin, veena, or bamboo flute — never piano. Underneath, full dream pop production: modern drums, bass and texture characteristic of dream pop. Tanpura drone and mridangam accents bridge the two worlds. Mood: majestic, auspicious, graceful; 'mother who dispels fear'. Around 96 BPM. Keep the raga line monophonic and melodic; do not force Western chord changes onto it."
         }
       ]
     },
@@ -251,7 +283,13 @@
       "rasa": "bhakti / shringara",
       "mood": "majestic, sublime, uplifting; conveys all nine rasas in skilled hands",
       "time_of_day": "no strong traditional association",
-      "rasa_note": "29th mela; the 'king of ragas'; equivalent to Western major / Bilaval thaat; 'Akshayalinga Vibho' (Dikshitar), 'Swara Raga Sudha Rasa' (Tyagaraja).",
+      "vector": {
+        "valence": 0.79,
+        "arousal": 0.465,
+        "brightness": 0.6,
+        "density": 0.8,
+        "regularity": 1.0
+      },
       "recordings": [
         {
           "id": "chalamela-shankarabharanam-ata-kvn",
@@ -274,14 +312,16 @@
       ],
       "fusion": [
         {
-          "genre": "epic cinematic",
-          "bpm": null,
-          "prompt": "epic cinematic fused with South Indian Carnatic classical melody in raga Dheerasankarabharanam. The lead melody strictly follows raga Dheerasankarabharanam: ascending S R2 G3 M1 P D2 N3 S, descending S N3 D2 P M1 G3 R2 S, with ornamented, gliding gamakam phrasing (meend-style slides between notes). Carry the raga line on continuous-pitch voices — solo voice, Carnatic violin, veena, or bamboo flute — never piano. Underneath, full epic cinematic production: modern drums, bass and texture characteristic of epic cinematic. Tanpura drone and mridangam accents bridge the two worlds. Mood: majestic, sublime, uplifting; conveys all nine rasas in skilled hands. Keep the raga line monophonic and melodic; do not force Western chord changes onto it."
+          "genre": "organic house",
+          "fit": 0.862,
+          "why": "earthy, textural, percussive — a natural Indian-fusion lane",
+          "prompt": "organic house fused with South Indian Carnatic classical melody in raga Dheerasankarabharanam. The lead melody strictly follows raga Dheerasankarabharanam: ascending S R2 G3 M1 P D2 N3 S, descending S N3 D2 P M1 G3 R2 S, with ornamented, gliding gamakam phrasing (meend-style slides between notes). Carry the raga line on continuous-pitch voices — solo voice, Carnatic violin, veena, or bamboo flute — never piano. Underneath, full organic house production: modern drums, bass and texture characteristic of organic house. Tanpura drone and mridangam accents bridge the two worlds. Mood: majestic, sublime, uplifting; conveys all nine rasas in skilled hands. Around 120 BPM. Keep the raga line monophonic and melodic; do not force Western chord changes onto it."
         },
         {
-          "genre": "deep house",
-          "bpm": 122,
-          "prompt": "deep house fused with South Indian Carnatic classical melody in raga Dheerasankarabharanam. The lead melody strictly follows raga Dheerasankarabharanam: ascending S R2 G3 M1 P D2 N3 S, descending S N3 D2 P M1 G3 R2 S, with ornamented, gliding gamakam phrasing (meend-style slides between notes). Carry the raga line on continuous-pitch voices — solo voice, Carnatic violin, veena, or bamboo flute — never piano. Underneath, full deep house production: modern drums, bass and texture characteristic of deep house. Tanpura drone and mridangam accents bridge the two worlds. Mood: majestic, sublime, uplifting; conveys all nine rasas in skilled hands. Around 122 BPM. Keep the raga line monophonic and melodic; do not force Western chord changes onto it."
+          "genre": "funk",
+          "fit": 0.861,
+          "why": "groovy, joyful, syncopated",
+          "prompt": "funk fused with South Indian Carnatic classical melody in raga Dheerasankarabharanam. The lead melody strictly follows raga Dheerasankarabharanam: ascending S R2 G3 M1 P D2 N3 S, descending S N3 D2 P M1 G3 R2 S, with ornamented, gliding gamakam phrasing (meend-style slides between notes). Carry the raga line on continuous-pitch voices — solo voice, Carnatic violin, veena, or bamboo flute — never piano. Underneath, full funk production: modern drums, bass and texture characteristic of funk. Tanpura drone and mridangam accents bridge the two worlds. Mood: majestic, sublime, uplifting; conveys all nine rasas in skilled hands. Around 108 BPM. Keep the raga line monophonic and melodic; do not force Western chord changes onto it."
         }
       ]
     },
@@ -317,7 +357,13 @@
       "rasa": "karuna / bhakti",
       "mood": "deep pathos with profound devotion; heavy and emotionally complex",
       "time_of_day": "no strong traditional association (often rendered as a main raga in concerts)",
-      "rasa_note": "8th mela (Thodi); rakti, sarva-svara-gamaka raga; per Wikipedia, 'Thyagaraja alone has composed about 32 compositions in this raga with each composition starting at every single note of the three octaves'; 'Thaye Yashoda' (Oothukkadu) is iconic.",
+      "vector": {
+        "valence": 0.515,
+        "arousal": 0.4,
+        "brightness": 0.2,
+        "density": 0.8,
+        "regularity": 1.0
+      },
       "recordings": [
         {
           "id": "eranapai-thodi-bs",
@@ -328,14 +374,16 @@
       ],
       "fusion": [
         {
-          "genre": "downtempo trip-hop",
-          "bpm": 90,
-          "prompt": "downtempo trip-hop fused with South Indian Carnatic classical melody in raga Hanumatodi. The lead melody strictly follows raga Hanumatodi: ascending S R1 G2 M1 P D1 N2 S, descending S N2 D1 P M1 G2 R1 S, with ornamented, gliding gamakam phrasing (meend-style slides between notes). Carry the raga line on continuous-pitch voices — solo voice, Carnatic violin, veena, or bamboo flute — never piano. Underneath, full downtempo trip-hop production: modern drums, bass and texture characteristic of downtempo trip-hop. Tanpura drone and mridangam accents bridge the two worlds. Mood: deep pathos with profound devotion; heavy and emotionally complex. Around 90 BPM. Keep the raga line monophonic and melodic; do not force Western chord changes onto it."
+          "genre": "trip-hop",
+          "fit": 0.782,
+          "why": "moody, shadowy, cinematic groove",
+          "prompt": "trip-hop fused with South Indian Carnatic classical melody in raga Hanumatodi. The lead melody strictly follows raga Hanumatodi: ascending S R1 G2 M1 P D1 N2 S, descending S N2 D1 P M1 G2 R1 S, with ornamented, gliding gamakam phrasing (meend-style slides between notes). Carry the raga line on continuous-pitch voices — solo voice, Carnatic violin, veena, or bamboo flute — never piano. Underneath, full trip-hop production: modern drums, bass and texture characteristic of trip-hop. Tanpura drone and mridangam accents bridge the two worlds. Mood: deep pathos with profound devotion; heavy and emotionally complex. Around 88 BPM. Keep the raga line monophonic and melodic; do not force Western chord changes onto it."
         },
         {
-          "genre": "cinematic ambient",
-          "bpm": null,
-          "prompt": "cinematic ambient fused with South Indian Carnatic classical melody in raga Hanumatodi. The lead melody strictly follows raga Hanumatodi: ascending S R1 G2 M1 P D1 N2 S, descending S N2 D1 P M1 G2 R1 S, with ornamented, gliding gamakam phrasing (meend-style slides between notes). Carry the raga line on continuous-pitch voices — solo voice, Carnatic violin, veena, or bamboo flute — never piano. Underneath, full cinematic ambient production: modern drums, bass and texture characteristic of cinematic ambient. Tanpura drone and mridangam accents bridge the two worlds. Mood: deep pathos with profound devotion; heavy and emotionally complex. Keep the raga line monophonic and melodic; do not force Western chord changes onto it."
+          "genre": "organic house",
+          "fit": 0.777,
+          "why": "earthy, textural, percussive — a natural Indian-fusion lane",
+          "prompt": "organic house fused with South Indian Carnatic classical melody in raga Hanumatodi. The lead melody strictly follows raga Hanumatodi: ascending S R1 G2 M1 P D1 N2 S, descending S N2 D1 P M1 G2 R1 S, with ornamented, gliding gamakam phrasing (meend-style slides between notes). Carry the raga line on continuous-pitch voices — solo voice, Carnatic violin, veena, or bamboo flute — never piano. Underneath, full organic house production: modern drums, bass and texture characteristic of organic house. Tanpura drone and mridangam accents bridge the two worlds. Mood: deep pathos with profound devotion; heavy and emotionally complex. Around 120 BPM. Keep the raga line monophonic and melodic; do not force Western chord changes onto it."
         }
       ]
     },
@@ -370,7 +418,13 @@
       "rasa": "bhakti / shringara",
       "mood": "grand, majestic, regal devotion with feminine grace",
       "time_of_day": "evening / first quarter of night (older treatise per Sivatattvaratnakara)",
-      "rasa_note": "Janya of Harikambhoji; one of the 'Big Five' major ragas; Tyagaraja's 'Sri Subrahmanyaya Namaste' (Pancharatna), 'Evari Mata', Dikshitar's 'Sri Subrahmanyaya'.",
+      "vector": {
+        "valence": 0.79,
+        "arousal": 0.465,
+        "brightness": 0.5,
+        "density": 0.65,
+        "regularity": 0.75
+      },
       "recordings": [
         {
           "id": "sarasijanabha-kambodhi-ata-tkr",
@@ -387,13 +441,15 @@
       ],
       "fusion": [
         {
-          "genre": "synthwave",
-          "bpm": 104,
-          "prompt": "synthwave fused with South Indian Carnatic classical melody in raga Kambodhi. The lead melody strictly follows raga Kambodhi: ascending S R2 G3 M1 P D2 S, descending S N2 D2 P M1 G3 R2 S, with ornamented, gliding gamakam phrasing (meend-style slides between notes). Carry the raga line on continuous-pitch voices — solo voice, Carnatic violin, veena, or bamboo flute — never piano. Underneath, full synthwave production: modern drums, bass and texture characteristic of synthwave. Tanpura drone and mridangam accents bridge the two worlds. Mood: grand, majestic, regal devotion with feminine grace. Around 104 BPM. Keep the raga line monophonic and melodic; do not force Western chord changes onto it."
+          "genre": "romantic R&B",
+          "fit": 0.945,
+          "why": "sensual, smooth, intimate",
+          "prompt": "romantic R&B fused with South Indian Carnatic classical melody in raga Kambodhi. The lead melody strictly follows raga Kambodhi: ascending S R2 G3 M1 P D2 S, descending S N2 D2 P M1 G3 R2 S, with ornamented, gliding gamakam phrasing (meend-style slides between notes). Carry the raga line on continuous-pitch voices — solo voice, Carnatic violin, veena, or bamboo flute — never piano. Underneath, full romantic R&B production: modern drums, bass and texture characteristic of romantic R&B. Tanpura drone and mridangam accents bridge the two worlds. Mood: grand, majestic, regal devotion with feminine grace. Around 92 BPM. Keep the raga line monophonic and melodic; do not force Western chord changes onto it."
         },
         {
           "genre": "organic house",
-          "bpm": 120,
+          "fit": 0.921,
+          "why": "earthy, textural, percussive — a natural Indian-fusion lane",
           "prompt": "organic house fused with South Indian Carnatic classical melody in raga Kambodhi. The lead melody strictly follows raga Kambodhi: ascending S R2 G3 M1 P D2 S, descending S N2 D2 P M1 G3 R2 S, with ornamented, gliding gamakam phrasing (meend-style slides between notes). Carry the raga line on continuous-pitch voices — solo voice, Carnatic violin, veena, or bamboo flute — never piano. Underneath, full organic house production: modern drums, bass and texture characteristic of organic house. Tanpura drone and mridangam accents bridge the two worlds. Mood: grand, majestic, regal devotion with feminine grace. Around 120 BPM. Keep the raga line monophonic and melodic; do not force Western chord changes onto it."
         }
       ]
@@ -429,7 +485,13 @@
       "rasa": "karuna / bhakti",
       "mood": "grave, emotional, weighty; compassion from overflowing love",
       "time_of_day": "no strong traditional association",
-      "rasa_note": "Janya of Kharaharapriya; tri-sthayi raga with gravitas; Tyagaraja's 'Sukhi Yevvaro', 'Sri Narada'; Oothukkadu's 'Alaipayudhe Kanna'.",
+      "vector": {
+        "valence": 0.515,
+        "arousal": 0.4,
+        "brightness": 0.35,
+        "density": 0.5,
+        "regularity": 0.5
+      },
       "recordings": [
         {
           "id": "neranammithi-kanada-ata-kvn",
@@ -446,14 +508,16 @@
       ],
       "fusion": [
         {
-          "genre": "melodic dubstep",
-          "bpm": 140,
-          "prompt": "melodic dubstep fused with South Indian Carnatic classical melody in raga Kanada. The lead melody strictly follows raga Kanada: ascending S R2 G2 M1 D2 N2 S, descending S N2 P M1 G2 M1 R2 S, with ornamented, gliding gamakam phrasing (meend-style slides between notes). Carry the raga line on continuous-pitch voices — solo voice, Carnatic violin, veena, or bamboo flute — never piano. Underneath, full melodic dubstep production: modern drums, bass and texture characteristic of melodic dubstep. Tanpura drone and mridangam accents bridge the two worlds. Mood: grave, emotional, weighty; compassion from overflowing love. Around 140 BPM. Keep the raga line monophonic and melodic; do not force Western chord changes onto it. Honour the raga's vakra (zig-zag) phrasing — the note order is deliberately crooked, not a straight scale. It is a bhashanga raga — a foreign note appears as brief colour; keep it a passing touch, never a resting note."
+          "genre": "emotional piano-electronic",
+          "fit": 0.904,
+          "why": "tender, sorrowful, plaintive",
+          "prompt": "emotional piano-electronic fused with South Indian Carnatic classical melody in raga Kanada. The lead melody strictly follows raga Kanada: ascending S R2 G2 M1 D2 N2 S, descending S N2 P M1 G2 M1 R2 S, with ornamented, gliding gamakam phrasing (meend-style slides between notes). Carry the raga line on continuous-pitch voices — solo voice, Carnatic violin, veena, or bamboo flute — never piano. Underneath, full emotional piano-electronic production: modern drums, bass and texture characteristic of emotional piano-electronic. Tanpura drone and mridangam accents bridge the two worlds. Mood: grave, emotional, weighty; compassion from overflowing love. Keep the raga line monophonic and melodic; do not force Western chord changes onto it. Honour the raga's vakra (zig-zag) phrasing — the note order is deliberately crooked, not a straight scale. It is a bhashanga raga — a foreign note appears as brief colour; keep it a passing touch, never a resting note."
         },
         {
-          "genre": "downtempo",
-          "bpm": 92,
-          "prompt": "downtempo fused with South Indian Carnatic classical melody in raga Kanada. The lead melody strictly follows raga Kanada: ascending S R2 G2 M1 D2 N2 S, descending S N2 P M1 G2 M1 R2 S, with ornamented, gliding gamakam phrasing (meend-style slides between notes). Carry the raga line on continuous-pitch voices — solo voice, Carnatic violin, veena, or bamboo flute — never piano. Underneath, full downtempo production: modern drums, bass and texture characteristic of downtempo. Tanpura drone and mridangam accents bridge the two worlds. Mood: grave, emotional, weighty; compassion from overflowing love. Around 92 BPM. Keep the raga line monophonic and melodic; do not force Western chord changes onto it. Honour the raga's vakra (zig-zag) phrasing — the note order is deliberately crooked, not a straight scale. It is a bhashanga raga — a foreign note appears as brief colour; keep it a passing touch, never a resting note."
+          "genre": "trip-hop",
+          "fit": 0.903,
+          "why": "moody, shadowy, cinematic groove",
+          "prompt": "trip-hop fused with South Indian Carnatic classical melody in raga Kanada. The lead melody strictly follows raga Kanada: ascending S R2 G2 M1 D2 N2 S, descending S N2 P M1 G2 M1 R2 S, with ornamented, gliding gamakam phrasing (meend-style slides between notes). Carry the raga line on continuous-pitch voices — solo voice, Carnatic violin, veena, or bamboo flute — never piano. Underneath, full trip-hop production: modern drums, bass and texture characteristic of trip-hop. Tanpura drone and mridangam accents bridge the two worlds. Mood: grave, emotional, weighty; compassion from overflowing love. Around 88 BPM. Keep the raga line monophonic and melodic; do not force Western chord changes onto it. Honour the raga's vakra (zig-zag) phrasing — the note order is deliberately crooked, not a straight scale. It is a bhashanga raga — a foreign note appears as brief colour; keep it a passing touch, never a resting note."
         }
       ]
     }

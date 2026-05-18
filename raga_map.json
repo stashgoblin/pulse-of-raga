@@ -1,0 +1,1288 @@
+{
+  "_meta": {
+    "count": 98,
+    "axes": [
+      "valence",
+      "arousal",
+      "brightness",
+      "density",
+      "regularity"
+    ]
+  },
+  "ragas": [
+    {
+      "name": "Kanakangi",
+      "display": "Kanakangi",
+      "type": "melakarta",
+      "hero": false,
+      "vector": {
+        "valence": 0.5,
+        "arousal": 0.5,
+        "brightness": 0.0,
+        "density": 0.8,
+        "regularity": 1.0
+      }
+    },
+    {
+      "name": "Ratnangi",
+      "display": "Ratnangi",
+      "type": "melakarta",
+      "hero": false,
+      "vector": {
+        "valence": 0.5,
+        "arousal": 0.5,
+        "brightness": 0.1,
+        "density": 0.8,
+        "regularity": 1.0
+      }
+    },
+    {
+      "name": "Ganamurti",
+      "display": "Ganamurti",
+      "type": "melakarta",
+      "hero": false,
+      "vector": {
+        "valence": 0.5,
+        "arousal": 0.5,
+        "brightness": 0.2,
+        "density": 0.8,
+        "regularity": 1.0
+      }
+    },
+    {
+      "name": "Vanaspati",
+      "display": "Vanaspati",
+      "type": "melakarta",
+      "hero": false,
+      "vector": {
+        "valence": 0.5,
+        "arousal": 0.5,
+        "brightness": 0.2,
+        "density": 0.8,
+        "regularity": 1.0
+      }
+    },
+    {
+      "name": "Manavati",
+      "display": "Manavati",
+      "type": "melakarta",
+      "hero": false,
+      "vector": {
+        "valence": 0.5,
+        "arousal": 0.5,
+        "brightness": 0.3,
+        "density": 0.8,
+        "regularity": 1.0
+      }
+    },
+    {
+      "name": "Tanarupi",
+      "display": "Tanarupi",
+      "type": "melakarta",
+      "hero": false,
+      "vector": {
+        "valence": 0.5,
+        "arousal": 0.5,
+        "brightness": 0.4,
+        "density": 0.8,
+        "regularity": 1.0
+      }
+    },
+    {
+      "name": "Senavati",
+      "display": "Senavati",
+      "type": "melakarta",
+      "hero": false,
+      "vector": {
+        "valence": 0.5,
+        "arousal": 0.5,
+        "brightness": 0.1,
+        "density": 0.8,
+        "regularity": 1.0
+      }
+    },
+    {
+      "name": "Hanumatodi",
+      "display": "Thodi",
+      "type": "melakarta",
+      "hero": true,
+      "vector": {
+        "valence": 0.515,
+        "arousal": 0.4,
+        "brightness": 0.2,
+        "density": 0.8,
+        "regularity": 1.0
+      }
+    },
+    {
+      "name": "Dhenuka",
+      "display": "Dhenuka",
+      "type": "melakarta",
+      "hero": false,
+      "vector": {
+        "valence": 0.5,
+        "arousal": 0.5,
+        "brightness": 0.3,
+        "density": 0.8,
+        "regularity": 1.0
+      }
+    },
+    {
+      "name": "Natakapriya",
+      "display": "Natakapriya",
+      "type": "melakarta",
+      "hero": false,
+      "vector": {
+        "valence": 0.5,
+        "arousal": 0.5,
+        "brightness": 0.3,
+        "density": 0.8,
+        "regularity": 1.0
+      }
+    },
+    {
+      "name": "Kokilapriya",
+      "display": "Kokilapriya",
+      "type": "melakarta",
+      "hero": false,
+      "vector": {
+        "valence": 0.5,
+        "arousal": 0.5,
+        "brightness": 0.4,
+        "density": 0.8,
+        "regularity": 1.0
+      }
+    },
+    {
+      "name": "Rupavati",
+      "display": "Rupavati",
+      "type": "melakarta",
+      "hero": false,
+      "vector": {
+        "valence": 0.5,
+        "arousal": 0.5,
+        "brightness": 0.5,
+        "density": 0.8,
+        "regularity": 1.0
+      }
+    },
+    {
+      "name": "Gayakapriya",
+      "display": "Gayakapriya",
+      "type": "melakarta",
+      "hero": false,
+      "vector": {
+        "valence": 0.5,
+        "arousal": 0.5,
+        "brightness": 0.2,
+        "density": 0.8,
+        "regularity": 1.0
+      }
+    },
+    {
+      "name": "Vakulabharanam",
+      "display": "Vakulabharanam",
+      "type": "melakarta",
+      "hero": false,
+      "vector": {
+        "valence": 0.78,
+        "arousal": 0.38,
+        "brightness": 0.3,
+        "density": 0.8,
+        "regularity": 1.0
+      }
+    },
+    {
+      "name": "Mayamalavagowla",
+      "display": "Mayamalavagowla",
+      "type": "melakarta",
+      "hero": false,
+      "vector": {
+        "valence": 0.7,
+        "arousal": 0.265,
+        "brightness": 0.4,
+        "density": 0.8,
+        "regularity": 1.0
+      }
+    },
+    {
+      "name": "Chakravakam",
+      "display": "Chakravakam",
+      "type": "melakarta",
+      "hero": false,
+      "vector": {
+        "valence": 0.515,
+        "arousal": 0.4,
+        "brightness": 0.4,
+        "density": 0.8,
+        "regularity": 1.0
+      }
+    },
+    {
+      "name": "Suryakantam",
+      "display": "Suryakantam",
+      "type": "melakarta",
+      "hero": false,
+      "vector": {
+        "valence": 0.5,
+        "arousal": 0.5,
+        "brightness": 0.5,
+        "density": 0.8,
+        "regularity": 1.0
+      }
+    },
+    {
+      "name": "Hatakambari",
+      "display": "Hatakambari",
+      "type": "melakarta",
+      "hero": false,
+      "vector": {
+        "valence": 0.5,
+        "arousal": 0.5,
+        "brightness": 0.6,
+        "density": 0.8,
+        "regularity": 1.0
+      }
+    },
+    {
+      "name": "Jhankaradhwani",
+      "display": "Jhankaradhwani",
+      "type": "melakarta",
+      "hero": false,
+      "vector": {
+        "valence": 0.5,
+        "arousal": 0.5,
+        "brightness": 0.2,
+        "density": 0.8,
+        "regularity": 1.0
+      }
+    },
+    {
+      "name": "Natabhairavi",
+      "display": "Natabhairavi",
+      "type": "melakarta",
+      "hero": false,
+      "vector": {
+        "valence": 0.515,
+        "arousal": 0.4,
+        "brightness": 0.3,
+        "density": 0.8,
+        "regularity": 1.0
+      }
+    },
+    {
+      "name": "Keeravani",
+      "display": "Keeravani",
+      "type": "melakarta",
+      "hero": false,
+      "vector": {
+        "valence": 0.515,
+        "arousal": 0.4,
+        "brightness": 0.4,
+        "density": 0.8,
+        "regularity": 1.0
+      }
+    },
+    {
+      "name": "Kharaharapriya",
+      "display": "Kharaharapriya",
+      "type": "melakarta",
+      "hero": false,
+      "vector": {
+        "valence": 0.515,
+        "arousal": 0.4,
+        "brightness": 0.4,
+        "density": 0.8,
+        "regularity": 1.0
+      }
+    },
+    {
+      "name": "Gourimanohari",
+      "display": "Gourimanohari",
+      "type": "melakarta",
+      "hero": false,
+      "vector": {
+        "valence": 0.79,
+        "arousal": 0.465,
+        "brightness": 0.5,
+        "density": 0.8,
+        "regularity": 1.0
+      }
+    },
+    {
+      "name": "Varunapriya",
+      "display": "Varunapriya",
+      "type": "melakarta",
+      "hero": false,
+      "vector": {
+        "valence": 0.5,
+        "arousal": 0.5,
+        "brightness": 0.6,
+        "density": 0.8,
+        "regularity": 1.0
+      }
+    },
+    {
+      "name": "Mararanjani",
+      "display": "Mararanjani",
+      "type": "melakarta",
+      "hero": false,
+      "vector": {
+        "valence": 0.5,
+        "arousal": 0.5,
+        "brightness": 0.3,
+        "density": 0.8,
+        "regularity": 1.0
+      }
+    },
+    {
+      "name": "Charukesi",
+      "display": "Charukesi",
+      "type": "melakarta",
+      "hero": false,
+      "vector": {
+        "valence": 0.515,
+        "arousal": 0.4,
+        "brightness": 0.4,
+        "density": 0.8,
+        "regularity": 1.0
+      }
+    },
+    {
+      "name": "Sarasangi",
+      "display": "Sarasangi",
+      "type": "melakarta",
+      "hero": false,
+      "vector": {
+        "valence": 0.16,
+        "arousal": 0.85,
+        "brightness": 0.5,
+        "density": 0.8,
+        "regularity": 1.0
+      }
+    },
+    {
+      "name": "Harikambhoji",
+      "display": "Harikambhoji",
+      "type": "melakarta",
+      "hero": false,
+      "vector": {
+        "valence": 0.7,
+        "arousal": 0.265,
+        "brightness": 0.5,
+        "density": 0.8,
+        "regularity": 1.0
+      }
+    },
+    {
+      "name": "Dheerasankarabharanam",
+      "display": "Shankarabharanam",
+      "type": "melakarta",
+      "hero": true,
+      "vector": {
+        "valence": 0.79,
+        "arousal": 0.465,
+        "brightness": 0.6,
+        "density": 0.8,
+        "regularity": 1.0
+      }
+    },
+    {
+      "name": "Naganandini",
+      "display": "Naganandini",
+      "type": "melakarta",
+      "hero": false,
+      "vector": {
+        "valence": 0.5,
+        "arousal": 0.5,
+        "brightness": 0.7,
+        "density": 0.8,
+        "regularity": 1.0
+      }
+    },
+    {
+      "name": "Yagapriya",
+      "display": "Yagapriya",
+      "type": "melakarta",
+      "hero": false,
+      "vector": {
+        "valence": 0.5,
+        "arousal": 0.5,
+        "brightness": 0.4,
+        "density": 0.8,
+        "regularity": 1.0
+      }
+    },
+    {
+      "name": "Ragavardhini",
+      "display": "Ragavardhini",
+      "type": "melakarta",
+      "hero": false,
+      "vector": {
+        "valence": 0.5,
+        "arousal": 0.5,
+        "brightness": 0.5,
+        "density": 0.8,
+        "regularity": 1.0
+      }
+    },
+    {
+      "name": "Gangeyabhushani",
+      "display": "Gangeyabhushani",
+      "type": "melakarta",
+      "hero": false,
+      "vector": {
+        "valence": 0.5,
+        "arousal": 0.5,
+        "brightness": 0.6,
+        "density": 0.8,
+        "regularity": 1.0
+      }
+    },
+    {
+      "name": "Vagadheeswari",
+      "display": "Vagadheeswari",
+      "type": "melakarta",
+      "hero": false,
+      "vector": {
+        "valence": 0.78,
+        "arousal": 0.38,
+        "brightness": 0.6,
+        "density": 0.8,
+        "regularity": 1.0
+      }
+    },
+    {
+      "name": "Shulini",
+      "display": "Shulini",
+      "type": "melakarta",
+      "hero": false,
+      "vector": {
+        "valence": 0.5,
+        "arousal": 0.5,
+        "brightness": 0.7,
+        "density": 0.8,
+        "regularity": 1.0
+      }
+    },
+    {
+      "name": "Chalanata",
+      "display": "Chalanata",
+      "type": "melakarta",
+      "hero": false,
+      "vector": {
+        "valence": 0.49,
+        "arousal": 0.925,
+        "brightness": 0.8,
+        "density": 0.8,
+        "regularity": 1.0
+      }
+    },
+    {
+      "name": "Salagam",
+      "display": "Salagam",
+      "type": "melakarta",
+      "hero": false,
+      "vector": {
+        "valence": 0.5,
+        "arousal": 0.5,
+        "brightness": 0.2,
+        "density": 0.8,
+        "regularity": 1.0
+      }
+    },
+    {
+      "name": "Jalarnavam",
+      "display": "Jalarnavam",
+      "type": "melakarta",
+      "hero": false,
+      "vector": {
+        "valence": 0.5,
+        "arousal": 0.5,
+        "brightness": 0.3,
+        "density": 0.8,
+        "regularity": 1.0
+      }
+    },
+    {
+      "name": "Jhalavarali",
+      "display": "Jhalavarali",
+      "type": "melakarta",
+      "hero": false,
+      "vector": {
+        "valence": 0.5,
+        "arousal": 0.5,
+        "brightness": 0.4,
+        "density": 0.8,
+        "regularity": 1.0
+      }
+    },
+    {
+      "name": "Navaneetam",
+      "display": "Navaneetam",
+      "type": "melakarta",
+      "hero": false,
+      "vector": {
+        "valence": 0.5,
+        "arousal": 0.5,
+        "brightness": 0.4,
+        "density": 0.8,
+        "regularity": 1.0
+      }
+    },
+    {
+      "name": "Pavani",
+      "display": "Pavani",
+      "type": "melakarta",
+      "hero": false,
+      "vector": {
+        "valence": 0.5,
+        "arousal": 0.5,
+        "brightness": 0.5,
+        "density": 0.8,
+        "regularity": 1.0
+      }
+    },
+    {
+      "name": "Raghupriya",
+      "display": "Raghupriya",
+      "type": "melakarta",
+      "hero": false,
+      "vector": {
+        "valence": 0.5,
+        "arousal": 0.5,
+        "brightness": 0.6,
+        "density": 0.8,
+        "regularity": 1.0
+      }
+    },
+    {
+      "name": "Gavambhodi",
+      "display": "Gavambhodi",
+      "type": "melakarta",
+      "hero": false,
+      "vector": {
+        "valence": 0.5,
+        "arousal": 0.5,
+        "brightness": 0.3,
+        "density": 0.8,
+        "regularity": 1.0
+      }
+    },
+    {
+      "name": "Bhavapriya",
+      "display": "Bhavapriya",
+      "type": "melakarta",
+      "hero": false,
+      "vector": {
+        "valence": 0.5,
+        "arousal": 0.5,
+        "brightness": 0.4,
+        "density": 0.8,
+        "regularity": 1.0
+      }
+    },
+    {
+      "name": "Shubhapantuvarali",
+      "display": "Shubhapantuvarali",
+      "type": "melakarta",
+      "hero": false,
+      "vector": {
+        "valence": 0.25,
+        "arousal": 0.42,
+        "brightness": 0.5,
+        "density": 0.8,
+        "regularity": 1.0
+      }
+    },
+    {
+      "name": "Shadvidhamargini",
+      "display": "Shadvidhamargini",
+      "type": "melakarta",
+      "hero": false,
+      "vector": {
+        "valence": 0.5,
+        "arousal": 0.5,
+        "brightness": 0.5,
+        "density": 0.8,
+        "regularity": 1.0
+      }
+    },
+    {
+      "name": "Suvarnangi",
+      "display": "Suvarnangi",
+      "type": "melakarta",
+      "hero": false,
+      "vector": {
+        "valence": 0.5,
+        "arousal": 0.5,
+        "brightness": 0.6,
+        "density": 0.8,
+        "regularity": 1.0
+      }
+    },
+    {
+      "name": "Divyamani",
+      "display": "Divyamani",
+      "type": "melakarta",
+      "hero": false,
+      "vector": {
+        "valence": 0.5,
+        "arousal": 0.5,
+        "brightness": 0.7,
+        "density": 0.8,
+        "regularity": 1.0
+      }
+    },
+    {
+      "name": "Dhavalambari",
+      "display": "Dhavalambari",
+      "type": "melakarta",
+      "hero": false,
+      "vector": {
+        "valence": 0.5,
+        "arousal": 0.5,
+        "brightness": 0.4,
+        "density": 0.8,
+        "regularity": 1.0
+      }
+    },
+    {
+      "name": "Namanarayani",
+      "display": "Namanarayani",
+      "type": "melakarta",
+      "hero": false,
+      "vector": {
+        "valence": 0.5,
+        "arousal": 0.5,
+        "brightness": 0.5,
+        "density": 0.8,
+        "regularity": 1.0
+      }
+    },
+    {
+      "name": "Kamavardhini",
+      "display": "Pantuvarali",
+      "type": "melakarta",
+      "hero": false,
+      "vector": {
+        "valence": 0.515,
+        "arousal": 0.4,
+        "brightness": 0.6,
+        "density": 0.8,
+        "regularity": 1.0
+      }
+    },
+    {
+      "name": "Ramapriya",
+      "display": "Ramapriya",
+      "type": "melakarta",
+      "hero": false,
+      "vector": {
+        "valence": 0.78,
+        "arousal": 0.38,
+        "brightness": 0.6,
+        "density": 0.8,
+        "regularity": 1.0
+      }
+    },
+    {
+      "name": "Gamanashrama",
+      "display": "Gamanashrama",
+      "type": "melakarta",
+      "hero": false,
+      "vector": {
+        "valence": 0.79,
+        "arousal": 0.465,
+        "brightness": 0.7,
+        "density": 0.8,
+        "regularity": 1.0
+      }
+    },
+    {
+      "name": "Vishwambhari",
+      "display": "Vishwambhari",
+      "type": "melakarta",
+      "hero": false,
+      "vector": {
+        "valence": 0.5,
+        "arousal": 0.5,
+        "brightness": 0.8,
+        "density": 0.8,
+        "regularity": 1.0
+      }
+    },
+    {
+      "name": "Shamalangi",
+      "display": "Shamalangi",
+      "type": "melakarta",
+      "hero": false,
+      "vector": {
+        "valence": 0.5,
+        "arousal": 0.5,
+        "brightness": 0.4,
+        "density": 0.8,
+        "regularity": 1.0
+      }
+    },
+    {
+      "name": "Shanmukhapriya",
+      "display": "Shanmukhapriya",
+      "type": "melakarta",
+      "hero": false,
+      "vector": {
+        "valence": 0.515,
+        "arousal": 0.4,
+        "brightness": 0.5,
+        "density": 0.8,
+        "regularity": 1.0
+      }
+    },
+    {
+      "name": "Simhendramadhyamam",
+      "display": "Simhendramadhyamam",
+      "type": "melakarta",
+      "hero": false,
+      "vector": {
+        "valence": 0.515,
+        "arousal": 0.4,
+        "brightness": 0.6,
+        "density": 0.8,
+        "regularity": 1.0
+      }
+    },
+    {
+      "name": "Hemavati",
+      "display": "Hemavati",
+      "type": "melakarta",
+      "hero": false,
+      "vector": {
+        "valence": 0.515,
+        "arousal": 0.4,
+        "brightness": 0.6,
+        "density": 0.8,
+        "regularity": 1.0
+      }
+    },
+    {
+      "name": "Dharmavati",
+      "display": "Dharmavati",
+      "type": "melakarta",
+      "hero": false,
+      "vector": {
+        "valence": 0.79,
+        "arousal": 0.465,
+        "brightness": 0.7,
+        "density": 0.8,
+        "regularity": 1.0
+      }
+    },
+    {
+      "name": "Neetimati",
+      "display": "Neetimati",
+      "type": "melakarta",
+      "hero": false,
+      "vector": {
+        "valence": 0.5,
+        "arousal": 0.5,
+        "brightness": 0.8,
+        "density": 0.8,
+        "regularity": 1.0
+      }
+    },
+    {
+      "name": "Kantamani",
+      "display": "Kantamani",
+      "type": "melakarta",
+      "hero": false,
+      "vector": {
+        "valence": 0.5,
+        "arousal": 0.5,
+        "brightness": 0.5,
+        "density": 0.8,
+        "regularity": 1.0
+      }
+    },
+    {
+      "name": "Rishabhapriya",
+      "display": "Rishabhapriya",
+      "type": "melakarta",
+      "hero": false,
+      "vector": {
+        "valence": 0.22,
+        "arousal": 0.5,
+        "brightness": 0.6,
+        "density": 0.8,
+        "regularity": 1.0
+      }
+    },
+    {
+      "name": "Latangi",
+      "display": "Latangi",
+      "type": "melakarta",
+      "hero": false,
+      "vector": {
+        "valence": 0.79,
+        "arousal": 0.465,
+        "brightness": 0.7,
+        "density": 0.8,
+        "regularity": 1.0
+      }
+    },
+    {
+      "name": "Vachaspati",
+      "display": "Vachaspati",
+      "type": "melakarta",
+      "hero": false,
+      "vector": {
+        "valence": 0.8,
+        "arousal": 0.55,
+        "brightness": 0.7,
+        "density": 0.8,
+        "regularity": 1.0
+      }
+    },
+    {
+      "name": "Mechakalyani",
+      "display": "Kalyani",
+      "type": "melakarta",
+      "hero": true,
+      "vector": {
+        "valence": 0.79,
+        "arousal": 0.465,
+        "brightness": 0.8,
+        "density": 0.8,
+        "regularity": 1.0
+      }
+    },
+    {
+      "name": "Chitrambari",
+      "display": "Chitrambari",
+      "type": "melakarta",
+      "hero": false,
+      "vector": {
+        "valence": 0.5,
+        "arousal": 0.5,
+        "brightness": 0.9,
+        "density": 0.8,
+        "regularity": 1.0
+      }
+    },
+    {
+      "name": "Sucharitra",
+      "display": "Sucharitra",
+      "type": "melakarta",
+      "hero": false,
+      "vector": {
+        "valence": 0.5,
+        "arousal": 0.5,
+        "brightness": 0.6,
+        "density": 0.8,
+        "regularity": 1.0
+      }
+    },
+    {
+      "name": "Jyotiswarupini",
+      "display": "Jyotiswarupini",
+      "type": "melakarta",
+      "hero": false,
+      "vector": {
+        "valence": 0.5,
+        "arousal": 0.5,
+        "brightness": 0.7,
+        "density": 0.8,
+        "regularity": 1.0
+      }
+    },
+    {
+      "name": "Dhatuvardhini",
+      "display": "Dhatuvardhini",
+      "type": "melakarta",
+      "hero": false,
+      "vector": {
+        "valence": 0.5,
+        "arousal": 0.5,
+        "brightness": 0.8,
+        "density": 0.8,
+        "regularity": 1.0
+      }
+    },
+    {
+      "name": "Nasikabhushani",
+      "display": "Nasikabhushani",
+      "type": "melakarta",
+      "hero": false,
+      "vector": {
+        "valence": 0.78,
+        "arousal": 0.38,
+        "brightness": 0.8,
+        "density": 0.8,
+        "regularity": 1.0
+      }
+    },
+    {
+      "name": "Kosalam",
+      "display": "Kosalam",
+      "type": "melakarta",
+      "hero": false,
+      "vector": {
+        "valence": 0.5,
+        "arousal": 0.5,
+        "brightness": 0.9,
+        "density": 0.8,
+        "regularity": 1.0
+      }
+    },
+    {
+      "name": "Rasikapriya",
+      "display": "Rasikapriya",
+      "type": "melakarta",
+      "hero": false,
+      "vector": {
+        "valence": 0.5,
+        "arousal": 0.5,
+        "brightness": 1.0,
+        "density": 0.8,
+        "regularity": 1.0
+      }
+    },
+    {
+      "name": "Mohanam",
+      "display": "Mohanam",
+      "type": "janya",
+      "hero": true,
+      "vector": {
+        "valence": 0.79,
+        "arousal": 0.725,
+        "brightness": 0.667,
+        "density": 0.2,
+        "regularity": 1.0
+      }
+    },
+    {
+      "name": "Hamsadhwani",
+      "display": "Hamsadhwani",
+      "type": "janya",
+      "hero": true,
+      "vector": {
+        "valence": 0.84,
+        "arousal": 0.8,
+        "brightness": 0.833,
+        "density": 0.2,
+        "regularity": 1.0
+      }
+    },
+    {
+      "name": "Hindolam",
+      "display": "Hindolam",
+      "type": "janya",
+      "hero": false,
+      "vector": {
+        "valence": 0.435,
+        "arousal": 0.285,
+        "brightness": 0.25,
+        "density": 0.2,
+        "regularity": 1.0
+      }
+    },
+    {
+      "name": "Madhyamavati",
+      "display": "Madhyamavati",
+      "type": "janya",
+      "hero": false,
+      "vector": {
+        "valence": 0.7,
+        "arousal": 0.265,
+        "brightness": 0.333,
+        "density": 0.2,
+        "regularity": 1.0
+      }
+    },
+    {
+      "name": "Abhogi",
+      "display": "Abhogi",
+      "type": "janya",
+      "hero": false,
+      "vector": {
+        "valence": 0.7,
+        "arousal": 0.265,
+        "brightness": 0.375,
+        "density": 0.2,
+        "regularity": 1.0
+      }
+    },
+    {
+      "name": "Shuddha Saveri",
+      "display": "Shuddha Saveri",
+      "type": "janya",
+      "hero": false,
+      "vector": {
+        "valence": 0.91,
+        "arousal": 0.625,
+        "brightness": 0.333,
+        "density": 0.2,
+        "regularity": 1.0
+      }
+    },
+    {
+      "name": "Malahari",
+      "display": "Malahari",
+      "type": "janya",
+      "hero": false,
+      "vector": {
+        "valence": 0.7,
+        "arousal": 0.265,
+        "brightness": 0.143,
+        "density": 0.35,
+        "regularity": 0.75
+      }
+    },
+    {
+      "name": "Arabhi",
+      "display": "Arabhi",
+      "type": "janya",
+      "hero": false,
+      "vector": {
+        "valence": 0.78,
+        "arousal": 0.9,
+        "brightness": 0.5,
+        "density": 0.5,
+        "regularity": 0.75
+      }
+    },
+    {
+      "name": "Bilahari",
+      "display": "Bilahari",
+      "type": "janya",
+      "hero": false,
+      "vector": {
+        "valence": 0.84,
+        "arousal": 0.8,
+        "brightness": 0.625,
+        "density": 0.5,
+        "regularity": 0.75
+      }
+    },
+    {
+      "name": "Saveri",
+      "display": "Saveri",
+      "type": "janya",
+      "hero": false,
+      "vector": {
+        "valence": 0.25,
+        "arousal": 0.42,
+        "brightness": 0.25,
+        "density": 0.5,
+        "regularity": 0.75
+      }
+    },
+    {
+      "name": "Kambodhi",
+      "display": "Kambodhi",
+      "type": "janya",
+      "hero": true,
+      "vector": {
+        "valence": 0.79,
+        "arousal": 0.465,
+        "brightness": 0.5,
+        "density": 0.65,
+        "regularity": 0.75
+      }
+    },
+    {
+      "name": "Dhanyasi",
+      "display": "Dhanyasi",
+      "type": "janya",
+      "hero": false,
+      "vector": {
+        "valence": 0.515,
+        "arousal": 0.4,
+        "brightness": 0.25,
+        "density": 0.5,
+        "regularity": 0.75
+      }
+    },
+    {
+      "name": "Durbar",
+      "display": "Durbar",
+      "type": "janya",
+      "hero": false,
+      "vector": {
+        "valence": 0.7,
+        "arousal": 0.525,
+        "brightness": 0.409,
+        "density": 0.65,
+        "regularity": 0.25
+      }
+    },
+    {
+      "name": "Surutti",
+      "display": "Surutti",
+      "type": "janya",
+      "hero": false,
+      "vector": {
+        "valence": 0.71,
+        "arousal": 0.35,
+        "brightness": 0.409,
+        "density": 0.65,
+        "regularity": 0.25
+      }
+    },
+    {
+      "name": "Begada",
+      "display": "Begada",
+      "type": "janya",
+      "hero": false,
+      "vector": {
+        "valence": 0.7,
+        "arousal": 0.525,
+        "brightness": 0.6,
+        "density": 0.65,
+        "regularity": 0.25
+      }
+    },
+    {
+      "name": "Saaranga",
+      "display": "Saaranga",
+      "type": "janya",
+      "hero": false,
+      "vector": {
+        "valence": 0.8,
+        "arousal": 0.605,
+        "brightness": 0.708,
+        "density": 0.95,
+        "regularity": 0.25
+      }
+    },
+    {
+      "name": "Sahana",
+      "display": "Sahana",
+      "type": "janya",
+      "hero": false,
+      "vector": {
+        "valence": 0.515,
+        "arousal": 0.4,
+        "brightness": 0.464,
+        "density": 0.8,
+        "regularity": 0.5
+      }
+    },
+    {
+      "name": "Kanada",
+      "display": "Kanada",
+      "type": "janya",
+      "hero": true,
+      "vector": {
+        "valence": 0.515,
+        "arousal": 0.4,
+        "brightness": 0.35,
+        "density": 0.5,
+        "regularity": 0.5
+      }
+    },
+    {
+      "name": "Vasanta",
+      "display": "Vasanta",
+      "type": "janya",
+      "hero": false,
+      "vector": {
+        "valence": 0.8,
+        "arousal": 0.605,
+        "brightness": 0.5,
+        "density": 0.35,
+        "regularity": 0.25
+      }
+    },
+    {
+      "name": "Nalinakanthi",
+      "display": "Nalinakanthi",
+      "type": "janya",
+      "hero": false,
+      "vector": {
+        "valence": 0.8,
+        "arousal": 0.55,
+        "brightness": 0.625,
+        "density": 0.5,
+        "regularity": 0.5
+      }
+    },
+    {
+      "name": "Kedaragowla",
+      "display": "Kedaragowla",
+      "type": "janya",
+      "hero": false,
+      "vector": {
+        "valence": 0.71,
+        "arousal": 0.35,
+        "brightness": 0.438,
+        "density": 0.5,
+        "regularity": 0.75
+      }
+    },
+    {
+      "name": "Sri Ragam",
+      "display": "Sree",
+      "type": "janya",
+      "hero": false,
+      "vector": {
+        "valence": 0.7,
+        "arousal": 0.265,
+        "brightness": 0.4,
+        "density": 0.5,
+        "regularity": 0.25
+      }
+    },
+    {
+      "name": "Reethigowla",
+      "display": "Reethigowla",
+      "type": "janya",
+      "hero": false,
+      "vector": {
+        "valence": 0.79,
+        "arousal": 0.465,
+        "brightness": 0.353,
+        "density": 0.65,
+        "regularity": 0.25
+      }
+    },
+    {
+      "name": "Bhairavi",
+      "display": "Bhairavi",
+      "type": "janya",
+      "hero": true,
+      "vector": {
+        "valence": 0.515,
+        "arousal": 0.4,
+        "brightness": 0.35,
+        "density": 0.8,
+        "regularity": 1.0
+      }
+    },
+    {
+      "name": "Khamas",
+      "display": "Khamas",
+      "type": "janya",
+      "hero": false,
+      "vector": {
+        "valence": 0.79,
+        "arousal": 0.465,
+        "brightness": 0.45,
+        "density": 0.65,
+        "regularity": 0.25
+      }
+    },
+    {
+      "name": "Navaragamalika",
+      "display": "Navaragamalika",
+      "type": "janya",
+      "hero": false,
+      "vector": {
+        "valence": 0.5,
+        "arousal": 0.5,
+        "brightness": 0.5,
+        "density": 0.5,
+        "regularity": 1.0
+      }
+    }
+  ]
+}
