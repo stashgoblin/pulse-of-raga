@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <title>Raga Archive · Pulse Of Raga</title>
+  <meta name="theme-color" content="#140d1a" />
+  <link rel="manifest" href="manifest.webmanifest" />
+  <link rel="icon" href="icon.svg" type="image/svg+xml" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header class="hero">
+    <h1>Raga Archive</h1>
+    <p>1,387 recordings from the shivkumar.org archive — listen, and ♥ the ones to keep</p>
+    <a class="back-link" href="index.html">← back to Pulse Of Raga</a>
+  </header>
+
+  <div class="arch-controls">
+    <input id="q" type="search" placeholder="search title, raga, composer…" />
+    <div class="arch-row2">
+      <select id="kind">
+        <option value="">All types</option>
+        <option value="kriti">Kritis</option>
+        <option value="manodharma">Manodharma</option>
+      </select>
+      <label class="liked-toggle"><input type="checkbox" id="likedonly" /> ♥ liked only</label>
+      <button id="export" class="copy">Export ♥</button>
+    </div>
+    <div id="count" class="arch-count"></div>
+  </div>
+
+  <div class="player-bar">
+    <audio id="player" controls preload="none"></audio>
+    <div id="nowplaying" class="nowplaying">tap ▶ on any row to play</div>
+  </div>
+
+  <div id="rows" class="arch-rows" aria-label="Archive recordings"></div>
+  <footer class="foot">Audio streamed from the shivkumar.org Carnatic archive · likes saved in this browser</footer>
+
+  <script src="archive.js"></script>
+</body>
+</html>

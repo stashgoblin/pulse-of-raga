@@ -1,6 +1,6 @@
 /* Pulse Of Raga — service worker. Cache-first so the demo works offline. */
 
-const CACHE = "pulse-of-raga-v3";
+const CACHE = "pulse-of-raga-v4";
 const SHELL = [
   "./",
   "index.html",
@@ -8,6 +8,8 @@ const SHELL = [
   "app.js",
   "demo_data.json",
   "raga_map.json",
+  "archive.html",
+  "archive.js",
   "manifest.webmanifest",
   "icon.svg",
 ];

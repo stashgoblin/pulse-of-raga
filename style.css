@@ -215,3 +215,73 @@ audio { width: 100%; margin-top: 0.5rem; }
   overflow-x: auto;
   margin: 0.4rem 0 0.7rem;
 }
+
+/* ---- archive page ---- */
+.archive-link, .back-link {
+  display: inline-block;
+  margin-top: 0.6rem;
+  color: var(--gold);
+  font-size: 0.9rem;
+  text-decoration: none;
+  border-bottom: 1px solid var(--line);
+}
+.back-link { color: var(--ink-dim); font-size: 0.85rem; }
+
+.arch-controls {
+  max-width: 720px;
+  margin: 0 auto;
+  padding: 0 1rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+.arch-controls input[type="search"],
+.arch-controls select {
+  background: var(--bg-card-2);
+  border: 1px solid var(--line);
+  border-radius: 9px;
+  color: var(--ink);
+  font-size: 0.95rem;
+  padding: 0.55rem 0.7rem;
+}
+.arch-row2 { display: flex; gap: 0.5rem; align-items: center; flex-wrap: wrap; }
+.arch-row2 select { flex: 1; }
+.liked-toggle { color: var(--ink-dim); font-size: 0.85rem; display: flex; gap: 0.3rem; align-items: center; }
+.arch-count { color: var(--ink-dim); font-size: 0.78rem; }
+
+.player-bar {
+  position: sticky;
+  top: 0;
+  z-index: 20;
+  background: var(--bg);
+  border-bottom: 1px solid var(--line);
+  max-width: 720px;
+  margin: 0.6rem auto 0;
+  padding: 0.6rem 1rem;
+}
+.player-bar audio { width: 100%; }
+.nowplaying { color: var(--gold); font-size: 0.8rem; margin-top: 0.3rem; }
+
+.arch-rows { max-width: 720px; margin: 0 auto; padding: 0.4rem 1rem 3rem; }
+.arow {
+  display: flex; align-items: center; gap: 0.6rem;
+  padding: 0.55rem 0.2rem;
+  border-bottom: 1px solid var(--line);
+}
+.arow.hidden { display: none; }
+.arow.playing { background: rgba(232, 176, 75, 0.10); }
+.like-btn, .play-btn {
+  flex: none;
+  background: none;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  width: 2.3rem; height: 2.3rem;
+  font-size: 1.1rem;
+  cursor: pointer;
+  color: var(--ink-dim);
+}
+.like-btn.liked { color: var(--saffron); border-color: var(--saffron); }
+.play-btn { color: var(--gold); }
+.arow-meta { min-width: 0; }
+.arow-title { font-size: 0.92rem; color: var(--ink); }
+.arow-sub { font-size: 0.76rem; color: var(--ink-dim); margin-top: 1px; }

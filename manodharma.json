@@ -1,0 +1,3201 @@
+{
+  "_meta": {
+    "description": "shivkumar.org manodharma archive — alapana / neraval / swarakalpana / tanam clips per raga, hotlinked (audio not downloaded).",
+    "source_index": "https://www.shivkumar.org/music/manodharma/index.html",
+    "kind": "manodharma",
+    "raga_count": 77,
+    "clip_links": 682
+  },
+  "ragas": [
+    {
+      "raga": "Abheri",
+      "anchor": "abheri",
+      "clips": [
+        {
+          "label": "DKP Swarakalpana (Bhajare) C04",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/abheri/09b-bhajare-abheri-swarakalpana-dkp-c04.mp3"
+        },
+        {
+          "label": "DKP Swarakalpana (Bhajare) C01",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/abheri/09b-bhajare-re-manasa-abheri-swarakalpana-dkp-c01.mp3"
+        }
+      ]
+    },
+    {
+      "raga": "Ananda Bhairavi",
+      "anchor": "anandabhairavi",
+      "clips": [
+        {
+          "label": "SSI Swarakalpana (Sundara) TIsai1960",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/anandabhairavi/01b-sundara-anandabhairavi-swarakalpana-ssi-TIsai1960.mp3"
+        },
+        {
+          "label": "SSI Swarakalpana (Marivere) C05",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/anandabhairavi/02b-marivere-anandabhairavi-swarakalpana-ssi-c05.mp3"
+        },
+        {
+          "label": "SSI Swarakalpana (Pahisri) C13",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/anandabhairavi/02b-pahisri-ananda-bhairavi-swarakalpana-ssi-c13.mp3"
+        },
+        {
+          "label": "SSI Swarakalpana (pahirakshatu) AIR",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/anandabhairavi/02b-Pahitarakshu-anandabhairavi-swarakalpana-ssi-air.mp3"
+        },
+        {
+          "label": "SSI Alapana C12",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/anandabhairavi/03a-anandabhairavi-alapana-ssi-c12.mp3"
+        },
+        {
+          "label": "SSI Swarakalpana (Tyagarajayoga) C07",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/anandabhairavi/03b-tyagarajayoga-anandabhairavi-swarakalpana-ssi-c07.mp3"
+        },
+        {
+          "label": "SSI Swarakalpana (Tyagarajayoga) C12",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/anandabhairavi/03c-tyagarajayoga-anandabhairavi-swarakalpana-ssi-c12.mp3"
+        },
+        {
+          "label": "DKP Alapana C03",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/anandabhairavi/04a-anandabhairavi-alapana-dkp-c03.mp3"
+        },
+        {
+          "label": "SSI Alapana C03",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/anandabhairavi/04a_anandabhairavi_alapana-ssi-c03.mp3"
+        },
+        {
+          "label": "SSI Alapana C16",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/anandabhairavi/04a-anandabhairavi-alapana-ssi-c16.mp3"
+        },
+        {
+          "label": "SSI Swarakalpana (Marivere) C17",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/anandabhairavi/04b-marivere-anandabhairavi-swarakalpana-ssi-c17.mp3"
+        },
+        {
+          "label": "DKP Swarakalpana (anandeswarena) C03",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/anandabhairavi/04c-anandeswarena-anandabhairavi-swarakalpana-dkp-c03.mp3"
+        },
+        {
+          "label": "SSI Swarakalpana (Tyagarajayoga) C16",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/anandabhairavi/04c-tyagarajayoga-anandabhairavi-swarakalpana-ssi-c16.mp3"
+        },
+        {
+          "label": "SSI Swarakalpana (Marivere) C03",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/anandabhairavi/04e_marivere_anandabhairavi_swarakalpana-ssi-c03.mp3"
+        },
+        {
+          "label": "SSI Alapana C10",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/anandabhairavi/05a-anandabhairavi-alapana-ssi-c10.mp3"
+        },
+        {
+          "label": "SSI Swarakalpana (Marivere) C10",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/anandabhairavi/05c-marivere-anandabhairavi-swarakalpana-ssi-c10.mp3"
+        },
+        {
+          "label": "DKP Alapana C02",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/anandabhairavi/11a-anandabhairavi-alapana-dkp-c02.mp3"
+        }
+      ]
+    },
+    {
+      "raga": "Andolika",
+      "anchor": "andolika",
+      "clips": [
+        {
+          "label": "andolika-alapana-gnb-c01",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/andolika/03a-andolika-alapana-gnb-c01.mp3"
+        }
+      ]
+    },
+    {
+      "raga": "Arabhi",
+      "anchor": "arabhi",
+      "clips": [
+        {
+          "label": "SSI Alapana C13",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/arabhi/05a-arabhi-alapana-ssic-13.mp3"
+        },
+        {
+          "label": "SSI Alapana C19",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/arabhi/05a-arabhi-alapana-ssi-c19.mp3"
+        },
+        {
+          "label": "SSI Swarakalpana (Narasimha) C13",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/arabhi/05c-narasimha-arabhi-swarakalpana-ssi-c13.mp3"
+        },
+        {
+          "label": "SSI Swarakalpana (Narasimha) C19",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/arabhi/05c-narasimha-arabhi-swarakalpana-ssi-c19.mp3"
+        },
+        {
+          "label": "arabhi-alapana-gnb-c02",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/arabhi/10-FILLER-arabhi-alapana-gnb-c02.mp3"
+        }
+      ]
+    },
+    {
+      "raga": "Atana",
+      "anchor": "atana",
+      "clips": [
+        {
+          "label": "paramapavani-atana-alapana-gnb-c01",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/atana/06a-paramapavani-atana-alapana-gnb-c01.mp3"
+        },
+        {
+          "label": "paramapavani-atana-swarakalpana-gnb-c01",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/atana/06c-paramapavani-atana-swarakalpana-gnb-c01.mp3"
+        }
+      ]
+    },
+    {
+      "raga": "Begada",
+      "anchor": "b-to-c",
+      "clips": [
+        {
+          "label": "SSI Swarakalpana (Vallabha) C03",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/begada/01b_vallabha_begada_swarakalpana-ssi-c03.mp3"
+        },
+        {
+          "label": "MDR Alapana (RTP) C01",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/begada/08a-rtp-begada-alapana-mdr-c01.mp3"
+        },
+        {
+          "label": "MDR Tanam (RTP) C01",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/begada/08b-rtp-begada-tanam-mdr-c01.mp3"
+        },
+        {
+          "label": "MDR Neraval (RTP: pallavi) C01",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/begada/08c-rtp-begada-pallavi-neraval-lokavana-mdr-c01.mp3"
+        },
+        {
+          "label": "MDR Swarakalpana (RTP) C01",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/begada/08d-rtp-begada-pallavi-swarakalpana-mdr-c01.mp3"
+        },
+        {
+          "label": "DKP Alapana C01",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/begada/12a-begada-alapana-dkp-c01.mp3"
+        },
+        {
+          "label": "SSI Swarakalpana (Vallabha) C12",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/begada/17b_FILLER_vallabha_begada-swarakalpana-ssi-c12.mp3"
+        },
+        {
+          "label": "begada-alapana-gnb-c01",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/begada/04a-begada-alapana-gnb-c01.mp3"
+        },
+        {
+          "label": "kalayaami-begada-swarakalpana-gnb-c01",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/begada/04c-kalayaami-begada-swarakalpana-gnb-c01.mp3"
+        },
+        {
+          "label": "begada-alapana-gnb-c01",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/begada/04a-begada-alapana-gnb-c01.mp3"
+        },
+        {
+          "label": "varnam-begada-alapana-voleti-c01",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/begada/01a-varnam-begada-alapana-voleti-c01.mp3"
+        },
+        {
+          "label": "varnam-begada-alapana-voleti-c01",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/begada/01c-varnam-begada-swarakalpana-voleti-c01.mp3"
+        }
+      ]
+    },
+    {
+      "raga": "Behag",
+      "anchor": "behag",
+      "clips": [
+        {
+          "label": "SSI Alapana C12",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/behag/14a-behag-alapana-ssi-c12.mp3"
+        }
+      ]
+    },
+    {
+      "raga": "Bhairavi",
+      "anchor": "bhairavi",
+      "clips": [
+        {
+          "label": "SSI Alapana C15",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/bhairavi/03a-bhairavi-alapana-ssi-c15.mp3"
+        },
+        {
+          "label": "SSI Swarakalpana (Kamakshi) C15",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/bhairavi/03c-kamakshi-bhairavi-swarakalpana-ssi-c15.mp3"
+        },
+        {
+          "label": "DKP Alapana C02",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/bhairavi/05a-bhairavi-alapana-dkp-c02.mp3"
+        },
+        {
+          "label": "DKP Alapana C05",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/bhairavi/05a-bhairavi-alapana-dkp-c05.mp3"
+        },
+        {
+          "label": "SSI Alapana C09",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/bhairavi/05a_bhairavi_alapana-ssi-c09.mp3"
+        },
+        {
+          "label": "SSI Neraval (Kamakshi) C09",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/bhairavi/05c_amba_kamakshi_bhairavi_neraval-ssi-c09.mp3"
+        },
+        {
+          "label": "DKP Swarakalpana (Govinda) C02",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/bhairavi/05c-govinda-bhairavi-swarakalpana-dkp-c02.mp3"
+        },
+        {
+          "label": "DKP Swarakalpana (Neepadamule) C05",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/bhairavi/05c-neepadamule-bhairavi-swarakalpana-dkp-c05.mp3"
+        },
+        {
+          "label": "SSI Swarakalpana (Kamakshi) C09",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/bhairavi/05d_amba_kamakshi_bhairavi_swarakalpana-ssi-c09.mp3"
+        },
+        {
+          "label": "SSI Alapana C02",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/bhairavi/06a-bhairavi-alapana-ssi-c02.mp3"
+        },
+        {
+          "label": "SSI Neraval (Kamakshi) C18",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/bhairavi/06b-kamakshi-bhairavi-neraval-ssi-c18.mp3"
+        },
+        {
+          "label": "SSI Neraval (Kamakshi) C02",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/bhairavi/06c-ambakamakshi-bhairavi-neraval-ssi-c02.mp3"
+        },
+        {
+          "label": "SSI Swarakalpana (Kamakshi) C18",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/bhairavi/06c-kamakshi-bhairavi-swarakalpana-ssi-c18.mp3"
+        },
+        {
+          "label": "SSI Swarakalpana (Kamakshi) C02",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/bhairavi/06d-ambakamakshi-bhairavi-swarakalpana-ssi-c02.mp3"
+        },
+        {
+          "label": "DKP/DKJ Alapana",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/bhairavi/07a-bhairavi-alapana-dkp-dkj.mp3"
+        },
+        {
+          "label": "DKP/DKJ Swarakalpana (Rakshabettare)",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/bhairavi/07c-rakshabettare-bhairavi-swarakalpana-dkp-dkj.mp3"
+        },
+        {
+          "label": "SSI Alapana C13",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/bhairavi/08a-bhairavi-alapana-ssi-c13.mp3"
+        },
+        {
+          "label": "SSI Tanam C13",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/bhairavi/08b-bhairavi-tanam-ssi-c13.mp3"
+        },
+        {
+          "label": "SSI Neraval (Janani) C13",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/bhairavi/08d-janani-mamava-bhairavi-neraval-ssi-c13.mp3"
+        },
+        {
+          "label": "SSI Swarakalpana (Janani) C13",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/bhairavi/08e-janani-mamava-bhairavi-swarakalpana-ssi-c13.mp3"
+        },
+        {
+          "label": "SSI Alapana (RTP) C01",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/bhairavi/09a-rtp-bhairavi-alapana-ssi-c01.mp3"
+        },
+        {
+          "label": "SSI Alapana (RTP) C19",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/bhairavi/09a-rtp-bhairavi-alapana-ssi-c19.mp3"
+        },
+        {
+          "label": "SSI Neraval (Kamakshi) LC01",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/bhairavi/09b-Kamakshi-bhairavi-neraval-ssi-lc01.mp3"
+        },
+        {
+          "label": "SSI Tanam (RTP) C01",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/bhairavi/09b-rtp-bhairavi-tanam-ssi-c01.mp3"
+        },
+        {
+          "label": "SSI Tanam (RTP) C19",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/bhairavi/09b-rtp-bhairavi-tanam-ssi-c19.mp3"
+        },
+        {
+          "label": "SSI Swarakalpana (Kamakshi) LC01",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/bhairavi/09c-Kamakshi-bhairavi-swarakalpana-ssi-lc01.mp3"
+        },
+        {
+          "label": "SSI Neraval (RTP) C01",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/bhairavi/09c-rtp-bhairavi-pallavi-neraval-ssi-c01.mp3"
+        },
+        {
+          "label": "SSI Neraval (RTP) C19",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/bhairavi/09c-rtp-bhairavi-pallavi-neraval-ssi-c19.mp3"
+        },
+        {
+          "label": "SSI Swarakalpana (RTP) C01",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/bhairavi/09d-rtp-bhairavi-pallavi-swarakalpana-ssi-c01.mp3"
+        },
+        {
+          "label": "SSI Swarakalpana (RTP) C19",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/bhairavi/09d-rtp-bhairavi-pallavi-swarakalpana-ssi-c19.mp3"
+        },
+        {
+          "label": "bhairavi-alapana-gnb-c01",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/bhairavi/05a-bhairavi-alapana-gnb-c01.mp3"
+        },
+        {
+          "label": "balagopala-bhairavi-neraval-gnb-c01",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/bhairavi/05c-balagopala-bhairavi-neraval-gnb-c01.mp3"
+        },
+        {
+          "label": "balagopala-bhairavi-swarakalpana-gnb-c01",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/bhairavi/05d-balagopala-bhairavi-swarakalpana-gnb-c01.mp3"
+        }
+      ]
+    },
+    {
+      "raga": "Bhavapriya",
+      "anchor": "bhavapriya",
+      "clips": [
+        {
+          "label": "SSI Swarakalpana (Srikantha) C03",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/bhavapriya/02b_srikantha_neeyeda_bhavapriya_swarakalpana-ssi-c03.mp3"
+        }
+      ]
+    },
+    {
+      "raga": "Bilahari",
+      "anchor": "bilahari",
+      "clips": [
+        {
+          "label": "SSI Alapana (SriBalasubramanyam) AIR96",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/bilahari/03a-SriBalasubramanyam-bilahari-ssi-air96-alapana.mp3"
+        },
+        {
+          "label": "SSI Swarakalpana (SriBalasubramanyam) AIR96",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/bilahari/03c-SriBalasubramanyam-bilahari-ssi-air96-swarakalpana.mp3"
+        },
+        {
+          "label": "MDR Alapana C04",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/bilahari/04a-bilahari-alapana-mdr-c04.mp3"
+        },
+        {
+          "label": "MDR Swarakalpana (Paridhana) C04",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/bilahari/04c-paridhana-bilahari-swarakalpana-mdr-c04.mp3"
+        },
+        {
+          "label": "DKP/DKJ Alapana",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/bilahari/05a-bilahari-alapana-dkp-dkj.mp3"
+        },
+        {
+          "label": "DKP/DKJ Swarakalpana (Tolijanma)",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/bilahari/05c-tolijanma-bilahari-swarakalpana-dkp-dkj.mp3"
+        },
+        {
+          "label": "SSI Alapana C07",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/bilahari/07a-bilahari-alapana-ssi-c07.mp3"
+        },
+        {
+          "label": "SSI Alapana C13",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/bilahari/07a-bilahari-alapana-ssi-c13.mp3"
+        },
+        {
+          "label": "SSI Swarakalpana (smarasada) C13",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/bilahari/07c-smarasada-bilahari-swarakalpana-ssi-c13.mp3"
+        },
+        {
+          "label": "paridhana-bilahari-alapana-gnb-c02",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/bilahari/09a-FILLER-paridhana-bilahari-alapana-gnb-c02.mp3"
+        },
+        {
+          "label": "paridhana-bilahari-neraval-gnb-c02",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/bilahari/09c-FILLER-paridhana-bilahari-neraval-gnb-c02.mp3"
+        },
+        {
+          "label": "paridhana-bilahari-swarakalpana-gnb-c02",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/bilahari/09d-FILLER-paridhana-bilahari-swarakalpana-gnb-c02.mp3"
+        },
+        {
+          "label": "paridhana-bilahari-alapana-gnb-c0",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/bilahari/14a-FILLER-paridhana-bilahari-alapana-gnb-c01.mp3"
+        },
+        {
+          "label": "paridhana-bilahari-neraval-gnb-c01",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/bilahari/14c-FILLER-paridhana-bilahari-neraval-gnb-c01.mp3"
+        },
+        {
+          "label": "paridhana-bilahari-swarakalpana-gnb-c01",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/bilahari/14d-FILLER-paridhana-bilahari-swarakalpana-gnb-c01.mp3"
+        }
+      ]
+    },
+    {
+      "raga": "Bowli",
+      "anchor": "bowli",
+      "clips": [
+        {
+          "label": "SSI Alapana AIR96",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/bowli/02a-parvathi-bowli-ssi-air96-alapana.mp3"
+        },
+        {
+          "label": "SSI Swarakalpana (parvathi) AIR96",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/bowli/02c-parvathi-bowli-ssi-air96-swarakalpana.mp3"
+        }
+      ]
+    },
+    {
+      "raga": "Chakravakam (aka Vegavahini)",
+      "anchor": "chakravakam",
+      "clips": [
+        {
+          "label": "SSI Alapana C05",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/chakravakam/01a-chakravakam-alapana-ssi-c05.mp3"
+        },
+        {
+          "label": "SSI Swarakalpana (gajanayutham) C12",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/chakravakam/01b-gajananayutham-chakravakam-swarakalpana-ssi-c12.mp3"
+        },
+        {
+          "label": "SSI Swarakalpana (gajanayutham) C19",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/chakravakam/01b-gajananayutham-swarakalpana-ssi-c19.mp3"
+        },
+        {
+          "label": "SSI Swarakalpana (gajanayutham) C05",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/chakravakam/01c-gajananayutham-chakravakam-swarakalpana-ssi-c05.mp3"
+        },
+        {
+          "label": "etulabrotuvo-chakravakam-neraval-alathur-c02",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/chakravakam/02b-etulabrotuvo-chakravakam-neraval-alathur-c02.mp3"
+        },
+        {
+          "label": "etulabrotuvo-chakravakam-swarakalpana-alathur-c02",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/chakravakam/02c-etulabrotuvo-chakravakam-swarakalpana-alathur-c02.mp3"
+        },
+        {
+          "label": "chakravakam-alapana-gnb-nanja",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/chakravakam/04a-chakravakam-alapana-gnb-nanja.mp3"
+        },
+        {
+          "label": "sugunamule-chakravakam-neraval-gnb-nanja",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/chakravakam/04c-sugunamule-chakravakam-neraval-gnb-nanja.mp3"
+        },
+        {
+          "label": "sugunamule-chakravakam-swarakalpana-gnb-nanja",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/chakravakam/04d-sugunamule-chakravakam-swarakalpana-gnb-nanja.mp3"
+        },
+        {
+          "label": "chakravakam-alapana-gnb-c06",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/chakravakam/13a-FILLER-chakravakam-alapana-gnb-c06.mp3"
+        }
+      ]
+    },
+    {
+      "raga": "Charukesi",
+      "anchor": "charukesi",
+      "clips": [
+        {
+          "label": "SSI Swarakalpana (Adamodi) C01",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/charukesi/05b-adamodi-charukesi-swarakalpana-ssi-c01.mp3"
+        }
+      ]
+    },
+    {
+      "raga": "Devagandhari",
+      "anchor": "d-to-g",
+      "clips": [
+        {
+          "label": "SSI Alapana C17",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/devagandhari/06a-devagandhari-alapana-ssi-c17.mp3"
+        },
+        {
+          "label": "SSI Alapana C03",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/devagandhari/10a_devagandhari_alapana-ssi-c03.mp3"
+        },
+        {
+          "label": "SSI Alapana C04",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/devagandhari/11a-devagandhari-alapana-ssi-c04.mp3"
+        }
+      ]
+    },
+    {
+      "raga": "Devamanohari",
+      "anchor": "devamanohari",
+      "clips": [
+        {
+          "label": "SSI Alapana C02",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/devamanohari/07a-devamanohari-alapana-ssi-c02.mp3"
+        },
+        {
+          "label": "SSI Swarakalpana (kanna thandri) C02",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/devamanohari/07c-kannathandri-devamanohari-swarakalpana-ssi-c02.mp3"
+        }
+      ]
+    },
+    {
+      "raga": "Dhanyasi",
+      "anchor": "dhanyasi",
+      "clips": [
+        {
+          "label": "dhanyasi-alapana-dkp-c04",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/dhanyasi/05a-dhanyasi-alapana-dkp-c04.mp3"
+        },
+        {
+          "label": "meenalochana-dhanyasi-neraval-dkp-c04",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/dhanyasi/05c-meenalochana-dhanyasi-neraval-dkp-c04.mp3"
+        },
+        {
+          "label": "meenalochana-dhanyasi-swarakalpana-dkp-c04",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/dhanyasi/05d-meenalochana-dhanyasi-swarakalpana-dkp-c04.mp3"
+        },
+        {
+          "label": "dhanyasi-alapana-dkp-c06",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/dhanyasi/06a-dhanyasi-alapana-dkp-c06.mp3"
+        },
+        {
+          "label": "meenalochana-dhanyasi-neraval-dkp-c06",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/dhanyasi/06c-meenalochana-dhanyasi-neraval-dkp-c06.mp3"
+        },
+        {
+          "label": "meenalochana-dhanyasi-swarakalpana-dkp-c06",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/dhanyasi/06d-meenalochana-dhanyasi-swarakalpana-dkp-c06.mp3"
+        },
+        {
+          "label": "rtp-dhanyasi-alapana-dkp-c03",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/dhanyasi/09a-rtp-dhanyasi-alapana-dkp-c03.mp3"
+        },
+        {
+          "label": "rtp-dhanyasi-tanam-dkp-c03",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/dhanyasi/09b-rtp-dhanyasi-tanam-dkp-c03.mp3"
+        },
+        {
+          "label": "rtp-dhanyasi-pallavi-neraval-kadaikannvaithennai-dkp-c03",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/dhanyasi/09c-rtp-dhanyasi-pallavi-neraval-kadaikannvaithennai-dkp-c03.mp3"
+        },
+        {
+          "label": "rtp-dhanyasi-pallavi-neraval-kadaikannvaithennai",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/dhanyasi/09c-rtp-dhanyasi-pallavi-neraval-kadaikannvaithennai.mp3"
+        },
+        {
+          "label": "rtp-dhanyasi-pallavi-swarakalpana-kadaikannvaithennai-dkp-c03",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/dhanyasi/09d-rtp-dhanyasi-pallavi-swarakalpana-kadaikannvaithennai-dkp-c03.mp3"
+        },
+        {
+          "label": "rtp-dhanyasi-pallavi-swarakalpana-kadaikannvaithennai",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/dhanyasi/09d-rtp-dhanyasi-pallavi-swarakalpana-kadaikannvaithennai.mp3"
+        }
+      ]
+    },
+    {
+      "raga": "Dhenuka",
+      "anchor": "dhenuka",
+      "clips": [
+        {
+          "label": "theliyaleru-dhenuka-swarakalpana-ssi-c02",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/dhenuka/09b-theliyaleru-dhenuka-swarakalpana-ssi-c02.mp3"
+        },
+        {
+          "label": "dhenuka-alapana-ssi-c15",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/dhenuka/10a-dhenuka-alapana-ssi-c15.mp3"
+        },
+        {
+          "label": "theliyaleru-dhenuka-swarakalpana-ssi-c15",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/dhenuka/10c-theliyaleru-dhenuka-swarakalpana-ssi-c15.mp3"
+        }
+      ]
+    },
+    {
+      "raga": "Durbar",
+      "anchor": "durbar",
+      "clips": [
+        {
+          "label": "durbar-alapana-dkp-c06",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/durbar/05a-durbar-alapana-dkp-c06.mp3"
+        },
+        {
+          "label": "endundi-durbar-alapana-alathur-c01",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/durbar/06a-endundi-durbar-alapana-alathur-c01.mp3"
+        }
+      ]
+    },
+    {
+      "raga": "Dwijavanthi",
+      "anchor": "dwijavanthi",
+      "clips": [
+        {
+          "label": "akhilandeshwari_dwijavanthi_swarakalpana-ssi-c09",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/dwijavanthi/04b_akhilandeshwari_dwijavanthi_swarakalpana-ssi-c09.mp3"
+        },
+        {
+          "label": "dwijavanthi-alapana-ssi-c06",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/dwijavanthi/05a-dwijavanthi-alapana-ssi-c06.mp3"
+        },
+        {
+          "label": "chetasri-dwijavanthi-swarakalpana-ssi-c06",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/dwijavanthi/05c-chetasri-dwijavanthi-swarakalpana-ssi-c06.mp3"
+        },
+        {
+          "label": "akhilandeshwari-dwijavanthi-swarakalpana-ssi-c18",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/dwijavanthi/08b-akhilandeshwari-dwijavanthi-swarakalpana-ssi-c18.mp3"
+        }
+      ]
+    },
+    {
+      "raga": "Gowri Manohari",
+      "anchor": "gowrimanohari",
+      "clips": [
+        {
+          "label": "guruleka-gowrimanohari-neraval-ssi-c10",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/gowrimanohari/02b-guruleka-gowrimanohari-neraval-ssi-c10.mp3"
+        },
+        {
+          "label": "guruleka-gowrimanohari-swarakalpana-ssi-c02",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/gowrimanohari/02b-guruleka-gowrimanohari-swarakalpana-ssi-c02.mp3"
+        },
+        {
+          "label": "guruleka-gowrimanohari-swarakalpana-ssi-c10",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/gowrimanohari/02c-guruleka-gowrimanohari-swarakalpana-ssi-c10.mp3"
+        }
+      ]
+    },
+    {
+      "raga": "Guntakriya (or Kumudakriya)",
+      "anchor": "kumudakriya",
+      "clips": [
+        {
+          "label": "ardhanaareeshwaram_guntakriya_swarakalpana-ssi-c09",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/guntakriya/08b_ardhanaareeshwaram_guntakriya_swarakalpana-ssi-c09.mp3"
+        }
+      ]
+    },
+    {
+      "raga": "Hamsadhwani",
+      "anchor": "hamsadhwani",
+      "clips": [
+        {
+          "label": "vatapi-hamsadhwani-swarakalpana-ssi-c07",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/hamsadhwani/01b-vatapi-hamsadhwani-swarakalpana-ssi-c07.mp3"
+        },
+        {
+          "label": "vatapi_hamsadhwani_swarakalpana-ssi-c09",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/hamsadhwani/01b_vatapi_hamsadhwani_swarakalpana-ssi-c09.mp3"
+        },
+        {
+          "label": "vatapi-hamsadhwani-swarakalpana-ssi-c10",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/hamsadhwani/01b-vatapi-hamsadhwani-swarakalpana-ssi-c10.mp3"
+        },
+        {
+          "label": "vatapi-hamsadhwani-swarakalpana-ssi-c16",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/hamsadhwani/01b-vatapi-hamsadhwani-swarakalpana-ssi-c16.mp3"
+        },
+        {
+          "label": "vatapi-hamsadhwani-swarakalpana-ssi-c17",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/hamsadhwani/01b-vatapi-hamsadhwani-swarakalpana-ssi-c17.mp3"
+        },
+        {
+          "label": "vatapi-hamsadhwani-alapana-mdr-c04",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/hamsadhwani/02a-vatapi-hamsadhwani-alapana-mdr-c04.mp3"
+        },
+        {
+          "label": "vatapi-hamsadhwani-swarakalpana-mdr-c04",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/hamsadhwani/02c-vatapi-hamsadhwani-swarakalpana-mdr-c04.mp3"
+        },
+        {
+          "label": "vatapi-hamsadhwani-swarakalpana-gnb-c01",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/hamsadhwani/01b-vatapi-hamsadhwani-swarakalpana-gnb-c01.mp3"
+        },
+        {
+          "label": "vatapi-hamsadhwani-swarakalpana-gnb-c02",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/hamsadhwani/01b-vatapi-hamsadhwani-swarakalpana-gnb-c02.mp3"
+        }
+      ]
+    },
+    {
+      "raga": "Hamsanandi",
+      "anchor": "hamsanandi",
+      "clips": [
+        {
+          "label": "srinivasa-hamsanandi-alapana-viruttam-ssi-c01",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/hamsanandi/13a-srinivasa-hamsanandi-alapana-viruttam-ssi-c01.mp3"
+        },
+        {
+          "label": "slokam-viruttam-ragamalika+hamsanandi-ssi-c18",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/hamsanandi/15a-slokam-viruttam-ragamalika+hamsanandi-ssi-c18.mp3"
+        }
+      ]
+    },
+    {
+      "raga": "Hari Kambodhi",
+      "anchor": "harikambodhi",
+      "clips": [
+        {
+          "label": "dinamani_harikambodhi_swarakalpana-ssi-c09",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/harikambodhi/02b_dinamani_harikambodhi_swarakalpana-ssi-c09.mp3"
+        },
+        {
+          "label": "dinamanivamsha-harikambodhi-swarakalpana-ssi-c01",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/harikambodhi/02b-dinamanivamsha-harikambodhi-swarakalpana-ssi-c01.mp3"
+        },
+        {
+          "label": "dinamani-harikambodhi-swarakalpana-ssi-c19",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/harikambodhi/03b-dinamani-harikambodhi-swarakalpana-ssi-c19.mp3"
+        },
+        {
+          "label": "Dinamani-harikambodhi-swarakalpana-ssi-lc01",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/harikambodhi/03b-Dinamani-harikambodhi-swarakalpana-ssi-lc01.mp3"
+        },
+        {
+          "label": "dinamani-harikambodhi-swarakalpana-ssi-tisai1960",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/harikambodhi/03b-dinamani-harikambodhi-swarakalpana-ssi-tisai1960.mp3"
+        },
+        {
+          "label": "dinamanivamsha_hari_kambodhi_swarakalpana-ssi-c03",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/harikambodhi/03b_dinamanivamsha_hari_kambodhi_swarakalpana-ssi-c03.mp3"
+        },
+        {
+          "label": "endukunirdaya-harikambodhi-swarakalpana-ssi-c02",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/harikambodhi/03b-endukunirdaya-harikambodhi-swarakalpana-ssi-c02.mp3"
+        },
+        {
+          "label": "harikambodhi-alapana-dkp-c06",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/harikambodhi/04a-harikambodhi-alapana-dkp-c06.mp3"
+        },
+        {
+          "label": "dinamani_harikambodhi-swarakalpana-ssi-c12",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/harikambodhi/19b_FILLER_dinamani_harikambodhi-swarakalpana-ssi-c12.mp3"
+        },
+        {
+          "label": "sanithodi-harikambodhi-swarakalpana-dkp-c06",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/thodi/04c-sanithodi-harikambodhi-swarakalpana-dkp-c06.mp3"
+        },
+        {
+          "label": "endukunirdaya-harikambodhi-alapana-alathur-c01",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/harikambodhi/02a-endukunirdaya-harikambodhi-alapana-alathur-c01.mp3"
+        },
+        {
+          "label": "endukunirdaya-harikambodhi-swarakalpana-alathur-c01",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/harikambodhi/02c-endukunirdaya-harikambodhi-swarakalpana-alathur-c01.mp3"
+        }
+      ]
+    },
+    {
+      "raga": "Hemavathi",
+      "anchor": "hemavathi",
+      "clips": [
+        {
+          "label": "hemavathi-alapana-ssi-c02",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/hemavathi/08a-hemavathi-alapana-ssi-c02.mp3"
+        },
+        {
+          "label": "srikanthimathi-hemavathi-swarakalpana-ssi-c02",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/hemavathi/08c-srikanthimathi-hemavathi-swarakalpana-ssi-c02.mp3"
+        }
+      ]
+    },
+    {
+      "raga": "Hindolam",
+      "anchor": "hindolam",
+      "clips": [
+        {
+          "label": "hindolam-alapana-ssi-tisai1960",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/hindolam/08a-hindolam-alapana-ssi-tisai1960.mp3"
+        },
+        {
+          "label": "govardhana-hindolam-swarakalpana-ssi-tisai1960",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/hindolam/08c-govardhana-hindolam-swarakalpana-ssi-tisai1960.mp3"
+        },
+        {
+          "label": "hindolam-alapana-ssi-c12",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/hindolam/22a-FILLER-hindolam-alapana-ssi-c12.mp3"
+        },
+        {
+          "label": "govardhana_hindolam-swarakalpana-ssi-c12",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/hindolam/22b_FILLER_govardhana_hindolam-swarakalpana-ssi-c12.mp3"
+        },
+        {
+          "label": "hindolam-alapana-gnb-c06",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/hindolam/04a-hindolam-alapana-gnb-c06.mp3"
+        }
+      ]
+    },
+    {
+      "raga": "Jaganmohini",
+      "anchor": "j-to-j",
+      "clips": [
+        {
+          "label": "jaganmohini-alapana-dkp-c03",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/jaganmohini/05a-jaganmohini-alapana-dkp-c03.mp3"
+        },
+        {
+          "label": "mamava-jaganmohini-swarakalpana-dkp-c03",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/jaganmohini/05c-mamava-jaganmohini-swarakalpana-dkp-c03.mp3"
+        },
+        {
+          "label": "rtp-jaganmohini-alapana-dkp-dkj",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/jaganmohini/10a-rtp-jaganmohini-alapana-dkp-dkj.mp3"
+        },
+        {
+          "label": "rtp-jaganmohini-tanam-dkp-dkj",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/jaganmohini/10b-rtp-jaganmohini-tanam-dkp-dkj.mp3"
+        },
+        {
+          "label": "rtp-jaganmohini-pallavi-neraval-nenje-dkp-dkj",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/jaganmohini/10c-rtp-jaganmohini-pallavi-neraval-nenje-dkp-dkj.mp3"
+        },
+        {
+          "label": "rtp-jaganmohini-pallavi-swarakalpana-nenje-dkp-dkj",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/jaganmohini/10d-rtp-jaganmohini-pallavi-swarakalpana-nenje-dkp-dkj.mp3"
+        },
+        {
+          "label": "rtp-jaganmohini-alapana-dkp-c01",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/jaganmohini/15a-rtp-jaganmohini-alapana-dkp-c01.mp3"
+        },
+        {
+          "label": "rtp-jaganmohini-tanam-dkp-c01",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/jaganmohini/15a-rtp-jaganmohini-tanam-dkp-c01.mp3"
+        },
+        {
+          "label": "rtp-jaganmohini-pallavi-neraval-nenjeninai-dkp-c01",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/jaganmohini/15c-rtp-jaganmohini-pallavi-neraval-nenjeninai-dkp-c01.mp3"
+        },
+        {
+          "label": "rtp-jaganmohini-pallavi-swarakalpana-dkp-c01",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/jaganmohini/15d-rtp-jaganmohini-pallavi-swarakalpana-dkp-c01.mp3"
+        }
+      ]
+    },
+    {
+      "raga": "Janaranjani",
+      "anchor": "janaranjani",
+      "clips": [
+        {
+          "label": "pahimaam-janaranjani-swarakalpana-ssi-c15",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/janaranjani/01b-pahimaam-janaranjani-swarakalpana-ssi-c15.mp3"
+        }
+      ]
+    },
+    {
+      "raga": "Jonpuri",
+      "anchor": "jonpuri",
+      "clips": [
+        {
+          "label": "slokam-viruttam-jonpuri-ssi-c12",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/jonpuri/12a-slokam-viruttam-jonpuri-ssi-c12.mp3"
+        },
+        {
+          "label": "slokam-viruttam-jonpuri-ssi-c19",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/jonpuri/12a-slokam-viruttam-jonpuri-ssi-c19.mp3"
+        }
+      ]
+    },
+    {
+      "raga": "Kalyani",
+      "anchor": "kalyani",
+      "clips": [
+        {
+          "label": "varnam-kalyani-ata-swarakalpana-mdr-c06",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/kalyani/01b-varnam-kalyani-ata-swarakalpana-mdr-c06.mp3"
+        },
+        {
+          "label": "kalyani-alapana-dkp-c03",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/kalyani/03a-kalyani-alapana-dkp-c03.mp3"
+        },
+        {
+          "label": "kalyani-alapana-ssi-c13",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/kalyani/03a-kalyani-alapana-ssi-c13.mp3"
+        },
+        {
+          "label": "kalyani-alapana-ssi-c16",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/kalyani/03a-kalyani-alapana-ssi-c16.mp3"
+        },
+        {
+          "label": "pankajalochana-kalyani-alapana-ssi-c01",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/kalyani/03a-pankajalochana-kalyani-alapana-ssi-c01.mp3"
+        },
+        {
+          "label": "birana-brovite-kalyani-neraval-ssi-c16",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/kalyani/03c-birana-brovite-kalyani-neraval-ssi-c16.mp3"
+        },
+        {
+          "label": "etavunara-kalyani-swarakalpana-dkp-c03",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/kalyani/03c-etavunara-kalyani-swarakalpana-dkp-c03.mp3"
+        },
+        {
+          "label": "pankajalochana-kalyani-neraval-ssi-c01",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/kalyani/03c-pankajalochana-kalyani-neraval-ssi-c01.mp3"
+        },
+        {
+          "label": "pankaja-lochana-kalyani-neraval-ssi-c13",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/kalyani/03c-pankaja-lochana-kalyani-neraval-ssi-c13.mp3"
+        },
+        {
+          "label": "birana-brovite-kalyani-swarakalpana-ssi-c16",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/kalyani/03d-birana-brovite-kalyani-swarakalpana-ssi-c16.mp3"
+        },
+        {
+          "label": "pankajalochana-kalyani-swarakalpana-ssi-c01",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/kalyani/03d-pankajalochana-kalyani-swarakalpana-ssi-c01.mp3"
+        },
+        {
+          "label": "pankaja-lochana-kalyani-swarakalpana-ssi-c13",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/kalyani/03d-pankaja-lochana-kalyani-swarakalpana-ssi-c13.mp3"
+        },
+        {
+          "label": "kalyani-alapana-dkp-c04",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/kalyani/04a-kalyani-alapana-dkp-c04.mp3"
+        },
+        {
+          "label": "kalyani-alapana-dkp-dkj",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/kalyani/04a-kalyani-alapana-dkp-dkj.mp3"
+        },
+        {
+          "label": "kalyani-alapana-mdr-c03",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/kalyani/04a-kalyani-alapana-mdr-c03.mp3"
+        },
+        {
+          "label": "kalyani-alapana-ssi-c07",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/kalyani/04a-kalyani-alapana-ssi-c07.mp3"
+        },
+        {
+          "label": "kalyani-alapana-ssi-tisai1960",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/kalyani/04a-kalyani-alapana-ssi-tisai1960.mp3"
+        },
+        {
+          "label": "biranabrova-kalyani-neraval-dkp-dkj",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/kalyani/04c-biranabrova-kalyani-neraval-dkp-dkj.mp3"
+        },
+        {
+          "label": "biranabrova-kalyani-neraval-ssi-c07",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/kalyani/04c-biranabrova-kalyani-neraval-ssi-c07.mp3"
+        },
+        {
+          "label": "kamalambambhajare-kalyani-swarakalpana-dkp-c04",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/kalyani/04c-kamalambambhajare-kalyani-swarakalpana-dkp-c04.mp3"
+        },
+        {
+          "label": "kamalambam-kalyani-swarakalpana-mdr-c03.",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/kalyani/04c-kamalambam-kalyani-swarakalpana-mdr-c03.mp3"
+        },
+        {
+          "label": "sevikka-kalyani-swarakalpana-ssi-tisai1960",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/kalyani/04c-sevikka-kalyani-swarakalpana-ssi-tisai1960.mp3"
+        },
+        {
+          "label": "biranabrova-kalyani-swarakalpana-dkp-dkj",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/kalyani/04d-biranabrova-kalyani-swarakalpana-dkp-dkj.mp3"
+        },
+        {
+          "label": "biranabrova-kalyani-swarakalpana-ssi-c07",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/kalyani/04d-biranabrova-kalyani-swarakalpana-ssi-c07.mp3"
+        },
+        {
+          "label": "kalyani-alapana-ssi-c17",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/kalyani/05a-kalyani-alapana-ssi-c17.mp3"
+        },
+        {
+          "label": "kalyani-alapana-ssi-c18",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/kalyani/05a-kalyani-alapana-ssi-c18.mp3"
+        },
+        {
+          "label": "pankaja-lochana-kalyani-neraval-ssi-c17",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/kalyani/05c-pankaja-lochana-kalyani-neraval-ssi-c17.mp3"
+        },
+        {
+          "label": "pankajalochana-kalyani-neraval-ssi-c18",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/kalyani/05c-pankajalochana-kalyani-neraval-ssi-c18.mp3"
+        },
+        {
+          "label": "pankaja-lochana-kalyani-swarakalpana-ssi-c17",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/kalyani/05d-pankaja-lochana-kalyani-swarakalpana-ssi-c17.mp3"
+        },
+        {
+          "label": "pankajalochana-kalyani-swarakalpana-ssi-c18",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/kalyani/05d-pankajalochana-kalyani-swarakalpana-ssi-c18.mp3"
+        },
+        {
+          "label": "kalyani-alapana-mdr-c02",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/kalyani/06a-kalyani-alapana-mdr-c02.mp3"
+        },
+        {
+          "label": "biranabrova-kalyani-neraval-mdr-c02",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/kalyani/06c-biranabrova-kalyani-neraval-mdr-c02.mp3"
+        },
+        {
+          "label": "biranabrova-kalyani-swarakalpana-mdr-c02",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/kalyani/06d-biranabrova-kalyani-swarakalpana-mdr-c02.mp3"
+        },
+        {
+          "label": "kalyani-alapana-dkp-c07",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/kalyani/07a-kalyani-alapana-dkp-c07.mp3"
+        },
+        {
+          "label": "sandehamu-kalyani-neraval-dkp-c07",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/kalyani/07c-sandehamu-kalyani-neraval-dkp-c07.mp3"
+        },
+        {
+          "label": "sandehamu-kalyani-swarakalpana-dkp-c07",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/kalyani/07d-sandehamu-kalyani-swarakalpana-dkp-c07.mp3"
+        },
+        {
+          "label": "rtp-kalyani-alapana-ssi-c11",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/kalyani/10a-rtp-kalyani-alapana-ssi-c11.mp3"
+        },
+        {
+          "label": "rtp_kalyani_alapana-ssi-c12",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/kalyani/10a_rtp_kalyani_alapana-ssi-c12.mp3"
+        },
+        {
+          "label": "rtp-kalyani-alapana-ssi-lc01",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/kalyani/10a-rtp-kalyani-alapana-ssi-lc01.mp3"
+        },
+        {
+          "label": "rtp-kalyani-tanam-ssi-c11",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/kalyani/10b-rtp-kalyani-tanam-ssi-c11.mp3"
+        },
+        {
+          "label": "rtp-kalyani-tanam-ssi-lc01",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/kalyani/10b-rtp-kalyani-tanam-ssi-lc01.mp3"
+        },
+        {
+          "label": "rtp-kalyani-pallavi-neraval-ssi-c11",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/kalyani/10c-rtp-kalyani-pallavi-neraval-ssi-c11.mp3"
+        },
+        {
+          "label": "rtp-kalyani-pallavi-neraval-ssi-lc01",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/kalyani/10c-rtp-kalyani-pallavi-neraval-ssi-lc01.mp3"
+        },
+        {
+          "label": "rtp_kalyani-tanam-ssi-c12",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/kalyani/10c_rtp_kalyani-tanam-ssi-c12.mp3"
+        },
+        {
+          "label": "rtp-kalyani-pallavi-neraval-undarishanam-ssi-c12",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/kalyani/10d-rtp-kalyani-pallavi-neraval-undarishanam-ssi-c12.mp3"
+        },
+        {
+          "label": "rtp-kalyani-pallavi-swarakalpana+ragamalika-ssi-c11",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/kalyani/10d-rtp-kalyani-pallavi-swarakalpana+ragamalika-ssi-c11.mp3"
+        },
+        {
+          "label": "rtp-kalyani-pallavi-swarakalpana-ssi-lc01",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/kalyani/10d-rtp-kalyani-pallavi-swarakalpana-ssi-lc01.mp3"
+        },
+        {
+          "label": "rtp-kalyani-pallavi-swarakalpana-undarishanam-ssi-c12",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/kalyani/10e-rtp-kalyani-pallavi-swarakalpana-undarishanam-ssi-c12.mp3"
+        },
+        {
+          "label": "kalyani-alapana-ssi-c13",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/kalyani/15a-FILLER-kalyani-alapana-ssi-c13.mp3"
+        },
+        {
+          "label": "kalyani-tanam-ssi-c13",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/kalyani/15b-FILLER-kalyani-tanam-ssi-c13.mp3"
+        },
+        {
+          "label": "kalyani-pallavi-neraval-snippet-ssi-c13",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/kalyani/15c-FILLER-kalyani-pallavi-neraval-snippet-ssi-c13.mp3"
+        }
+      ]
+    },
+    {
+      "raga": "Kambodhi (or Kamboji)",
+      "anchor": "khamboji",
+      "clips": [
+        {
+          "label": "kambodhi-alapana-dkp-c01",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/kambodhi/04a-kambodhi-alapana-dkp-c01.mp3"
+        },
+        {
+          "label": "arimarundhu-kambodhi-neraval-dkp-c01",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/kambodhi/04c-arimarundhu-kambodhi-neraval-dkp-c01.mp3"
+        },
+        {
+          "label": "arimarundhu-kambodhi-swarakalpana-dkp-c01",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/kambodhi/04d-arimarundhu-kambodhi-swarakalpana-dkp-c01.mp3"
+        },
+        {
+          "label": "rtp-kambodhi-alapana-mdr-c03",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/kambodhi/05a-rtp-kambodhi-alapana-mdr-c03.mp3"
+        },
+        {
+          "label": "rtp-kambodhi-tanam-mdr-c03",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/kambodhi/05b-rtp-kambodhi-tanam-mdr-c03.mp3"
+        },
+        {
+          "label": "rtp-kambodhi-neraval-srisubramanyaya-mdr-c03",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/kambodhi/05c-rtp-kambodhi-neraval-srisubramanyaya-mdr-c03.mp3"
+        },
+        {
+          "label": "rtp-kambodhi-swarakalpana-srisubramanyaya-mdr-c03",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/kambodhi/05d-rtp-kambodhi-swarakalpana-srisubramanyaya-mdr-c03.mp3"
+        },
+        {
+          "label": "maajanaki-kambodhi-neraval-ssi-lc01",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/kambodhi/06b-maajanaki-kambodhi-neraval-ssi-lc01.mp3"
+        },
+        {
+          "label": "maajanaki-kambodhi-swarakalpana-ssi-lc01",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/kambodhi/06c-maajanaki-kambodhi-swarakalpana-ssi-lc01.mp3"
+        },
+        {
+          "label": "rtp-kambodhi-alapana-ssi-c04",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/kambodhi/09a-rtp-kambodhi-alapana-ssi-c04.mp3"
+        },
+        {
+          "label": "rtp-kambodhi-alapana-ssi-tisai1960",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/kambodhi/09a-rtp-kambodhi-alapana-ssi-tisai1960.mp3"
+        },
+        {
+          "label": "rtp-kambodhi-tanam-ssi-c04",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/kambodhi/09b-rtp-kambodhi-tanam-ssi-c04.mp3"
+        },
+        {
+          "label": "rtp-kambodhi-tanam-ssi-tisai1960",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/kambodhi/09b-rtp-kambodhi-tanam-ssi-tisai1960.mp3"
+        },
+        {
+          "label": "rtp-kambodhi-neraval-ssi-c04",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/kambodhi/09c-rtp-kambodhi-neraval-ssi-c04.mp3"
+        },
+        {
+          "label": "rtp-kambodhi-pallavi-neraval-ssi-tisai1960",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/kambodhi/09c-rtp-kambodhi-pallavi-neraval-ssi-tisai1960.mp3"
+        },
+        {
+          "label": "rtp-kambodhi-pallavi-swarakalpana-ssi-tisai1960",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/kambodhi/09d-rtp-kambodhi-pallavi-swarakalpana-ssi-tisai1960.mp3"
+        },
+        {
+          "label": "rtp-kambodhi-swarakalpana-ssi-c04",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/kambodhi/09d-rtp-kambodhi-swarakalpana-ssi-c04.mp3"
+        },
+        {
+          "label": "kambodhi-alapana-dkp-c05",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/kambodhi/10a-kambodhi-alapana-dkp-c05.mp3"
+        },
+        {
+          "label": "kambodhi-alapana-mdr-c06",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/kambodhi/10a-kambodhi-alapana-mdr-c06.mp3"
+        },
+        {
+          "label": "kambodhi-alapana-ssi-c07",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/kambodhi/10a-kambodhi-alapana-ssi-c07.mp3"
+        },
+        {
+          "label": "kambodhi-tanam-mdr-c06",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/kambodhi/10b-kambodhi-tanam-mdr-c06.mp3"
+        },
+        {
+          "label": "kambodhi-tanam-ssi-c07",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/kambodhi/10b-kambodhi-tanam-ssi-c07.mp3"
+        },
+        {
+          "label": "srisubramanyaya-kambodhi-neraval-dkp-c05",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/kambodhi/10c-srisubramanyaya-kambodhi-neraval-dkp-c05.mp3"
+        },
+        {
+          "label": "srisubramanyaya-kambodhi-neraval-ssi-c07",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/kambodhi/10d-srisubramanyaya-kambodhi-neraval-ssi-c07.mp3"
+        },
+        {
+          "label": "srisubramanyaya-kambodhi-swarakalpana-dkp-c05",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/kambodhi/10d-srisubramanyaya-kambodhi-swarakalpana-dkp-c05.mp3"
+        },
+        {
+          "label": "srisubramanyaya-kambodhi-swarakalpana-ssi-c07",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/kambodhi/10e-srisubramanyaya-kambodhi-swarakalpana-ssi-c07.mp3"
+        },
+        {
+          "label": "kambodhi-alapana-ssi-c02",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/kambodhi/11a-kambodhi-alapana-ssi-c02.mp3"
+        },
+        {
+          "label": "maajanaki-kambodhi-neraval-ssi-c02",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/kambodhi/11c-maajanaki-kambodhi-neraval-ssi-c02.mp3"
+        },
+        {
+          "label": "maajanaki-kambodhi-swarakalpana-ssi-c02",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/kambodhi/11d-maajanaki-kambodhi-swarakalpana-ssi-c02.mp3"
+        },
+        {
+          "label": "kambodhi-alapana-gnb-c06",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/kambodhi/05a-kambodhi-alapana-gnb-c06.mp3"
+        },
+        {
+          "label": "evarimata-kambodhi-alapana-alathur-c02",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/kambodhi/06a-evarimata-kambodhi-alapana-alathur-c02.mp3"
+        },
+        {
+          "label": "evarimata-kambodhi-swarakalpana-alathur-c02",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/kambodhi/06c-evarimata-kambodhi-swarakalpana-alathur-c02.mp3"
+        },
+        {
+          "label": "rtp-kambodhi-alapana-gnb-c02",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/kambodhi/08a-rtp-kambodhi-alapana-gnb-c02.mp3"
+        },
+        {
+          "label": "rtp-kambodhi-tanam-gnb-c02",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/kambodhi/08b-rtp-kambodhi-tanam-gnb-c02.mp3"
+        },
+        {
+          "label": "rtp-kambodhi-pallavi-neraval-gnb-c02",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/kambodhi/08c-rtp-kambodhi-pallavi-neraval-gnb-c02.mp3"
+        },
+        {
+          "label": "rtp-kambodhi-pallavi-swarakalpana-gnb-c02",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/kambodhi/08d-rtp-kambodhi-pallavi-swarakalpana-gnb-c02.mp3"
+        },
+        {
+          "label": "marimari-kambodhi-alapana-alathur-c01",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/kambodhi/17-FILLER-marimari-kambodhi-alapana-alathur-c01.mp3"
+        }
+      ]
+    },
+    {
+      "raga": "Kannada",
+      "anchor": "kannada",
+      "clips": [
+        {
+          "label": "saketa-kannada-swarakalpana-ssi-c12",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/kannada/06b-saketa-kannada-swarakalpana-ssi-c12.mp3"
+        },
+        {
+          "label": "srimathrubhootam-kannada-swarakalpana-ssi-c04",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/kannada/08b-srimathrubhootam-kannada-swarakalpana-ssi-c04.mp3"
+        },
+        {
+          "label": "saketa-kannada-swarakalpana-ssi-c07",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/kannada/09b-saketa-kannada-swarakalpana-ssi-c07.mp3"
+        },
+        {
+          "label": "saketa-kannada-swarakalpana-ssi-c05",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/kannada/10b-saketa-kannada-swarakalpana-ssi-c05.mp3"
+        }
+      ]
+    },
+    {
+      "raga": "Kapi",
+      "anchor": "kapi",
+      "clips": [
+        {
+          "label": "kapi-alapana-ssi-c10",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/kapi/10a-kapi-alapana-ssi-c10.mp3"
+        },
+        {
+          "label": "kapi-alapana-ssi-c11",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/kapi/13a-kapi-alapana-ssi-c11.mp3"
+        },
+        {
+          "label": "slokam-viruttam-kapi-ssi-c05",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/kapi/15a-slokam-viruttam-kapi-ssi-c05.mp3"
+        },
+        {
+          "label": "slokam-viruttam-kapi-ssi-c17",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/kapi/15a-slokam-viruttam-kapi-ssi-c17.mp3"
+        }
+      ]
+    },
+    {
+      "raga": "Karnataka Behag",
+      "anchor": "karnatakabehag",
+      "clips": [
+        {
+          "label": "nenendu-karnatakabehag-swarakalpana-ssi-c04",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/karnatakabehag/03b-nenendu-karnatakabehag-swarakalpana-ssi-c04.mp3"
+        }
+      ]
+    },
+    {
+      "raga": "Kedaragowla",
+      "anchor": "kedaragowla",
+      "clips": [
+        {
+          "label": "SSI-rtp-kedaragaula-alapana",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/kedaragowla/01a-SSI-rtp-kedaragaula-alapana.mp3"
+        },
+        {
+          "label": "SSI-rtp-kedaragaula-tanam",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/kedaragowla/01b-SSI-rtp-kedaragaula-tanam.mp3"
+        },
+        {
+          "label": "SSI-rtp-kedaragaula-neraval",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/kedaragowla/01c-SSI-rtp-kedaragaula-neraval.mp3"
+        },
+        {
+          "label": "SSI-rtp-kedaragaula-swarakalpana",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/kedaragowla/01d-SSI-rtp-kedaragaula-swarakalpana.mp3"
+        },
+        {
+          "label": "kedaragowla-alapana-mdr-c03",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/kedaragowla/03a-kedaragowla-alapana-mdr-c03.mp3"
+        },
+        {
+          "label": "neelakantam-kedaragowla-swarakalpana-mdr-c03",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/kedaragowla/03c-neelakantam-kedaragowla-swarakalpana-mdr-c03.mp3"
+        }
+      ]
+    },
+    {
+      "raga": "Kedaram",
+      "anchor": "kedaram",
+      "clips": [
+        {
+          "label": "kedaram-alapana-mdr-c02",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/kedaram/02a-kedaram-alapana-mdr-c02.mp3"
+        },
+        {
+          "label": "anandanatana-kedaram-neraval-mdr-c03",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/kedaram/02b-anandanatana-kedaram-neraval-mdr-c03.mp3"
+        },
+        {
+          "label": "ramaneepai-kedaram-swarakalpana-mdr-c06",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/kedaram/02b-ramaneepai-kedaram-swarakalpana-mdr-c06.mp3"
+        },
+        {
+          "label": "anandanatana-kedaram-swarakalpana-mdr-c02",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/kedaram/02c-anandanatana-kedaram-swarakalpana-mdr-c02.mp3"
+        },
+        {
+          "label": "anandanatana-kedaram-swarakalpana-mdr-c03",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/kedaram/02c-anandanatana-kedaram-swarakalpana-mdr-c03.mp3"
+        },
+        {
+          "label": "ramaneepai-kedaram-swarakalpana-alathur-c01",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/kedaram/01b-ramaneepai-kedaram-swarakalpana-alathur-c01.mp3"
+        }
+      ]
+    },
+    {
+      "raga": "Khamas",
+      "anchor": "khamas",
+      "clips": [
+        {
+          "label": "seethapathe-khamas-swarakalpana-ssi-c12",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/khamas/02b-seethapathe-khamas-swarakalpana-ssi-c12.mp3"
+        },
+        {
+          "label": "khamas-alapana-ssi-c13",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/khamas/09a-khamas-alapana-ssi-c13.mp3"
+        },
+        {
+          "label": "slokam-viruttam-khamas-ssi-c12",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/khamas/11a-slokam-viruttam-khamas-ssi-c12.mp3"
+        },
+        {
+          "label": "brochevarevarura-khamas-swarakalpana-gnb-c01",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/khamas/15b-FILLER-brochevarevarura-khamas-swarakalpana-gnb-c01.mp3"
+        }
+      ]
+    },
+    {
+      "raga": "Kharaharapriya",
+      "anchor": "kharaharapriya",
+      "clips": [
+        {
+          "label": "kharaharapriya_alapana-ssi-c03",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/kharaharapriya/06a_kharaharapriya_alapana-ssi-c03.mp3"
+        },
+        {
+          "label": "kharaharapriya-alapana-ssi-c16",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/kharaharapriya/06a-kharaharapriya-alapana-ssi-c16.mp3"
+        },
+        {
+          "label": "ramaneesamana_kharaharapriya_neraval-ssi-c03",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/kharaharapriya/06c_ramaneesamana_kharaharapriya_neraval-ssi-c03.mp3"
+        },
+        {
+          "label": "ramaneesamana-kharaharapriya-neraval-ssi-c16",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/kharaharapriya/06c-ramaneesamana-kharaharapriya-neraval-ssi-c16.mp3"
+        },
+        {
+          "label": "ramaneesamana_kharaharapriya_swarakalpana-ssi-c03",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/kharaharapriya/06d_ramaneesamana_kharaharapriya_swarakalpana-ssi-c03.mp3"
+        },
+        {
+          "label": "ramaneesamana-kharaharapriya-swarakalpana-ssi-c16",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/kharaharapriya/06d-ramaneesamana-kharaharapriya-swarakalpana-ssi-c16.mp3"
+        },
+        {
+          "label": "kharaharapriya-alapana-dkp-c04",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/kharaharapriya/08a-kharaharapriya-alapana-dkp-c04.mp3"
+        },
+        {
+          "label": "kharaharapriya-alapana-ssi-c05",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/kharaharapriya/08a-kharaharapriya-alapana-ssi-c05.mp3"
+        },
+        {
+          "label": "kharaharapriya-alapana-ssi-c07",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/kharaharapriya/08a-kharaharapriya-alapana-ssi-c07.mp3"
+        },
+        {
+          "label": "kharaharapriya-alapana-ssi-c11",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/kharaharapriya/08a-kharaharapriya-alapana-ssi-c11.mp3"
+        },
+        {
+          "label": "chakkaniraja-kharaharapriya-neraval-ssi-c11",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/kharaharapriya/08c-chakkaniraja-kharaharapriya-neraval-ssi-c11.mp3"
+        },
+        {
+          "label": "nidhamoru-kharaharapriya-swarakalpana-dkp-c04",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/kharaharapriya/08c-nidhamoru-kharaharapriya-swarakalpana-dkp-c04.mp3"
+        },
+        {
+          "label": "prakallanilabadi-kharaharapriya-neraval-ssi-c05",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/kharaharapriya/08c-prakallanilabadi-kharaharapriya-neraval-ssi-c05.mp3"
+        },
+        {
+          "label": "chakkaniraja-kharaharapriya-swarakalpana-ssi-c11",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/kharaharapriya/08d-chakkaniraja-kharaharapriya-swarakalpana-ssi-c11.mp3"
+        },
+        {
+          "label": "prakallanilabadi-kharaharapriya-swarakalpana-ssi-c05",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/kharaharapriya/08d-prakallanilabadi-kharaharapriya-swarakalpana-ssi-c05.mp3"
+        },
+        {
+          "label": "kharaharapriya-alapana-dkp-c06",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/kharaharapriya/09a-kharaharapriya-alapana-dkp-c06.mp3"
+        },
+        {
+          "label": "rtp-kharaharapriya-alapana-ssi-c17",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/kharaharapriya/09a-rtp-kharaharapriya-alapana-ssi-c17.mp3"
+        },
+        {
+          "label": "rtp-kharaharapriya-tanam-ssi-c17",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/kharaharapriya/09b-rtp-kharaharapriya-tanam-ssi-c17.mp3"
+        },
+        {
+          "label": "nadachi-kharaharapriya-swarakalpana-dkp-c06",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/kharaharapriya/09c-nadachi-kharaharapriya-swarakalpana-dkp-c06.mp3"
+        },
+        {
+          "label": "rtp-kharaharapriya-neraval-ssi-c17",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/kharaharapriya/09c-rtp-kharaharapriya-neraval-ssi-c17.mp3"
+        },
+        {
+          "label": "rtp-kharaharapriya-swarakalpana-ssi-c17",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/kharaharapriya/09d-rtp-kharaharapriya-swarakalpana-ssi-c17.mp3"
+        },
+        {
+          "label": "kharaharapriya-alapana-dkp-c07",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/kharaharapriya/10a-kharaharapriya-alapana-dkp-c07.mp3"
+        },
+        {
+          "label": "kharaharapriya-alapana-dkp-c02",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/kharaharapriya/15a-kharaharapriya-alapana-dkp-c02.mp3"
+        },
+        {
+          "label": "21a_FILLER_kharaharapriya_alapana-ssi-c12",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/kharaharapriya/21a_FILLER_kharaharapriya_alapana-ssi-c12.mp3"
+        },
+        {
+          "label": "chakkaniraja_kharaharapriya-neraval-ssi-c12",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/kharaharapriya/21c_FILLER_chakkaniraja_kharaharapriya-neraval-ssi-c12.mp3"
+        },
+        {
+          "label": "chakkaniraja_kharaharapriya-swarakalpana-ssi-c12",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/kharaharapriya/21d_FILLER_chakkaniraja_kharaharapriya-swarakalpana-ssi-c12.mp3"
+        },
+        {
+          "label": "FILLER-USRINIVAS-kharaharapriya-swarakalpana-ssi-c05",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/kharaharapriya/FILLER-USRINIVAS-kharaharapriya-swarakalpana-ssi-c05.mp3"
+        }
+      ]
+    },
+    {
+      "raga": "Kurinji",
+      "anchor": "kurinji",
+      "clips": [
+        {
+          "label": "kurinji-alapana-mdr-c03",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/kurinji/07a-kurinji-alapana-mdr-c03.mp3"
+        }
+      ]
+    },
+    {
+      "raga": "Madhyamavathi",
+      "anchor": "m-to-m",
+      "clips": [
+        {
+          "label": "madhyamavathi-alapana-dkp-c01",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/madhyamavathi/05a-madhyamavathi-alapana-dkp-c01.mp3"
+        },
+        {
+          "label": "adikisukhamu-madhyamavathi-neraval-dkp-c01",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/madhyamavathi/05c-adikisukhamu-madhyamavathi-neraval-dkp-c01.mp3"
+        },
+        {
+          "label": "adikisukhamu-madhyamavathi-swarakalpana-dkp-c01",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/madhyamavathi/05d-adikisukhamu-madhyamavathi-swarakalpana-dkp-c01.mp3"
+        },
+        {
+          "label": "madhyamavathi-alapana-dkp-c03",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/madhyamavathi/06a-madhyamavathi-alapana-dkp-c03.mp3"
+        },
+        {
+          "label": "adikisukhamu-madhyamavathi-neraval-dkp-c03",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/madhyamavathi/06c-adikisukhamu-madhyamavathi-neraval-dkp-c03.mp3"
+        },
+        {
+          "label": "adikisukhamu-madhyamavathi-swarakalpana-dkp-c03",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/madhyamavathi/06d-adikisukhamu-madhyamavathi-swarakalpana-dkp-c03.mp3"
+        },
+        {
+          "label": "adikisukhamu-madhyamavathi-swarakalpana",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/madhyamavathi/06d-adikisukhamu-madhyamavathi-swarakalpana.mp3"
+        },
+        {
+          "label": "madhyamavathi-alapana-incomplete-dkp-c05",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/madhyamavathi/08a-madhyamavathi-alapana-incomplete-dkp-c05.mp3"
+        },
+        {
+          "label": "adikisukhamu-madhyamavathi-neraval-dkp-c05",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/madhyamavathi/08c-adikisukhamu-madhyamavathi-neraval-dkp-c05.mp3"
+        },
+        {
+          "label": "adikisukhamu-madhyamavathi-swarakalpana-dkp-c05",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/madhyamavathi/08d-adikisukhamu-madhyamavathi-swarakalpana-dkp-c05.mp3"
+        },
+        {
+          "label": "rtp-madhyamavathi-alapana-dkp-c04",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/madhyamavathi/11a-rtp-madhyamavathi-alapana-dkp-c04.mp3"
+        },
+        {
+          "label": "rtp-madhyamavathi-tanam-dkp-c04",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/madhyamavathi/11b-rtp-madhyamavathi-tanam-dkp-c04.mp3"
+        },
+        {
+          "label": "rtp-madhyamavathi-pallavi-neraval-meenakshimaamadurai-dkp-c04",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/madhyamavathi/11c-rtp-madhyamavathi-pallavi-neraval-meenakshimaamadurai-dkp-c04.mp3"
+        },
+        {
+          "label": "rtp-madhyamavathi-pallavi-swarakalpana-meenakshimaamadurai-dkp-c04",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/madhyamavathi/11d-rtp-madhyamavathi-pallavi-swarakalpana-meenakshimaamadurai-dkp-c04.mp3"
+        },
+        {
+          "label": "madhyamavathi-alapana-gnb-nanja",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/madhyamavathi/06a-madhyamavathi-alapana-gnb-nanja.mp3"
+        }
+      ]
+    },
+    {
+      "raga": "Malavi",
+      "anchor": "malavi",
+      "clips": [
+        {
+          "label": "nenarunchinanu-malavi-swarakalpana-ssi-c18",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/malavi/07b-nenarunchinanu-malavi-swarakalpana-ssi-c18.mp3"
+        }
+      ]
+    },
+    {
+      "raga": "Malayamarutham",
+      "anchor": "malayamarutham",
+      "clips": [
+        {
+          "label": "manasayetu-malayamarutham-neraval-gnb-c02",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/malayamarutham/02b-manasayetu-malayamarutham-neraval-gnb-c02.mp3"
+        },
+        {
+          "label": "manasayetu-malayamarutham-swarakalpana-gnb-c02",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/malayamarutham/02c-manasayetu-malayamarutham-swarakalpana-gnb-c02.mp3"
+        }
+      ]
+    },
+    {
+      "raga": "Mandari",
+      "anchor": "mandari",
+      "clips": [
+        {
+          "label": "mandari-alapana-ssi-c15",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/mandari/04a-mandari-alapana-ssi-c15.mp3"
+        },
+        {
+          "label": "ninnucheppa-mandari-swarakalpana-ssi-c15",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/mandari/04c-ninnucheppa-mandari-swarakalpana-ssi-c15.mp3"
+        },
+        {
+          "label": "inthukupooja-mandari-alapana-alathur-c02",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/mandari/04a-inthukupooja-mandari-alapana-alathur-c02.mp3"
+        },
+        {
+          "label": "inthukupooja-mandari-swarakalpana-alathur-c02",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/mandari/04c-inthukupooja-mandari-swarakalpana-alathur-c02.mp3"
+        }
+      ]
+    },
+    {
+      "raga": "Manirangu",
+      "anchor": "manirangu",
+      "clips": [
+        {
+          "label": "manirangu-alapana-dkp-dkj",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/manirangu/06a-manirangu-alapana-dkp-dkj.mp3"
+        },
+        {
+          "label": "mamavapattabhirama-manirangu-swarakalpana-dkp-dkj",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/manirangu/06c-mamavapattabhirama-manirangu-swarakalpana-dkp-dkj.mp3"
+        },
+        {
+          "label": "manirangu-alapana-dkp-c06",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/manirangu/11a-manirangu-alapana-dkp-c06.mp3"
+        },
+        {
+          "label": "raanidhi-manirangu-swarakalpana-dkp-c06",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/manirangu/11c-raanidhi-manirangu-swarakalpana-dkp-c06.mp3"
+        },
+        {
+          "label": "mamavapattabhirama-manirangu-swarakalpana-dkp-c02",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/manirangu/12b-mamavapattabhirama-manirangu-swarakalpana-dkp-c02.mp3"
+        }
+      ]
+    },
+    {
+      "raga": "Mayamalavagowla",
+      "anchor": "mayamalavagowla",
+      "clips": [
+        {
+          "label": "mayamalavagowla-alapana-ssi-c11",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/mayamalavagowla/01a-mayamalavagowla-alapana-ssi-c11.mp3"
+        },
+        {
+          "label": "deva-deva-mayamalavagowla-neraval-ssi-c01",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/mayamalavagowla/01b-deva-deva-mayamalavagowla-neraval-ssi-c01.mp3"
+        },
+        {
+          "label": "deva-deva-mayamalavagowla-neraval-ssi-c13",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/mayamalavagowla/01b-deva-deva-mayamalavagowla-neraval-ssi-c13.mp3"
+        },
+        {
+          "label": "devadeva-mayamalavagowla-neraval-ssi-c11",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/mayamalavagowla/01c-devadeva-mayamalavagowla-neraval-ssi-c11.mp3"
+        },
+        {
+          "label": "deva-deva-mayamalavagowla-swarakalpana-ssi-c01",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/mayamalavagowla/01c-deva-deva-mayamalavagowla-swarakalpana-ssi-c01.mp3"
+        },
+        {
+          "label": "deva-deva-mayamalavagowla-swarakalpana-ssi-c13",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/mayamalavagowla/01c-deva-deva-mayamalavagowla-swarakalpana-ssi-c13.mp3"
+        },
+        {
+          "label": "devadeva-mayamalavagowla-swarakalpana-ssi-c11",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/mayamalavagowla/01d-devadeva-mayamalavagowla-swarakalpana-ssi-c11.mp3"
+        },
+        {
+          "label": "mayamalavagowla-alapana-ssi-c11",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/mayamalavagowla/01-mayamalavagowla-alapana-ssi-c11.mp3"
+        },
+        {
+          "label": "devadeva-mayamalavagowla-neraval-ssi-c04",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/mayamalavagowla/02b-devadeva-mayamalavagowla-neraval-ssi-c04.mp3"
+        },
+        {
+          "label": "devadeva-mayamalavagowla-neraval-ssi-c16",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/mayamalavagowla/02b-devadeva-mayamalavagowla-neraval-ssi-c16.mp3"
+        },
+        {
+          "label": "vidulaku-mayamalavagowla-swarakalpana-dkp-c05",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/mayamalavagowla/02b-vidulaku-mayamalavagowla-swarakalpana-dkp-c05.mp3"
+        },
+        {
+          "label": "vidulaku-mrokkeda-mayamalavagowla-swarakalpana-dkp-dkj",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/mayamalavagowla/02b-vidulaku-mrokkeda-mayamalavagowla-swarakalpana-dkp-dkj.mp3"
+        },
+        {
+          "label": "devadeva-mayamalavagowla-swarakalpana-ssi-c04",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/mayamalavagowla/02c-devadeva-mayamalavagowla-swarakalpana-ssi-c04.mp3"
+        },
+        {
+          "label": "devadeva-mayamalavagowla-swarakalpana-ssi-c16",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/mayamalavagowla/02c-devadeva-mayamalavagowla-swarakalpana-ssi-c16.mp3"
+        },
+        {
+          "label": "mayamalavagowla-alapana-mdr-c04",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/mayamalavagowla/03a-mayamalavagowla-alapana-mdr-c04.mp3"
+        },
+        {
+          "label": "merusamana-mayamalavagowla-swarakalpana-mdr-c04",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/mayamalavagowla/03c-merusamana-mayamalavagowla-swarakalpana-mdr-c04.mp3"
+        }
+      ]
+    },
+    {
+      "raga": "Mohanam",
+      "anchor": "mohanam",
+      "clips": [
+        {
+          "label": "mohanam-alapana-dkp-c07",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/mohanam/04a-mohanam-alapana-dkp-c07.mp3"
+        },
+        {
+          "label": "mohanarama-mohanam-swarakalpana-dkp-c07",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/mohanam/04c-mohanarama-mohanam-swarakalpana-dkp-c07.mp3"
+        },
+        {
+          "label": "mohanam-alapana-mdr-c06",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/mohanam/06a-mohanam-alapana-mdr-c06.mp3"
+        },
+        {
+          "label": "nannupalimpa-mohanam-neraval-mdr-c06",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/mohanam/06c-nannupalimpa-mohanam-neraval-mdr-c06.mp3"
+        },
+        {
+          "label": "nannupalimpa-mohanam-swarakalpana-mdr-c06",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/mohanam/06d-nannupalimpa-mohanam-swarakalpana-mdr-c06.mp3"
+        },
+        {
+          "label": "mohanam-alapana-dkp-c03",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/mohanam/14a-FILLER-mohanam-alapana-dkp-c03.mp3"
+        },
+        {
+          "label": "paripahimam-mohanam-swarakalpana-dkp-c03",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/mohanam/14c-FILLER-paripahimam-mohanam-swarakalpana-dkp-c03.mp3"
+        },
+        {
+          "label": "sriramaramani-mohanam-alapana-gnb-c02",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/mohanam/04a-sriramaramani-mohanam-alapana-gnb-c02.mp3"
+        },
+        {
+          "label": "sriramaramani-mohanam-neraval-gnb-c02",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/mohanam/04c-sriramaramani-mohanam-neraval-gnb-c02.mp3"
+        },
+        {
+          "label": "sriramaramani-mohanam-swarakalpana-gnb-c02",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/mohanam/04d-sriramaramani-mohanam-swarakalpana-gnb-c02.mp3"
+        }
+      ]
+    },
+    {
+      "raga": "Mukhari",
+      "anchor": "mukhari",
+      "clips": [
+        {
+          "label": "entaninne-mukhari-neraval-mdr-c01",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/mukhari/03b-entaninne-mukhari-neraval-mdr-c01.mp3"
+        },
+        {
+          "label": "entaninne-mukhari-swarakalpana-mdr-c01",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/mukhari/03c-entaninne-mukhari-swarakalpana-mdr-c01.mp3"
+        },
+        {
+          "label": "BrahmaKadigina-mukhari-ssi-air96-alapana",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/mukhari/05a-BrahmaKadigina-mukhari-ssi-air96-alapana.mp3"
+        },
+        {
+          "label": "mukhari_alapana-ssi-c12",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/mukhari/05a_mukhari_alapana-ssi-c12.mp3"
+        },
+        {
+          "label": "ksheenamai-mukhari-neraval-ssi-c12",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/mukhari/05c-ksheenamai-mukhari-neraval-ssi-c12.mp3"
+        },
+        {
+          "label": "ksheenamai-mukhari-swarakalpana-ssi-c12",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/mukhari/05d-ksheenamai-mukhari-swarakalpana-ssi-c12.mp3"
+        },
+        {
+          "label": "ksheenamai-mukhari-alapana-ssi-c01",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/mukhari/06a-ksheenamai-mukhari-alapana-ssi-c01.mp3"
+        },
+        {
+          "label": "ksheenamai-mukhari-neraval-ssi-tisai1960",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/mukhari/06b-ksheenamai-mukhari-neraval-ssi-tisai1960.mp3"
+        },
+        {
+          "label": "ksheenamai-mukhari-neraval-ssi-c01",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/mukhari/06c-ksheenamai-mukhari-neraval-ssi-c01.mp3"
+        },
+        {
+          "label": "ksheenamai-mukhari-swarakalpana-ssi-tisai1960",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/mukhari/06c-ksheenamai-mukhari-swarakalpana-ssi-tisai1960.mp3"
+        },
+        {
+          "label": "ksheenamai-mukhari-swarakalpana-ssi-c01",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/mukhari/06d-ksheenamai-mukhari-swarakalpana-ssi-c01.mp3"
+        },
+        {
+          "label": "mukhari_alapana-ssi-c03",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/mukhari/11a_mukhari_alapana-ssi-c03.mp3"
+        },
+        {
+          "label": "ksheenamai_mukhari_neraval-ssi-c03",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/mukhari/11c_ksheenamai_mukhari_neraval-ssi-c03.mp3"
+        },
+        {
+          "label": "ksheenamai_mukhari_swarakalpana-ssi-c03",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/mukhari/11d_ksheenamai_mukhari_swarakalpana-ssi-c03.mp3"
+        },
+        {
+          "label": "musiri-enthaninne-mukhari-neraval-ssi-c18",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/mukhari/17a-FILLER-musiri-enthaninne-mukhari-neraval-ssi-c18.mp3"
+        },
+        {
+          "label": "enthaninne-mukhari-swarakalpana-ssi-c18",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/mukhari/17b-FILLER-enthaninne-mukhari-swarakalpana-ssi-c18.mp3"
+        },
+        {
+          "label": "musiri-enthaninne-mukhari-swarakalpana-ssi-c18",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/mukhari/17b-FILLER-musiri-enthaninne-mukhari-swarakalpana-ssi-c18.mp3"
+        },
+        {
+          "label": "saraseeruhanana-mukhari-alapana-alathur-c02",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/mukhari/03a-saraseeruhanana-mukhari-alapana-alathur-c02.mp3"
+        },
+        {
+          "label": "saraseeruhanana-mukhari-swarakalpana-alathur-c02",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/mukhari/03c-saraseeruhanana-mukhari-swarakalpana-alathur-c02.mp3"
+        }
+      ]
+    },
+    {
+      "raga": "Nata Kuranji",
+      "anchor": "natakuranji",
+      "clips": [
+        {
+          "label": "needukoni-natakuranji-swarakalpana-mdr-c05",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/natakuranji/03b-needukoni-natakuranji-swarakalpana-mdr-c05.mp3"
+        },
+        {
+          "label": "natakuranji-alapana-ssi-c16",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/natakuranji/08a-natakuranji-alapana-ssi-c16.mp3"
+        },
+        {
+          "label": "rtp-natakuranji-alapana-ssi-c05",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/natakuranji/13a-rtp-natakuranji-alapana-ssi-c05.mp3"
+        },
+        {
+          "label": "rtp-natakuranji-tanam-ssi-c05",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/natakuranji/13b-rtp-natakuranji-tanam-ssi-c05.mp3"
+        },
+        {
+          "label": "rtp-natakuranji-pallavi-neraval-ssi-c05",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/natakuranji/13c-rtp-natakuranji-pallavi-neraval-ssi-c05.mp3"
+        },
+        {
+          "label": "rtp-natakuranji-pallavi-swarakalpana+ragamalika-ssi-c05",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/natakuranji/13d-rtp-natakuranji-pallavi-swarakalpana+ragamalika-ssi-c05.mp3"
+        }
+      ]
+    },
+    {
+      "raga": "Nayaki",
+      "anchor": "nayaki",
+      "clips": [
+        {
+          "label": "neebhajana-nayaki-swarakalpana-ssi-c11",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/nayaki/02b-neebhajana-nayaki-swarakalpana-ssi-c11.mp3"
+        },
+        {
+          "label": "nayaki-alapana-mdr-c01",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/nayaki/04a-nayaki-alapana-mdr-c01.mp3"
+        },
+        {
+          "label": "nayaki-alapana-ssi-c04",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/nayaki/05a-nayaki-alapana-ssi-c04.mp3"
+        },
+        {
+          "label": "neebhajana-nayaki-swarakalpana-ssi-c04",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/nayaki/05c-neebhajana-nayaki-swarakalpana-ssi-c04.mp3"
+        }
+      ]
+    },
+    {
+      "raga": "Neelambari",
+      "anchor": "neelambari",
+      "clips": [
+        {
+          "label": "nilambari-alapana-ssi-c11",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/neelambari/07a-nilambari-alapana-ssi-c11.mp3"
+        },
+        {
+          "label": "amba-neelayatakshi-nilambari-swarakalpana-ssi-c11",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/neelambari/07c-amba-neelayatakshi-nilambari-swarakalpana-ssi-c11.mp3"
+        },
+        {
+          "label": "nilambari-alapana-ssi-c16",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/neelambari/16a-nilambari-alapana-ssi-c16.mp3"
+        }
+      ]
+    },
+    {
+      "raga": "Panthuvarali",
+      "anchor": "p-to-p",
+      "clips": [
+        {
+          "label": "ninnenera-panthuvarali-neraval-dkp-c07",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/panthuvarali/02b-ninnenera-panthuvarali-neraval-dkp-c07.mp3"
+        },
+        {
+          "label": "ninnenera-panthuvarali-swarakalpana-dkp-c07",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/panthuvarali/02c-ninnenera-panthuvarali-swarakalpana-dkp-c07.mp3"
+        },
+        {
+          "label": "panthuvarali-alapana-dkp-c06",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/panthuvarali/03a-panthuvarali-alapana-dkp-c06.mp3"
+        },
+        {
+          "label": "sivasivasiva-panthuvarali-swarakalpana-ssi-c18",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/panthuvarali/03b-sivasivasiva-panthuvarali-swarakalpana-ssi-c18.mp3"
+        },
+        {
+          "label": "ninnenera-panthuvarali-neraval-dkp-c06",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/panthuvarali/03c-ninnenera-panthuvarali-neraval-dkp-c06.mp3"
+        },
+        {
+          "label": "ninnenera-panthuvarali-swarakalpana-dkp-c06",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/panthuvarali/03d-ninnenera-panthuvarali-swarakalpana-dkp-c06.mp3"
+        },
+        {
+          "label": "panthuvarali-alapana-dkp-c02",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/panthuvarali/04a-panthuvarali-alapana-dkp-c02.mp3"
+        },
+        {
+          "label": "panthuvarali-alapana-ssi-c02",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/panthuvarali/04a-panthuvarali-alapana-ssi-c02.mp3"
+        },
+        {
+          "label": "panthuvarali-alapana-ssi-c12",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/panthuvarali/04a-panthuvarali-alapana-ssi-c12.mp3"
+        },
+        {
+          "label": "chandana-panthuvarali-neraval-ssi-c12",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/panthuvarali/04c-chandana-panthuvarali-neraval-ssi-c12.mp3"
+        },
+        {
+          "label": "karunajooda-panthuvarali-swarakalpana-dkp-c02",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/panthuvarali/04c-karunajooda-panthuvarali-swarakalpana-dkp-c02.mp3"
+        },
+        {
+          "label": "paripalaya-panthuvarali-neraval-ssi-c02",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/panthuvarali/04c-paripalaya-panthuvarali-neraval-ssi-c02.mp3"
+        },
+        {
+          "label": "chandana-panthuvarali-swarakalpana-ssi-c12",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/panthuvarali/04d-chandana-panthuvarali-swarakalpana-ssi-c12.mp3"
+        },
+        {
+          "label": "paripalaya-panthuvarali-swarakalpana-ssi-c02",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/panthuvarali/04d-paripalaya-panthuvarali-swarakalpana-ssi-c02.mp3"
+        },
+        {
+          "label": "panthuvarali_alapana-ssi-c09",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/panthuvarali/18_FILLER_panthuvarali_alapana-ssi-c09.mp3"
+        },
+        {
+          "label": "panthuvarali-alapana-gnb-c01",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/panthuvarali/02a-panthuvarali-alapana-gnb-c01.mp3"
+        },
+        {
+          "label": "sundaratara-panthuvarali-swarakalpana-gnb-nanja",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/panthuvarali/02b-sundaratara-panthuvarali-swarakalpana-gnb-nanja.mp3"
+        },
+        {
+          "label": "paripalaya-panthuvarali-swarakalpana-gnb-c01",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/panthuvarali/02c-paripalaya-panthuvarali-swarakalpana-gnb-c01.mp3"
+        },
+        {
+          "label": "raghuvara-panthuvarali-alapana-gnb-c02",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/panthuvarali/03a-raghuvara-panthuvarali-alapana-gnb-c02.mp3"
+        },
+        {
+          "label": "raghuvara-panthuvarali-neraval-gnb-c02",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/panthuvarali/03c-raghuvara-panthuvarali-neraval-gnb-c02.mp3"
+        },
+        {
+          "label": "raghuvara-panthuvarali-swarakalpana-gnb-c02",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/panthuvarali/03d-raghuvara-panthuvarali-swarakalpana-gnb-c02.mp3"
+        }
+      ]
+    },
+    {
+      "raga": "Poornachandrika",
+      "anchor": "poornachandrika",
+      "clips": [
+        {
+          "label": "telisirama-poornachandrika-swarakalpana-gnb-c02",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/poornachandrika/07b-telisirama-poornachandrika-swarakalpana-gnb-c02.mp3"
+        }
+      ]
+    },
+    {
+      "raga": "Purvi Kalyani",
+      "anchor": "purvikalyani",
+      "clips": [
+        {
+          "label": "purvikalyani-alapana-ssi-tisai1960",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/purvikalyani/02a-purvikalyani-alapana-ssi-tisai1960.mp3"
+        },
+        {
+          "label": "anandanatam-purvikalyani-swarakalpana-ssi-tisai1960",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/purvikalyani/02c-anandanatam-purvikalyani-swarakalpana-ssi-tisai1960.mp3"
+        },
+        {
+          "label": "purvikalyani-alapana-ssi-c06",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/purvikalyani/03a-purvikalyani-alapana-ssi-c06.mp3"
+        },
+        {
+          "label": "purvi_kalyani_alapana-ssi-c09",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/purvikalyani/03a_purvi_kalyani_alapana-ssi-c09.mp3"
+        },
+        {
+          "label": "ananda_nata_purvikalyani_swarakalpana-ssi-c09",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/purvikalyani/03c_ananda_nata_purvikalyani_swarakalpana-ssi-c09.mp3"
+        },
+        {
+          "label": "manavajanma-purvikalyani-swarakalpana-ssi-c06",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/purvikalyani/03c-manavajanma-purvikalyani-swarakalpana-ssi-c06.mp3"
+        },
+        {
+          "label": "purvikalyani-alapana-ssi-c04",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/purvikalyani/04a-purvikalyani-alapana-ssi-c04.mp3"
+        },
+        {
+          "label": "purvikalyani-alapana-ssi-c05",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/purvikalyani/04a-purvikalyani-alapana-ssi-c05.mp3"
+        },
+        {
+          "label": "purvikalyani-alapana-ssi-c11",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/purvikalyani/04a-purvikalyani-alapana-ssi-c11.mp3"
+        },
+        {
+          "label": "purvikalyani-alapana-ssi-c19",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/purvikalyani/04a-purvikalyani-alapana-ssi-c19.mp3"
+        },
+        {
+          "label": "gnyanamosagarada-purvikalyani-swarakalpana-ssi-c11",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/purvikalyani/04c-gnyanamosagarada-purvikalyani-swarakalpana-ssi-c11.mp3"
+        },
+        {
+          "label": "moyyarkadal-purvikalyani-swarakalpana-ssi-c19",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/purvikalyani/04c-moyyarkadal-purvikalyani-swarakalpana-ssi-c19.mp3"
+        },
+        {
+          "label": "moyyar-purvikalyani-swarakalpana-ssi-c04",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/purvikalyani/04c-moyyar-purvikalyani-swarakalpana-ssi-c04.mp3"
+        },
+        {
+          "label": "moyyar-purvikalyani-swarakalpana-ssi-c05",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/purvikalyani/04c-moyyar-purvikalyani-swarakalpana-ssi-c05.mp3"
+        },
+        {
+          "label": "purvi_kalyani_alapana-ssi-c12",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/purvikalyani/20a_FILLER_purvi_kalyani_alapana-ssi-c12.mp3"
+        },
+        {
+          "label": "gnyanamosaga_purvikalyani-swarakalpana-ssi-c12",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/purvikalyani/20c_FILLER_gnyanamosaga_purvikalyani-swarakalpana-ssi-c12mp3.mp3"
+        },
+        {
+          "label": "purvikalyani-alapana-gnb-c06",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/purvikalyani/03a-purvikalyani-alapana-gnb-c06.mp3"
+        },
+        {
+          "label": "devadeva-purvikalyani-alapana-alathur-c01",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/purvikalyani/04a-devadeva-purvikalyani-alapana-alathur-c01.mp3"
+        },
+        {
+          "label": "devadeva-purvikalyani-swarakalpana-alathur-c01",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/purvikalyani/04c-devadeva-purvikalyani-swarakalpana-alathur-c01.mp3"
+        },
+        {
+          "label": "purvikalyani-alapana-gnb-c06",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/purvikalyani/12a-FILLER-purvikalyani-alapana-gnb-c06.mp3"
+        }
+      ]
+    },
+    {
+      "raga": "Pushpalathika",
+      "anchor": "pushpalathika",
+      "clips": [
+        {
+          "label": "pushpalathika-alapana-dkp-c03",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/pushpalathika/15a-FILLER-pushpalathika-alapana-dkp-c03.mp3"
+        },
+        {
+          "label": "ikanaina-pushpalathika-neraval-dkp-c03",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/pushpalathika/15c-FILLER-ikanaina-pushpalathika-neraval-dkp-c03.mp3"
+        },
+        {
+          "label": "ikanaina-pushpalathika-swarakalpana-dkp-c03",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/pushpalathika/15d-FILLER-ikanaina-pushpalathika-swarakalpana-dkp-c03.mp3"
+        }
+      ]
+    },
+    {
+      "raga": "Ragamalikas",
+      "anchor": "r-to-r",
+      "clips": [
+        {
+          "label": "slokam-viruttam-ragamalika-mdr-c03",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/ragamalika/06a-slokam-viruttam-ragamalika-mdr-c03.mp3"
+        },
+        {
+          "label": "slokam-viruttam-ragamalika-ssi-air96",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/ragamalika/06-slokam-viruttam-ragamalika-ssi-air96.mp3"
+        },
+        {
+          "label": "slokam-viruttam-ragamalika-mdr-c04",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/ragamalika/08-slokam-viruttam-ragamalika-mdr-c04.mp3"
+        },
+        {
+          "label": "slokam-viruttam-ragamalika-mdr-c05",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/ragamalika/10a-slokam-viruttam-ragamalika-mdr-c05.mp3"
+        },
+        {
+          "label": "slokam-viruttam-ragamalika-dkp-dkj",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/ragamalika/11a-slokam-viruttam-ragamalika-dkp-dkj.mp3"
+        },
+        {
+          "label": "slokam-viruttam-ragamalika-mdr-c02",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/ragamalika/11-slokam-viruttam-ragamalika-mdr-c02.mp3"
+        },
+        {
+          "label": "slokam-viruttam-ragamalika-dkp-c07",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/ragamalika/12a-slokam-viruttam-ragamalika-dkp-c07.mp3"
+        },
+        {
+          "label": "slokam-viruttam-ragamalika-ssi-c04",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/ragamalika/12a-slokam-viruttam-ragamalika-ssi-c04.mp3"
+        },
+        {
+          "label": "slokam-viruttam-ragamalika-ssi-c07",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/ragamalika/12a-slokam-viruttam-ragamalika-ssi-c07.mp3"
+        },
+        {
+          "label": "MaulamGanga-slokam-viruttam-ragamalika-ssi-lc01",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/ragamalika/12-MaulamGanga-slokam-viruttam-ragamalika-ssi-lc01.mp3"
+        },
+        {
+          "label": "slokam-viruttam-ragamalika-ssi-c16",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/ragamalika/13-slokam-viruttam-ragamalika-ssi-c16.mp3"
+        },
+        {
+          "label": "slokam-viruttam-ragamalika-ssi-c17",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/ragamalika/13-slokam-viruttam-ragamalika-ssi-c17.mp3"
+        },
+        {
+          "label": "viruttam-slokam-ragamalika-dkp-c03",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/ragamalika/13-viruttam-slokam-ragamalika-dkp-c03.mp3"
+        },
+        {
+          "label": "slokam-viruttam-ragamalika-dkp-c02",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/ragamalika/16-slokam-viruttam-ragamalika-dkp-c02.mp3"
+        },
+        {
+          "label": "slokam-viruttam-ragamalika-dkp-c06",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/ragamalika/16-slokam-viruttam-ragamalika-dkp-c06.mp3"
+        },
+        {
+          "label": "slokam-viruttam-ragamalika-gnb-c06",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/ragamalika/08-slokam-viruttam-ragamalika-gnb-c06.mp3"
+        },
+        {
+          "label": "slokam-viruttam-ragamalika-gnb-nanja",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/ragamalika/08-slokam-viruttam-ragamalika-gnb-nanja.mp3"
+        },
+        {
+          "label": "slokam-viruttam-ragamalika-gnb-c01",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/ragamalika/10-slokam-viruttam-ragamalika-gnb-c01.mp3"
+        }
+      ]
+    },
+    {
+      "raga": "Ravichandrika",
+      "anchor": "ravichandrika",
+      "clips": [
+        {
+          "label": "niravadhisukha-ravichandrika-swarakalpana-mdr-c06",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/ravichandrika/04b-niravadhisukha-ravichandrika-swarakalpana-mdr-c06.mp3"
+        },
+        {
+          "label": "maakelara-ravichandrika-swarakalpana-gnb-nanja",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/ravichandrika/01b-maakelara-ravichandrika-swarakalpana-gnb-nanja.mp3"
+        }
+      ]
+    },
+    {
+      "raga": "Reethigowla",
+      "anchor": "reethigowla",
+      "clips": [
+        {
+          "label": "reethigowlai-alapana-ssi-c18",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/reethigowla/04a-reethigowlai-alapana-ssi-c18.mp3"
+        },
+        {
+          "label": "dwaitamu-reethigowlai-swarakalpana-ssi-c18",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/reethigowla/04c-dwaitamu-reethigowlai-swarakalpana-ssi-c18.mp3"
+        },
+        {
+          "label": "reethigowlai-alapana-ssi-lc01",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/reethigowla/05a-reethigowlai-alapana-ssi-lc01.mp3"
+        },
+        {
+          "label": "reethigowlai-alapana-ssi-tisai1960",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/reethigowla/05a-reethigowlai-alapana-ssi-tisai1960.mp3"
+        },
+        {
+          "label": "janani-reethigowla-swarakalpana-ssi-c07",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/reethigowla/05b-janani-reethigowla-swarakalpana-ssi-c07.mp3"
+        },
+        {
+          "label": "dwaitamu-reethigowlai-swarakalpana-ssi-lc01",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/reethigowla/05c-dwaitamu-reethigowlai-swarakalpana-ssi-lc01.mp3"
+        },
+        {
+          "label": "enda-reethigowlai-swarakalpana-ssi-tisai1960",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/reethigowla/05c-enda-reethigowlai-swarakalpana-ssi-tisai1960.mp3"
+        },
+        {
+          "label": "reethigowlai-alapana-ssi-c04",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/reethigowla/07a-reethigowlai-alapana-ssi-c04.mp3"
+        },
+        {
+          "label": "dwaitamu-reethigowlai-swarakalpana-ssi-c04",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/reethigowla/07c-dwaitamu-reethigowlai-swarakalpana-ssi-c04.mp3"
+        },
+        {
+          "label": "badalikadheera-reethigowla-swarakalpana-mdr-c02",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/reethigowla/08b-badalikadheera-reethigowla-swarakalpana-mdr-c02.mp3"
+        },
+        {
+          "label": "reethigowla-alapana-gnb-nanja",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/reethigowla/03a-reethigowla-alapana-gnb-nanja.mp3"
+        },
+        {
+          "label": "reethigowla-alapana-gnb-nanja",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/reethigowla/03b-ragaratna-reethigowla-neraval-gnb-nanja.mp3"
+        },
+        {
+          "label": "ragaratna-reethigowla-swarakalpana-gnb-nanja",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/reethigowla/03c-ragaratna-reethigowla-swarakalpana-gnb-nanja.mp3"
+        }
+      ]
+    },
+    {
+      "raga": "Rudrapriya",
+      "anchor": "rudrapriya",
+      "clips": [
+        {
+          "label": "ambaparadevathe-rudrapriya-swarakalpana-alathur-c01",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/rudrapriya/03b-ambaparadevathe-rudrapriya-swarakalpana-alathur-c01.mp3"
+        }
+      ]
+    },
+    {
+      "raga": "Sahana",
+      "anchor": "sahana",
+      "clips": [
+        {
+          "label": "sahana-alapana-mdr-c02",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/sahana/04a-sahana-alapana-mdr-c02.mp3"
+        },
+        {
+          "label": "eevasudha-sahana-swarakalpana-mdr-c02",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/sahana/04c-eevasudha-sahana-swarakalpana-mdr-c02.mp3"
+        },
+        {
+          "label": "sahana-alapana-mdr-c04",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/sahana/06a-sahana-alapana-mdr-c04.mp3"
+        },
+        {
+          "label": "giripai-sahana-swarakalpana-mdr-c04",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/sahana/06c-giripai-sahana-swarakalpana-mdr-c04.mp3"
+        },
+        {
+          "label": "alapana-snippet-sahana-ssi-c12",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/sahana/13a-alapana-snippet-sahana-ssi-c12.mp3"
+        },
+        {
+          "label": "rtp-sahana-alapana-gnb-nanja",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/sahana/07a-rtp-sahana-alapana-gnb-nanja.mp3"
+        },
+        {
+          "label": "rtp-sahana-tanam-gnb-nanja",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/sahana/07b-rtp-sahana-tanam-gnb-nanja.mp3"
+        },
+        {
+          "label": "rtp-sahana-pallavi-neraval-garudagamana-gnb-nanja",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/sahana/07c-rtp-sahana-pallavi-neraval-garudagamana-gnb-nanja.mp3"
+        },
+        {
+          "label": "rtp-sahana-swarakalpana-garudagamana-gnb-nanja",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/sahana/07d-rtp-sahana-swarakalpana-garudagamana-gnb-nanja.mp3"
+        }
+      ]
+    },
+    {
+      "raga": "Salaga Bhairavi",
+      "anchor": "salagabhairavi",
+      "clips": [
+        {
+          "label": "padavini-salagabhairavi-swarakalpana-ssi-c10",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/salagabhairavi/03b-padavini-salagabhairavi-swarakalpana-ssi-c10.mp3"
+        },
+        {
+          "label": "salagabhairavi-alapana-ssi-c19",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/salagabhairavi/06a-salagabhairavi-alapana-ssi-c19.mp3"
+        },
+        {
+          "label": "padavini-salagabhairavi-swarakalpana-ssi-c19",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/salagabhairavi/06c-padavini-salagabhairavi-swarakalpana-ssi-c19.mp3"
+        },
+        {
+          "label": "padavini_salaga_bhairavi_swarakalpana-ssi-c09",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/salagabhairavi/07b_padavini_salaga_bhairavi_swarakalpana-ssi-c09.mp3"
+        },
+        {
+          "label": "padavini-salagabhairavi-alapana-alathur-c02",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/salagabhairavi/07a-padavini-salagabhairavi-alapana-alathur-c02.mp3"
+        }
+      ]
+    },
+    {
+      "raga": "Sama",
+      "anchor": "sama",
+      "clips": [
+        {
+          "label": "shantamuleka-sama-alapana-alathur-c01",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/sama/07a-shantamuleka-sama-alapana-alathur-c01.mp3"
+        },
+        {
+          "label": "shantamuleka-sama-swarakalpana-alathur-c01",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/sama/07c-shantamuleka-sama-swarakalpana-alathur-c01.mp3"
+        }
+      ]
+    },
+    {
+      "raga": "Saaranga",
+      "anchor": "saaranga",
+      "clips": [
+        {
+          "label": "neevadanegana-saranga-swarakalpana-ssi-c15",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/saranga/02b-neevadanegana-saranga-swarakalpana-ssi-c15.mp3"
+        },
+        {
+          "label": "saranga-alapana-ssi-air",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/saranga/03a-saranga-alapana-ssi-air.mp3"
+        },
+        {
+          "label": "entabhagya-saranga-swarakalpana-ssi-air",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/saranga/03c-entabhagya-saranga-swarakalpana-ssi-air.mp3"
+        }
+      ]
+    },
+    {
+      "raga": "Saraswati Manohari",
+      "anchor": "saraswatimanohari",
+      "clips": [
+        {
+          "label": "enthavedu-saraswati-manohari-swarakalpana-ssi-c05",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/saraswatimanohari/03b-enthavedu-saraswati-manohari-swarakalpana-ssi-c05.mp3"
+        }
+      ]
+    },
+    {
+      "raga": "Saveri",
+      "anchor": "saveri",
+      "clips": [
+        {
+          "label": "muruga-muruga-saveri-ssi-air96-alapana",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/saveri/04a-muruga-muruga-saveri-ssi-air96-alapana.mp3"
+        },
+        {
+          "label": "muruga-muruga-saveri-ssi-air96-tanam",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/saveri/04b-muruga-muruga-saveri-ssi-air96-tanam.mp3"
+        },
+        {
+          "label": "muruga-muruga-saveri-ssi-air96-swarakalpana",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/saveri/04d-muruga-muruga-saveri-ssi-air96-swarakalpana.mp3"
+        },
+        {
+          "label": "saveri-alapana-ssi-c05",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/saveri/06a-saveri-alapana-ssi-c05.mp3"
+        },
+        {
+          "label": "saveri-alapana-ssi-c13",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/saveri/06a-saveri-alapana-ssi-c13.mp3"
+        },
+        {
+          "label": "tulasijaga-saveri-neraval-ssi-c05",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/saveri/06c-tulasijaga-saveri-neraval-ssi-c05.mp3"
+        },
+        {
+          "label": "tulasijaga-saveri-swarakalpana-ssi-c05",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/saveri/06d-tulasijaga-saveri-swarakalpana-ssi-c05.mp3"
+        },
+        {
+          "label": "saveri-alapana-dkp-c05",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/saveri/07a-saveri-alapana-dkp-c05.mp3"
+        },
+        {
+          "label": "saveri-alapana-ssi-tisai1960",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/saveri/07a-saveri-alapana-ssi-tisai1960.mp3"
+        },
+        {
+          "label": "murugamuruga-saveri-neraval-ssi-tisai1960",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/saveri/07c-murugamuruga-saveri-neraval-ssi-tisai1960.mp3"
+        },
+        {
+          "label": "shankarishankuru-saveri-neraval-dkp-c05",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/saveri/07c-shankarishankuru-saveri-neraval-dkp-c05.mp3"
+        },
+        {
+          "label": "murugamuruga-saveri-swarakalpana-ssi-tisai1960",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/saveri/07d-murugamuruga-saveri-swarakalpana-ssi-tisai1960.mp3"
+        },
+        {
+          "label": "shankarishankuru-saveri-swarakalpana-dkp-c05",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/saveri/07d-shankarishankuru-saveri-swarakalpana-dkp-c05.mp3"
+        },
+        {
+          "label": "muruga-muruga-saveri-alapana-ssi-c01",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/saveri/12a-muruga-muruga-saveri-alapana-ssi-c01.mp3"
+        },
+        {
+          "label": "rtp-saveri-alapana-ssi-c15",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/saveri/12a-rtp-saveri-alapana-ssi-c15.mp3"
+        },
+        {
+          "label": "rtp-saveri-tanam-ssi-c15",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/saveri/12b-rtp-saveri-tanam-ssi-c15.mp3"
+        },
+        {
+          "label": "rtp-saveri-pallavi-neraval-ssi-c15",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/saveri/12c-rtp-saveri-pallavi-neraval-ssi-c15.mp3"
+        },
+        {
+          "label": "rtp-saveri-pallavi-swarakalpana-ssi-c15",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/saveri/12d-rtp-saveri-pallavi-swarakalpana-ssi-c15.mp3"
+        },
+        {
+          "label": "rtp-saveri-alapana-alathur-c02",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/saveri/08a-rtp-saveri-alapana-alathur-c02.mp3"
+        },
+        {
+          "label": "rtp-saveri-tanam-alathur-c02",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/saveri/08b-rtp-saveri-tanam-alathur-c02.mp3"
+        },
+        {
+          "label": "rtp-saveri-pallavi-neraval-alathur-c02",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/saveri/08c-rtp-saveri-pallavi-neraval-alathur-c02.mp3"
+        },
+        {
+          "label": "rtp-saveri-pallavi-swarakalpana-alathur-c02",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/saveri/08d-rtp-saveri-pallavi-swarakalpana-alathur-c02.mp3"
+        },
+        {
+          "label": "shankarishankuru-saveri-alapana-voleti-c01",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/saveri/04a-shankarishankuru-saveri-alapana-voleti-c01.mp3"
+        },
+        {
+          "label": "04c-shankarishankuru-saveri-neraval-voleti-c01.mp3",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/saveri/04c-shankarishankuru-saveri-neraval-voleti-c01.mp3"
+        },
+        {
+          "label": "04d-shankarishankuru-saveri-swarakalpana-voleti-c01.mp3",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/saveri/04d-shankarishankuru-saveri-swarakalpana-voleti-c01.mp3"
+        }
+      ]
+    },
+    {
+      "raga": "Senchu Kambodhi",
+      "anchor": "senchukambodhi",
+      "clips": [
+        {
+          "label": "vararaga-senchukambodhi-alapana-gnb-c01",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/senchukambodhi/07a-vararaga-senchukambodhi-alapana-gnb-c01.mp3"
+        }
+      ]
+    },
+    {
+      "raga": "Shankarabharanam",
+      "anchor": "shankarabharanam",
+      "clips": [
+        {
+          "label": "swararagasudha-shankarabharanam-swarakalpana-ssi-c17",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/shankarabharanam/03b-swararagasudha-shankarabharanam-swarakalpana-ssi-c17.mp3"
+        },
+        {
+          "label": "shankarabharanam-alapana-ssi-c10",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/shankarabharanam/04a-shankarabharanam-alapana-ssi-c10.mp3"
+        },
+        {
+          "label": "enduku-peddala-shankarabharanam-neraval-ssi-c10",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/shankarabharanam/04c-enduku-peddala-shankarabharanam-neraval-ssi-c10.mp3"
+        },
+        {
+          "label": "enduku-peddala-shankarabharanam-swarakalpana-ssi-c10",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/shankarabharanam/04d-enduku-peddala-shankarabharanam-swarakalpana-ssi-c10.mp3"
+        },
+        {
+          "label": "shankarabharanam-alapana-ssi-air",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/shankarabharanam/06a-shankarabharanam-alapana-ssi-air.mp3"
+        },
+        {
+          "label": "dakshinamurthe-shankarabharanam-swarakalpana-ssi-c04",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/shankarabharanam/06b-dakshinamurthe-shankarabharanam-swarakalpana-ssi-c04.mp3"
+        },
+        {
+          "label": "shankarabharanam-tanam-ssi-air",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/shankarabharanam/06b-shankarabharanam-tanam-ssi-air.mp3"
+        },
+        {
+          "label": "dakshinamurthe-shankarabharanam-swarakalpana-ssi-air",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/shankarabharanam/06d-dakshinamurthe-shankarabharanam-swarakalpana-ssi-air.mp3"
+        },
+        {
+          "label": "shankarabharanam-alapana-ssi-c19",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/shankarabharanam/08a-shankarabharanam-alapana-ssi-c19.mp3"
+        },
+        {
+          "label": "dakshinamurthe-shankarabharanam-swarakalpana-ssi-c19",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/shankarabharanam/08c-dakshinamurthe-shankarabharanam-swarakalpana-ssi-c19.mp3"
+        },
+        {
+          "label": "rtp-shankarabharanam-alapana-ssi-c06",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/shankarabharanam/09a-rtp-shankarabharanam-alapana-ssi-c06.mp3"
+        },
+        {
+          "label": "rtp-shankarabharanam-tanam-ssi-c06",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/shankarabharanam/09b-rtp-shankarabharanam-tanam-ssi-c06.mp3"
+        },
+        {
+          "label": "rtp-shankarabharanam-pallavi-neraval-ssi-c06",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/shankarabharanam/09c-rtp-shankarabharanam-pallavi-neraval-ssi-c06.mp3"
+        },
+        {
+          "label": "rtp-shankarabharanam-pallavi-swarakalpana-ssi-c06",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/shankarabharanam/09d-rtp-shankarabharanam-pallavi-swarakalpana-ssi-c06.mp3"
+        },
+        {
+          "label": "rtp-shankarabharanam-alapana-mdr-c02",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/shankarabharanam/10a-rtp-shankarabharanam-alapana-mdr-c02.mp3"
+        },
+        {
+          "label": "rtp-shankarabharanam-tanam-mdr-c02",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/shankarabharanam/10b-rtp-shankarabharanam-tanam-mdr-c02.mp3"
+        },
+        {
+          "label": "rtp-shankarabharanam-pallavi-neraval-chandamama-mdr-c02",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/shankarabharanam/10c-rtp-shankarabharanam-pallavi-neraval-chandamama-mdr-c02.mp3"
+        },
+        {
+          "label": "rtp-shankarabharanam-pallavi-swarakalpana-mdr-c02",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/shankarabharanam/10d-rtp-shankarabharanam-pallavi-swarakalpana-mdr-c02.mp3"
+        },
+        {
+          "label": "rtp-shankarabharanam-alapana-ssi-c16",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/shankarabharanam/11a-rtp-shankarabharanam-alapana-ssi-c16.mp3"
+        },
+        {
+          "label": "rtp-shankarabharanam-tanam-ssi-c16",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/shankarabharanam/11b-rtp-shankarabharanam-tanam-ssi-c16.mp3"
+        },
+        {
+          "label": "rtp-shankarabharanam-pallavi-neraval-ssi-c16",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/shankarabharanam/11c-rtp-shankarabharanam-pallavi-neraval-ssi-c16.mp3"
+        },
+        {
+          "label": "shankarabharanam-pallavi-swarakalpana-ssi-c16",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/shankarabharanam/11d-rtp-shankarabharanam-pallavi-swarakalpana-ssi-c16.mp3"
+        },
+        {
+          "label": "shankarabharanam-alapana-ssi-c13",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/shankarabharanam/13a-FILLER-shankarabharanam-alapana-ssi-c13.mp3"
+        },
+        {
+          "label": "bhaktha-parayana-shankarabharanam-neraval-ssi-c13",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/shankarabharanam/13c-FILLER-bhaktha-parayana-shankarabharanam-neraval-ssi-c13.mp3"
+        },
+        {
+          "label": "bhaktha-parayana-shankarabharanam-swarakalpana-ssi-c13",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/shankarabharanam/13d-FILLER-bhaktha-parayana-shankarabharanam-swarakalpana-ssi-c13.mp3"
+        },
+        {
+          "label": "shankaracharyam_shankarabharanam_neraval-ssi-c09",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/shankarabharanam/17b_FILLER_shankaracharyam_shankarabharanam_neraval-ssi-c09.mp3"
+        },
+        {
+          "label": "shankaracharyam_shankarabharanam_swarakalpana-ssi-c09",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/shankarabharanam/17c_FILLER_shankaracharyam_shankarabharanam_swarakalpana-ssi-c09.mp3"
+        },
+        {
+          "label": "shankarabharanam-alapana-gnb-nanja",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/shankarabharanam/05a-shankarabharanam-alapana-gnb-nanja.mp3"
+        },
+        {
+          "label": "nannubrovakanu-shankarabharanam-swarakalpana-gnb-nanja",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/shankarabharanam/05c-nannubrovakanu-shankarabharanam-swarakalpana-gnb-nanja.mp3"
+        }
+      ]
+    },
+    {
+      "raga": "Shanmukhapriya",
+      "anchor": "shanmukhapriya",
+      "clips": [
+        {
+          "label": "siddhi-vinayakam-shanmukhapriya-swarakalpana-ssi-c17",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/shanmukhapriya/02b-siddhi-vinayakam-shanmukhapriya-swarakalpana-ssi-c17.mp3"
+        },
+        {
+          "label": "rtp_shanmukhapriya_alapana-ssi-c09",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/shanmukhapriya/09a_rtp_shanmukhapriya_alapana-ssi-c09.mp3"
+        },
+        {
+          "label": "rtp_shanmukhapriya-tanam-ssi-c09",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/shanmukhapriya/09b_rtp_shanmukhapriya-tanam-ssi-c09.mp3"
+        },
+        {
+          "label": "rtp_shanmukhapriya_neraval-ssi-c09",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/shanmukhapriya/09c_rtp_shanmukhapriya_neraval-ssi-c09.mp3"
+        },
+        {
+          "label": "rtp_shanmukhapriya_swarakalpana+ragamalika-ssi-c09",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/shanmukhapriya/09d_rtp_shanmukhapriya_swarakalpana+ragamalika-ssi-c09.mp3"
+        },
+        {
+          "label": "shanmukhapriya-alapana-ssi-c16",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/shanmukhapriya/22a-FILLER-shanmukhapriya-alapana-ssi-c16.mp3"
+        },
+        {
+          "label": "siddhivinayakam-shanmukhapriya-swarakalpana-ssi-c16",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/shanmukhapriya/22c-FILLER-siddhivinayakam-shanmukhapriya-swarakalpana-ssi-c16.mp3"
+        },
+        {
+          "label": "rtp-shanmukhapriya-alapana-gnb-c01",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/shanmukhapriya/08a-rtp-shanmukhapriya-alapana-gnb-c01.mp3"
+        },
+        {
+          "label": "rtp-shanmukhapriya-tanam-gnb-c01",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/shanmukhapriya/08b-rtp-shanmukhapriya-tanam-gnb-c01.mp3"
+        },
+        {
+          "label": "rtp-shanmukhapriya-pallavi-neraval-gnb-c01",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/shanmukhapriya/08c-rtp-shanmukhapriya-pallavi-neraval-gnb-c01.mp3"
+        },
+        {
+          "label": "rtp-shanmukhapriya-pallavi-swarakalpana-gnb-c01",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/shanmukhapriya/08d-rtp-shanmukhapriya-pallavi-swarakalpana-gnb-c01.mp3"
+        },
+        {
+          "label": "rtp-shanmukhapriya-alapana-alathur-c01",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/shanmukhapriya/09a-rtp-shanmukhapriya-alapana-alathur-c01.mp3"
+        },
+        {
+          "label": "rtp-shanmukhapriya-tanam-alathur-c01",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/shanmukhapriya/09b-rtp-shanmukhapriya-tanam-alathur-c01.mp3"
+        },
+        {
+          "label": "rtp-shanmukhapriya-pallavi-neraval-alathur-c01",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/shanmukhapriya/09c-rtp-shanmukhapriya-pallavi-neraval-alathur-c01.mp3"
+        },
+        {
+          "label": "rtp-shanmukhapriya-swarakalpana-alathur-c01",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/shanmukhapriya/09e-rtp-shanmukhapriya-swarakalpana-alathur-c01.mp3"
+        }
+      ]
+    },
+    {
+      "raga": "Shuddha Dhanyasi",
+      "anchor": "suddhadhanyasi",
+      "clips": [
+        {
+          "label": "DKP Alapana C05",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/dhanyasi/03a-shuddhadhanyasi-alapana-dkp-c05.mp3"
+        },
+        {
+          "label": "DKP Neraval C05",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/dhanyasi/03c-entanerchina-shuddhadhanyasi-neraval-dkp-c05.mp3"
+        },
+        {
+          "label": "DKP Swarakalpana C05",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/dhanyasi/03d-entanerchina-shuddhadhanyasi-swarakalpana-dkp-c05.mp3"
+        }
+      ]
+    },
+    {
+      "raga": "Shuddha Saveri: (or Devakriya)",
+      "anchor": "shuddhasaveri",
+      "clips": [
+        {
+          "label": "MDR Swarakalpana (Darini) C01",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/asaveri/05b-darinitelusu-suddhasaveri-swarakalpana-mdr-c01.mp3"
+        },
+        {
+          "label": "kalaharana-shuddha-saveri-swarakalpana-dkp-dkj",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/saveri/08b-kalaharana-shuddha-saveri-swarakalpana-dkp-dkj.mp3"
+        }
+      ]
+    },
+    {
+      "raga": "Shuddha Seemanthini",
+      "anchor": "shuddhaseemanthini",
+      "clips": [
+        {
+          "label": "SSI Swarakalpana (janakiramana) C06",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/suddhaseemanthini/01b-janakiramana-suddhaseemanthini-swarakalpana-ssi-c06.mp3"
+        }
+      ]
+    },
+    {
+      "raga": "Sri Ranjani",
+      "anchor": "sriranjani",
+      "clips": [
+        {
+          "label": "sriranjani-alapana-mdr-c05",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/sriranjani/02a-sriranjani-alapana-mdr-c05.mp3"
+        },
+        {
+          "label": "brochevarevare-sriranjani-swarakalpana-ssi-c18",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/sriranjani/02b-brochevarevare-sriranjani-swarakalpana-ssi-c18.mp3"
+        },
+        {
+          "label": "sogasuga-sriranjani-swarakalpana-mdr-c05",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/sriranjani/02c-sogasuga-sriranjani-swarakalpana-mdr-c05.mp3"
+        },
+        {
+          "label": "marubalka-sriranjani-neraval-ssi-c01",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/sriranjani/04b-marubalka-sriranjani-neraval-ssi-c01.mp3"
+        },
+        {
+          "label": "marubalka-sriranjani-neraval-ssi-c06",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/sriranjani/04b-marubalka-sriranjani-neraval-ssi-c06.mp3"
+        },
+        {
+          "label": "marubalka-sriranjani-swarakalpana-ssi-c01",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/sriranjani/04c-marubalka-sriranjani-swarakalpana-ssi-c01.mp3"
+        },
+        {
+          "label": "marubalka-sriranjani-swarakalpana-ssi-c06",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/sriranjani/04c-marubalka-sriranjani-swarakalpana-ssi-c06.mp3"
+        },
+        {
+          "label": "marubalka-sriranjani-neraval-ssi-c10",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/sriranjani/06b-marubalka-sriranjani-neraval-ssi-c10.mp3"
+        },
+        {
+          "label": "marubalka-sriranjani-neraval-ssi-c11",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/sriranjani/06b-marubalka-sriranjani-neraval-ssi-c11.mp3"
+        },
+        {
+          "label": "marubalka-sriranjani-swarakalpana-ssi-c10",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/sriranjani/06c-marubalka-sriranjani-swarakalpana-ssi-c10.mp3"
+        },
+        {
+          "label": "marubalka-sriranjani-swarakalpana-ssi-c11",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/sriranjani/06c-marubalka-sriranjani-swarakalpana-ssi-c11.mp3"
+        },
+        {
+          "label": "bhuvidasudane-sriranjani-neraval-ssi-c17",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/sriranjani/07a-sriranjani-alapana-ssi-lc01.mp3"
+        },
+        {
+          "label": "bhuvidasudane-sriranjani-neraval-ssi-c17",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/sriranjani/07b-bhuvidasudane-sriranjani-neraval-ssi-c17.mp3"
+        },
+        {
+          "label": "chittameranga-sriranjani-swarakalpana-dkp-c03",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/sriranjani/07b-chittameranga-sriranjani-swarakalpana-dkp-c03.mp3"
+        },
+        {
+          "label": "bhuvidasudane-sriranjani-swarakalpana-ssi-c17",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/sriranjani/07c-bhuvidasudane-sriranjani-swarakalpana-ssi-c17.mp3"
+        },
+        {
+          "label": "marubalka-sriranjani-neraval-ssi-lc01",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/sriranjani/07c-marubalka-sriranjani-neraval-ssi-lc01.mp3"
+        },
+        {
+          "label": "marubalka-sriranjani-swarakalpana-ssi-lc01",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/sriranjani/07d-marubalka-sriranjani-swarakalpana-ssi-lc01.mp3"
+        },
+        {
+          "label": "marubalka_sriranjani_neraval-ssi-c03",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/sriranjani/09b_marubalka_sriranjani_neraval-ssi-c03.mp3"
+        },
+        {
+          "label": "marubalka_sriranjani_swarakalpana-ssi-c03",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/sriranjani/09c_marubalka_sriranjani_swarakalpana-ssi-c03.mp3"
+        }
+      ]
+    },
+    {
+      "raga": "Surutti",
+      "anchor": "surutti",
+      "clips": [
+        {
+          "label": "surutti-alapana-ssi-air",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/surutti/01a-surutti-alapana-ssi-air.mp3"
+        },
+        {
+          "label": "surutti-varnam-swarakalpana-ssi-c18",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/surutti/01b-surutti-varnam-swarakalpana-ssi-c18.mp3"
+        },
+        {
+          "label": "surutti-varnam-swarakalpana-ssi-air",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/surutti/01c-surutti-varnam-swarakalpana-ssi-air.mp3"
+        },
+        {
+          "label": "surutti-alapana-gnb-c06",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/surutti/15a-FILLER-surutti-alapana-gnb-c06.mp3"
+        }
+      ]
+    },
+    {
+      "raga": "Thodi",
+      "anchor": "t-to-t",
+      "clips": [
+        {
+          "label": "thodi-alapana-ssi-air",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/thodi/04a-thodi-alapana-ssi-air.mp3"
+        },
+        {
+          "label": "kaddanuvariki-thodi-neraval-ssi-air",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/thodi/04c-kaddanuvariki-thodi-neraval-ssi-air.mp3"
+        },
+        {
+          "label": "kaddanuvariki-thodi-swarakalpana-ssi-air",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/thodi/04d-kaddanuvariki-thodi-swarakalpana-ssi-air.mp3"
+        },
+        {
+          "label": "thodi-alapana-mdr-c01",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/thodi/06a-thodi-alapana-mdr-c01.mp3"
+        },
+        {
+          "label": "thodi-alapana-ssi-c15",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/thodi/06a-thodi-alapana-ssi-c15.mp3"
+        },
+        {
+          "label": "gajavadana-thodi-swarakalpana-ssi-c15",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/thodi/06c-gajavadana-thodi-swarakalpana-ssi-c15.mp3"
+        },
+        {
+          "label": "koluvamaregada-thodi-neraval-mdr-c01",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/thodi/06c-koluvamaregada-thodi-neraval-mdr-c01.mp3"
+        },
+        {
+          "label": "koluvamaregada-thodi-swarakalpana-mdr-c01",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/thodi/06d-koluvamaregada-thodi-swarakalpana-mdr-c01.mp3"
+        },
+        {
+          "label": "rtp-thodi-alapana-ssi-c10",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/thodi/07a-rtp-thodi-alapana-ssi-c10.mp3"
+        },
+        {
+          "label": "thodi-alapana-ssi-c19",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/thodi/07a-thodi-alapana-ssi-c19.mp3"
+        },
+        {
+          "label": "ambanannu-thodi-neraval-ssi-c01",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/thodi/07b-ambanannu-thodi-neraval-ssi-c01.mp3"
+        },
+        {
+          "label": "rtp-thodi-tanam-ssi-c10",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/thodi/07b-rtp-thodi-tanam-ssi-c10.mp3"
+        },
+        {
+          "label": "ambanannu-thodi-swarakalpana-ssi-c01",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/thodi/07c-ambanannu-thodi-swarakalpana-ssi-c01.mp3"
+        },
+        {
+          "label": "gajavadana-thodi-neraval-ssi-c19",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/thodi/07c-gajavadana-thodi-neraval-ssi-c19.mp3"
+        },
+        {
+          "label": "rtp-thodi-pallavi-neraval-ssi-c10",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/thodi/07c-rtp-thodi-pallavi-neraval-ssi-c10.mp3"
+        },
+        {
+          "label": "gajavadana-thodi-swarakalpana-ssi-c19",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/thodi/07d-gajavadana-thodi-swarakalpana-ssi-c19.mp3"
+        },
+        {
+          "label": "rtp-thodi-pallavi-swarakalpana+ragamalika-ssi-c10",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/thodi/07d-rtp-thodi-pallavi-swarakalpana+ragamalika-ssi-c10.mp3"
+        },
+        {
+          "label": "thodi-alapana-dkp-c02",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/thodi/08a-thodi-alapana-dkp-c02.mp3"
+        },
+        {
+          "label": "thodi_alapana-ssi-c12",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/thodi/08a_thodi_alapana-ssi-c12.mp3"
+        },
+        {
+          "label": "thodi-alapana-ssi-c17",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/thodi/08a-thodi-alapana-ssi-c17.mp3"
+        },
+        {
+          "label": "nannubrochutaku-thodi-swarakalpana-dkp-c07",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/thodi/08b-nannubrochutaku-thodi-swarakalpana-dkp-c07.mp3"
+        },
+        {
+          "label": "emanimatla-thodi-neraval-ssi-c12",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/thodi/08c-emanimatla-thodi-neraval-ssi-c12.mp3"
+        },
+        {
+          "label": "emijesithe-thodi-neraval-incomplete-dkp-c02",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/thodi/08c-emijesithe-thodi-neraval-incomplete-dkp-c02.mp3"
+        },
+        {
+          "label": "mahaganapati-thodi-swarakalpana-ssi-c17",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/thodi/08c-mahaganapati-thodi-swarakalpana-ssi-c17.mp3"
+        },
+        {
+          "label": "emanimatla-thodi-swarakalpana-ssi-c12",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/thodi/08d-emanimatla-thodi-swarakalpana-ssi-c12.mp3"
+        },
+        {
+          "label": "emijesithe-thodi-swarakalpana-incomplete-dkp-c02",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/thodi/08d-emijesithe-thodi-swarakalpana-incomplete-dkp-c02.mp3"
+        },
+        {
+          "label": "SSI TodiAlapanai",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/thodi/08TodiAlapanai.mp3"
+        },
+        {
+          "label": "thodi-alapana-dkp-c06",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/thodi/10a-thodi-alapana-dkp-c06.mp3"
+        },
+        {
+          "label": "dasukovalena-thodi-swarakalpana-dkp-c06",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/thodi/10c-dasukovalena-thodi-swarakalpana-dkp-c06.mp3"
+        },
+        {
+          "label": "rtp-thodi-alapana-dkp-c05",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/thodi/12a-rtp-thodi-alapana-dkp-c05.mp3"
+        },
+        {
+          "label": "rtp-thodi-tanam-dkp-c05",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/thodi/12b-rtp-thodi-tanam-dkp-c05.mp3"
+        },
+        {
+          "label": "rtp-thodi-pallavi-neraval-vennaithinna-dkp-c05",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/thodi/12c-rtp-thodi-pallavi-neraval-vennaithinna-dkp-c05.mp3"
+        },
+        {
+          "label": "rtp-thodi-pallavi-swarakalpana-vennaithinna-dkp-c05",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/thodi/12d-rtp-thodi-pallavi-swarakalpana-vennaithinna-dkp-c05.mp3"
+        },
+        {
+          "label": "thodi-alapana-dkp-c03",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/thodi/16a-thodi-alapana-dkp-c03.mp3"
+        },
+        {
+          "label": "thodi-alapana-ssi-c02",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/thodi/17a-FILLER-thodi-alapana-ssi-c02.mp3"
+        },
+        {
+          "label": "dasuko-thodi-neraval-ssi-c02",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/thodi/17c-FILLER-dasuko-thodi-neraval-ssi-c02.mp3"
+        },
+        {
+          "label": "dasuko-thodi-swarakalpana-ssi-c02",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/thodi/17d-FILLER-dasuko-thodi-swarakalpana-ssi-c02.mp3"
+        },
+        {
+          "label": "dasukovalena-thodi-neraval-dkp-c04",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/thodi/18b-FILLER-dasukovalena-thodi-neraval-dkp-c04.mp3"
+        },
+        {
+          "label": "dasukovalena-thodi-swarakalpana-dkp-c04",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/thodi/18c-FILLER-dasukovalena-thodi-swarakalpana-dkp-c04.mp3"
+        },
+        {
+          "label": "gajavadana_thodi_violin_alapana-ssi-c09",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/thodi/19a_FILLER_gajavadana_thodi_violin_alapana-ssi-c09.mp3"
+        },
+        {
+          "label": "gajavadana_thodi_neraval-ssi-c09",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/thodi/19c_FILLER_gajavadana_thodi_neraval-ssi-c09.mp3"
+        },
+        {
+          "label": "gajavadana_thodi_swarakalpana-ssi-c09",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/thodi/19d_FILLER_gajavadana_thodi_swarakalpana-ssi-c09.mp3"
+        },
+        {
+          "label": "dasukovalena-thodi-alapana-alathur-c02",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/thodi/05a-dasukovalena-thodi-alapana-alathur-c02.mp3"
+        },
+        {
+          "label": "endukudaya-thodi-alapana-alathur-c01",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/thodi/05a-endukudaya-thodi-alapana-alathur-c01.mp3"
+        },
+        {
+          "label": "thamathamen-thodi-alapana-gnb-c02",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/thodi/05a-thamathamen-thodi-alapana-gnb-c02.mp3"
+        },
+        {
+          "label": "dasukovalena-thodi-neraval-alathur-c02",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/thodi/05c-dasukovalena-thodi-neraval-alathur-c02.mp3"
+        },
+        {
+          "label": "endukudaya-thodi-neraval-alathur-c01",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/thodi/05c-endukudaya-thodi-neraval-alathur-c01.mp3"
+        },
+        {
+          "label": "thamathamen-thodi-swarakalpana-gnb-c02",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/thodi/05c-thamathamen-thodi-swarakalpana-gnb-c02.mp3"
+        },
+        {
+          "label": "dasukovalena-thodi-swarakalpana-alathur-c02",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/thodi/05d-dasukovalena-thodi-swarakalpana-alathur-c02.mp3"
+        },
+        {
+          "label": "endukudaya-thodi-swarakalpana-alathur-c01",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/thodi/05d-endukudaya-thodi-swarakalpana-alathur-c01.mp3"
+        },
+        {
+          "label": "rtp-thodi-alapana-gnb-c06",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/thodi/07a-rtp-thodi-alapana-gnb-c06.mp3"
+        },
+        {
+          "label": "rtp-thodi-tanam-gnb-c06",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/thodi/07b-rtp-thodi-tanam-gnb-c06.mp3"
+        },
+        {
+          "label": "thodi-alapana-gnb-c06",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/thodi/14a-FILLER-thodi-alapana-gnb-c06.mp3"
+        }
+      ]
+    },
+    {
+      "raga": "Vachaspathi",
+      "anchor": "vachaspathi",
+      "clips": [
+        {
+          "label": "rtp-vachaspathi-alapana-dkp-c06",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/vachaspathi/15a-rtp-vachaspathi-alapana-dkp-c06.mp3"
+        },
+        {
+          "label": "rtp-vachaspathi-tanam-dkp-c06",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/vachaspathi/15b-rtp-vachaspathi-tanam-dkp-c06.mp3"
+        },
+        {
+          "label": "rtp-vachaspathi-neraval-pallavi-maalmaruganai-dkp-c06",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/vachaspathi/15c-rtp-vachaspathi-neraval-pallavi-maalmaruganai-dkp-c06.mp3"
+        },
+        {
+          "label": "rtp-vachaspathi-pallavi-swarakalpana-maalmaruganai-dkp-c06",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/vachaspathi/15e-rtp-vachaspathi-pallavi-swarakalpana-maalmaruganai-dkp-c06.mp3"
+        }
+      ]
+    },
+    {
+      "raga": "Varali",
+      "anchor": "varali",
+      "clips": [
+        {
+          "label": "rtp-varali-alapana-ssi-c18",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/varali/09a-rtp-varali-alapana-ssi-c18.mp3"
+        },
+        {
+          "label": "varali-alapana-ssi-c16",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/varali/09a-varali-alapana-ssi-c16.mp3"
+        },
+        {
+          "label": "etijanma-varali-swarakalpana-dkp-dkj-pmi",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/varali/09b-etijanma-varali-swarakalpana-dkp-dkj-pmi.mp3"
+        },
+        {
+          "label": "rtp-varali-tanam-ssi-c18",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/varali/09b-rtp-varali-tanam-ssi-c18.mp3"
+        },
+        {
+          "label": "mamava-meenakshi-varali-neraval-ssi-c16",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/varali/09c-mamava-meenakshi-varali-neraval-ssi-c16.mp3"
+        },
+        {
+          "label": "rtp-varali-pallavi-neraval-ssi-c18",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/varali/09c-rtp-varali-pallavi-neraval-ssi-c18.mp3"
+        },
+        {
+          "label": "SSI Swarakalpana (Mamava Meenakshi) C18",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/varali/09d-mamava-meenakshi-varali-swarakalpana-ssi-c16.mp3"
+        },
+        {
+          "label": "SSI Swarakalpana (RTP) C16",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/varali/09d-rtp-varali-pallavi-swarakalpana-ssi-c18.mp3"
+        },
+        {
+          "label": "SSI (RTP) Alapana C03",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/varali/12a_rtp_varali_alapana-ssi-c03.mp3"
+        },
+        {
+          "label": "SSI Tanam (RTP) C03",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/varali/12b_rtp_varali_tanam-ssi-c03.mp3"
+        },
+        {
+          "label": "SSI Neraval C03",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/varali/12c_rtp_varali_pallavi_neraval-ssi-c03.mp3"
+        },
+        {
+          "label": "SSI Swarakalpana C03",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/varali/12d_rtp_varali_pallavi_swarakalpana-ssi-c03.mp3"
+        }
+      ]
+    },
+    {
+      "raga": "Vasanta",
+      "anchor": "vasanta",
+      "clips": [
+        {
+          "label": "SSI Alapana C03",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/vasantha/05a_vasantha_alapana-ssi-c03.mp3"
+        },
+        {
+          "label": "SSI Swarakalpana (Harihara) C03",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/vasantha/05c_hariharaputram_vasantha_swarakalpana-ssi-c03.mp3"
+        },
+        {
+          "label": "SSI Alapana C06",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/vasantha/07a-vasanta-alapana-ssi-c06.mp3"
+        },
+        {
+          "label": "SSI Swarakalpana (Harihara) C06",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/vasantha/07c-hariharaputram-vasanta-swarakalpana-ssi-c06.mp3"
+        },
+        {
+          "label": "SSI Alapana C15",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/vasantha/08a-vasanta-alapana-ssi-c15.mp3"
+        },
+        {
+          "label": "SSI Swarakalpana (Harihara) LC01",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/vasantha/08b-HariHaraPutram-vasanta-swarakalpana-ssi-lc01.mp3"
+        },
+        {
+          "label": "SSI Swarakalpana (Harihara) C15",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/vasantha/08c-hariharaputram-vasanta-swarakalpana-ssi-c15.mp3"
+        },
+        {
+          "label": "SSI Swarakalpana (Harihara) C05",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/vasantha/11b-hariharaputram-vasanta-swarakalpana-ssi-c05.mp3"
+        }
+      ]
+    },
+    {
+      "raga": "Yadukula Kambodhi",
+      "anchor": "yadukulakambodhi",
+      "clips": [
+        {
+          "label": "MDR Alapana C05",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/yadukulakambodhi/05a-yadukulakambodhi-alapana-mdr-c05.mp3"
+        },
+        {
+          "label": "MDR Neraval (Sri Tyagaraja) C05",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/yadukulakambodhi/05c-srityagaraja-yadukulakambodhi-neraval-mdr-c05.mp3"
+        },
+        {
+          "label": "MDR Swarakalpana (Sri Tyagaraja) C05",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/yadukulakambodhi/05d-srityagaraja-yadukulakambodhi-swarakalpana-mdr-c05.mp3"
+        },
+        {
+          "label": "SSI Alapana C05",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/yadukulakambodhi/07a-yadukula-kambodhi-alapana-ssi-c05.mp3"
+        },
+        {
+          "label": "SSI Alapana C12",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/yadukulakambodhi/07a_yadukula_kambodhi_alapana-ssi-c12.mp3"
+        },
+        {
+          "label": "SSI Swarakalpana (Divakara) C12",
+          "url": "https://www.shivkumar.org/music/manodharma/ragas/yadukulakambodhi/07c-divakara-yadukulakambodhi-swarakalpana-ssi-c12.mp3"
+        }
+      ]
+    }
+  ]
+}
