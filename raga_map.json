@@ -1002,7 +1002,7 @@
       "name": "Abhogi",
       "display": "Abhogi",
       "type": "janya",
-      "hero": false,
+      "hero": true,
       "vector": {
         "valence": 0.7,
         "arousal": 0.265,
@@ -1067,7 +1067,7 @@
       "name": "Saveri",
       "display": "Saveri",
       "type": "janya",
-      "hero": false,
+      "hero": true,
       "vector": {
         "valence": 0.25,
         "arousal": 0.42,
@@ -1145,7 +1145,7 @@
       "name": "Saaranga",
       "display": "Saaranga",
       "type": "janya",
-      "hero": false,
+      "hero": true,
       "vector": {
         "valence": 0.8,
         "arousal": 0.605,
@@ -1158,7 +1158,7 @@
       "name": "Sahana",
       "display": "Sahana",
       "type": "janya",
-      "hero": false,
+      "hero": true,
       "vector": {
         "valence": 0.515,
         "arousal": 0.4,
@@ -1184,7 +1184,7 @@
       "name": "Vasanta",
       "display": "Vasanta",
       "type": "janya",
-      "hero": false,
+      "hero": true,
       "vector": {
         "valence": 0.8,
         "arousal": 0.605,
@@ -1197,7 +1197,7 @@
       "name": "Nalinakanthi",
       "display": "Nalinakanthi",
       "type": "janya",
-      "hero": false,
+      "hero": true,
       "vector": {
         "valence": 0.8,
         "arousal": 0.55,
@@ -1223,7 +1223,7 @@
       "name": "Sri Ragam",
       "display": "Sree",
       "type": "janya",
-      "hero": false,
+      "hero": true,
       "vector": {
         "valence": 0.7,
         "arousal": 0.265,
@@ -1236,7 +1236,7 @@
       "name": "Reethigowla",
       "display": "Reethigowla",
       "type": "janya",
-      "hero": false,
+      "hero": true,
       "vector": {
         "valence": 0.79,
         "arousal": 0.465,

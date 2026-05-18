@@ -242,10 +242,43 @@ function openDetail(r) {
     detailBody.appendChild(rec);
   }
 
+  if (r.cover) {
+    const cv = section("AI Instrumental Cover");
+    cv.appendChild(el("p", "fp-note",
+      `Sitar melody over the separated backing — ${r.cover.varnam}, ${r.cover.artist}.`));
+    const audio = el("audio");
+    audio.controls = true; audio.preload = "none"; audio.src = r.cover.file;
+    cv.appendChild(audio);
+    detailBody.appendChild(cv);
+  }
+
   const fus = section("Suno Fusion Seeds");
   fus.appendChild(el("p", "fp-note", "Best-fit genres from the 5-axis match."));
   r.fusion.forEach((f) => fus.appendChild(seedPanel(f)));
   detailBody.appendChild(fus);
+
+  if (r.composition) {
+    const co = section("Composition Scaffold");
+    co.appendChild(el("p", "fp-note",
+      "Paste into Suno's Custom Lyrics box — an instrumental Carnatic-arc structure."));
+    const pre = el("pre", "scaffold");
+    pre.textContent = r.composition;
+    co.appendChild(pre);
+    const btn = el("button", "copy", "Copy composition");
+    btn.addEventListener("click", async () => {
+      try {
+        await navigator.clipboard.writeText(r.composition);
+        btn.textContent = "Copied ✓";
+        btn.classList.add("done");
+        setTimeout(() => {
+          btn.textContent = "Copy composition";
+          btn.classList.remove("done");
+        }, 1600);
+      } catch { btn.textContent = "Press & hold to copy"; }
+    });
+    co.appendChild(btn);
+    detailBody.appendChild(co);
+  }
 
   detail.hidden = false;
   detail.querySelector(".sheet").scrollTop = 0;

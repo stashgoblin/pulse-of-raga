@@ -1,6 +1,6 @@
 /* Pulse Of Raga — service worker. Cache-first so the demo works offline. */
 
-const CACHE = "pulse-of-raga-v2";
+const CACHE = "pulse-of-raga-v3";
 const SHELL = [
   "./",
   "index.html",

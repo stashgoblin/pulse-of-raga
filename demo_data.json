@@ -2,7 +2,7 @@
   "_meta": {
     "title": "Pulse Of Raga",
     "subtitle": "A Carnatic raga explorer · scales, master recordings, and 5-axis fusion matching",
-    "raga_count": 8
+    "raga_count": 16
   },
   "ragas": [
     {
@@ -53,15 +53,21 @@
           "genre": "nu-disco",
           "fit": 0.845,
           "why": "funky, glittering, upbeat",
-          "prompt": "nu-disco fused with South Indian Carnatic classical melody in raga Mohanam. The lead melody strictly follows raga Mohanam: ascending S R2 G3 P D2 S, descending S D2 P G3 R2 S, with ornamented, gliding gamakam phrasing (meend-style slides between notes). Carry the raga line on continuous-pitch voices — solo voice, Carnatic violin, veena, or bamboo flute — never piano. Underneath, full nu-disco production: modern drums, bass and texture characteristic of nu-disco. Tanpura drone and mridangam accents bridge the two worlds. Mood: bright, joyful, auspicious; uplifting and calming. Around 112 BPM. Keep the raga line monophonic and melodic; do not force Western chord changes onto it. Raga Mohanam is pentatonic — it maps naturally onto Western pop/EDM shapes."
+          "prompt": "nu-disco fused with Carnatic raga Mohanam, Carnatic vocal, bamboo flute and veena lead, tanpura drone, mridangam, gamakam ornamentation, pentatonic, bright, joyful, auspicious, 112 BPM"
         },
         {
           "genre": "deep house",
           "fit": 0.844,
           "why": "warm, hypnotic four-on-the-floor",
-          "prompt": "deep house fused with South Indian Carnatic classical melody in raga Mohanam. The lead melody strictly follows raga Mohanam: ascending S R2 G3 P D2 S, descending S D2 P G3 R2 S, with ornamented, gliding gamakam phrasing (meend-style slides between notes). Carry the raga line on continuous-pitch voices — solo voice, Carnatic violin, veena, or bamboo flute — never piano. Underneath, full deep house production: modern drums, bass and texture characteristic of deep house. Tanpura drone and mridangam accents bridge the two worlds. Mood: bright, joyful, auspicious; uplifting and calming. Around 122 BPM. Keep the raga line monophonic and melodic; do not force Western chord changes onto it. Raga Mohanam is pentatonic — it maps naturally onto Western pop/EDM shapes."
+          "prompt": "deep house fused with Carnatic raga Mohanam, Carnatic vocal, bamboo flute and veena lead, tanpura drone, mridangam, gamakam ornamentation, pentatonic, bright, joyful, auspicious, 122 BPM"
         }
-      ]
+      ],
+      "composition": "[Mood: bright, joyful, auspicious]\n[Tempo: 112 BPM]\n[Instrumental]\n[Instrument: bamboo flute, veena, tanpura, mridangam]\n\n[Intro]\n[Free alapana]\n[Solo bamboo flute]\n[Tanpura drone]\n[No percussion]\n\n[Theme]\n[Raga Mohanam melody]\n[nu-disco groove]\n[Energy: Medium]\n\n[Development]\n[Raga variations]\n[Layered texture]\n[Energy: Rising]\n\n[Bridge]\n[Shift to deep house]\n[deep house texture]\n[Energy: High]\n\n[Climax]\n[Full nu-disco]\n[Soaring raga lead]\n[Energy: High]\n\n[Outro]\n[Tanpura drone returns]\n[Fade Out]\n[End]",
+      "cover": {
+        "file": "covers/ninnukori-mohanam-bs.mp3",
+        "varnam": "Ninnukori",
+        "artist": "Bombay Sisters"
+      }
     },
     {
       "name": "Hamsadhwani",
@@ -111,15 +117,21 @@
           "genre": "nu-disco",
           "fit": 0.83,
           "why": "funky, glittering, upbeat",
-          "prompt": "nu-disco fused with South Indian Carnatic classical melody in raga Hamsadhwani. The lead melody strictly follows raga Hamsadhwani: ascending S R2 G3 P N3 S, descending S N3 P G3 R2 S, with ornamented, gliding gamakam phrasing (meend-style slides between notes). Carry the raga line on continuous-pitch voices — solo voice, Carnatic violin, veena, or bamboo flute — never piano. Underneath, full nu-disco production: modern drums, bass and texture characteristic of nu-disco. Tanpura drone and mridangam accents bridge the two worlds. Mood: joyous, auspicious, energetic — 'the sound of swans'. Around 112 BPM. Keep the raga line monophonic and melodic; do not force Western chord changes onto it. Raga Hamsadhwani is pentatonic — it maps naturally onto Western pop/EDM shapes."
+          "prompt": "nu-disco fused with Carnatic raga Hamsadhwani, Carnatic vocal, bamboo flute and veena lead, tanpura drone, mridangam, gamakam ornamentation, pentatonic, joyous, auspicious, energetic — 'the sound of swans', 112 BPM"
         },
         {
           "genre": "uplifting house",
           "fit": 0.825,
           "why": "euphoric, bright, anthemic",
-          "prompt": "uplifting house fused with South Indian Carnatic classical melody in raga Hamsadhwani. The lead melody strictly follows raga Hamsadhwani: ascending S R2 G3 P N3 S, descending S N3 P G3 R2 S, with ornamented, gliding gamakam phrasing (meend-style slides between notes). Carry the raga line on continuous-pitch voices — solo voice, Carnatic violin, veena, or bamboo flute — never piano. Underneath, full uplifting house production: modern drums, bass and texture characteristic of uplifting house. Tanpura drone and mridangam accents bridge the two worlds. Mood: joyous, auspicious, energetic — 'the sound of swans'. Around 126 BPM. Keep the raga line monophonic and melodic; do not force Western chord changes onto it. Raga Hamsadhwani is pentatonic — it maps naturally onto Western pop/EDM shapes."
+          "prompt": "uplifting house fused with Carnatic raga Hamsadhwani, Carnatic vocal, bamboo flute and veena lead, tanpura drone, mridangam, gamakam ornamentation, pentatonic, joyous, auspicious, energetic — 'the sound of swans', 126 BPM"
         }
-      ]
+      ],
+      "composition": "[Mood: joyous, auspicious, energetic — 'the sound of swans']\n[Tempo: 112 BPM]\n[Instrumental]\n[Instrument: bamboo flute, veena, tanpura, mridangam]\n\n[Intro]\n[Free alapana]\n[Solo bamboo flute]\n[Tanpura drone]\n[No percussion]\n\n[Theme]\n[Raga Hamsadhwani melody]\n[nu-disco groove]\n[Energy: Medium]\n\n[Development]\n[Raga variations]\n[Layered texture]\n[Energy: Rising]\n\n[Bridge]\n[Shift to uplifting house]\n[uplifting house texture]\n[Energy: High]\n\n[Climax]\n[Full nu-disco]\n[Soaring raga lead]\n[Energy: High]\n\n[Outro]\n[Tanpura drone returns]\n[Fade Out]\n[End]",
+      "cover": {
+        "file": "covers/jalajakshi-hamsadhwani-bs.mp3",
+        "varnam": "Jalajakshi",
+        "artist": "Bombay Sisters"
+      }
     },
     {
       "name": "Bhairavi",
@@ -179,15 +191,21 @@
           "genre": "organic house",
           "fit": 0.818,
           "why": "earthy, textural, percussive — a natural Indian-fusion lane",
-          "prompt": "organic house fused with South Indian Carnatic classical melody in raga Bhairavi. The lead melody strictly follows raga Bhairavi: ascending S R2 G2 M1 P D2 N2 S, descending S N2 D1 P M1 G2 R2 S, with ornamented, gliding gamakam phrasing (meend-style slides between notes). Carry the raga line on continuous-pitch voices — solo voice, Carnatic violin, veena, or bamboo flute — never piano. Underneath, full organic house production: modern drums, bass and texture characteristic of organic house. Tanpura drone and mridangam accents bridge the two worlds. Mood: deep devotion and tranquility with cosmic earthiness. Around 120 BPM. Keep the raga line monophonic and melodic; do not force Western chord changes onto it. It is a bhashanga raga — a foreign note appears as brief colour; keep it a passing touch, never a resting note."
+          "prompt": "organic house fused with Carnatic raga Bhairavi, Carnatic vocal, bamboo flute and veena lead, tanpura drone, mridangam, gamakam ornamentation, deep devotion and tranquility with cosmic earthiness, 120 BPM"
         },
         {
           "genre": "progressive electronic",
           "fit": 0.811,
           "why": "building, evolving, wondrous arc",
-          "prompt": "progressive electronic fused with South Indian Carnatic classical melody in raga Bhairavi. The lead melody strictly follows raga Bhairavi: ascending S R2 G2 M1 P D2 N2 S, descending S N2 D1 P M1 G2 R2 S, with ornamented, gliding gamakam phrasing (meend-style slides between notes). Carry the raga line on continuous-pitch voices — solo voice, Carnatic violin, veena, or bamboo flute — never piano. Underneath, full progressive electronic production: modern drums, bass and texture characteristic of progressive electronic. Tanpura drone and mridangam accents bridge the two worlds. Mood: deep devotion and tranquility with cosmic earthiness. Around 124 BPM. Keep the raga line monophonic and melodic; do not force Western chord changes onto it. It is a bhashanga raga — a foreign note appears as brief colour; keep it a passing touch, never a resting note."
+          "prompt": "progressive electronic fused with Carnatic raga Bhairavi, Carnatic vocal, bamboo flute and veena lead, tanpura drone, mridangam, gamakam ornamentation, deep devotion and tranquility with cosmic earthiness, 124 BPM"
         }
-      ]
+      ],
+      "composition": "[Mood: deep devotion and tranquility with cosmic earthiness]\n[Tempo: 120 BPM]\n[Instrumental]\n[Instrument: bamboo flute, veena, tanpura, mridangam]\n\n[Intro]\n[Free alapana]\n[Solo bamboo flute]\n[Tanpura drone]\n[No percussion]\n\n[Theme]\n[Raga Bhairavi melody]\n[organic house groove]\n[Energy: Medium]\n\n[Development]\n[Raga variations]\n[Layered texture]\n[Energy: Rising]\n\n[Bridge]\n[Shift to progressive electronic]\n[progressive electronic texture]\n[Energy: High]\n\n[Climax]\n[Full organic house]\n[Soaring raga lead]\n[Energy: High]\n\n[Outro]\n[Tanpura drone returns]\n[Fade Out]\n[End]",
+      "cover": {
+        "file": "covers/viriboni-bhairavi-ata-mss.mp3",
+        "varnam": "Viriboni",
+        "artist": "M.S. Subbulakshmi"
+      }
     },
     {
       "name": "Mechakalyani",
@@ -241,15 +259,21 @@
           "genre": "synthwave",
           "fit": 0.878,
           "why": "neon, nostalgic, bright — suits a lydian-bright raga",
-          "prompt": "synthwave fused with South Indian Carnatic classical melody in raga Mechakalyani. The lead melody strictly follows raga Mechakalyani: ascending S R2 G3 M2 P D2 N3 S, descending S N3 D2 P M2 G3 R2 S, with ornamented, gliding gamakam phrasing (meend-style slides between notes). Carry the raga line on continuous-pitch voices — solo voice, Carnatic violin, veena, or bamboo flute — never piano. Underneath, full synthwave production: modern drums, bass and texture characteristic of synthwave. Tanpura drone and mridangam accents bridge the two worlds. Mood: majestic, auspicious, graceful; 'mother who dispels fear'. Around 100 BPM. Keep the raga line monophonic and melodic; do not force Western chord changes onto it."
+          "prompt": "synthwave fused with Carnatic raga Mechakalyani, Carnatic vocal, bamboo flute and veena lead, tanpura drone, mridangam, gamakam ornamentation, majestic, auspicious, graceful, 100 BPM"
         },
         {
           "genre": "dream pop",
           "fit": 0.85,
           "why": "hazy, shimmering, sweet",
-          "prompt": "dream pop fused with South Indian Carnatic classical melody in raga Mechakalyani. The lead melody strictly follows raga Mechakalyani: ascending S R2 G3 M2 P D2 N3 S, descending S N3 D2 P M2 G3 R2 S, with ornamented, gliding gamakam phrasing (meend-style slides between notes). Carry the raga line on continuous-pitch voices — solo voice, Carnatic violin, veena, or bamboo flute — never piano. Underneath, full dream pop production: modern drums, bass and texture characteristic of dream pop. Tanpura drone and mridangam accents bridge the two worlds. Mood: majestic, auspicious, graceful; 'mother who dispels fear'. Around 96 BPM. Keep the raga line monophonic and melodic; do not force Western chord changes onto it."
+          "prompt": "dream pop fused with Carnatic raga Mechakalyani, Carnatic vocal, bamboo flute and veena lead, tanpura drone, mridangam, gamakam ornamentation, majestic, auspicious, graceful, 96 BPM"
         }
-      ]
+      ],
+      "composition": "[Mood: majestic, auspicious, graceful]\n[Tempo: 100 BPM]\n[Instrumental]\n[Instrument: bamboo flute, veena, tanpura, mridangam]\n\n[Intro]\n[Free alapana]\n[Solo bamboo flute]\n[Tanpura drone]\n[No percussion]\n\n[Theme]\n[Raga Mechakalyani melody]\n[synthwave groove]\n[Energy: Medium]\n\n[Development]\n[Raga variations]\n[Layered texture]\n[Energy: Rising]\n\n[Bridge]\n[Shift to dream pop]\n[dream pop texture]\n[Energy: High]\n\n[Climax]\n[Full synthwave]\n[Soaring raga lead]\n[Energy: High]\n\n[Outro]\n[Tanpura drone returns]\n[Fade Out]\n[End]",
+      "cover": {
+        "file": "covers/vanajaksha-kalyani-ata-kvn.mp3",
+        "varnam": "Vanajaksha",
+        "artist": "K.V. Narayanaswamy"
+      }
     },
     {
       "name": "Dheerasankarabharanam",
@@ -315,15 +339,21 @@
           "genre": "organic house",
           "fit": 0.862,
           "why": "earthy, textural, percussive — a natural Indian-fusion lane",
-          "prompt": "organic house fused with South Indian Carnatic classical melody in raga Dheerasankarabharanam. The lead melody strictly follows raga Dheerasankarabharanam: ascending S R2 G3 M1 P D2 N3 S, descending S N3 D2 P M1 G3 R2 S, with ornamented, gliding gamakam phrasing (meend-style slides between notes). Carry the raga line on continuous-pitch voices — solo voice, Carnatic violin, veena, or bamboo flute — never piano. Underneath, full organic house production: modern drums, bass and texture characteristic of organic house. Tanpura drone and mridangam accents bridge the two worlds. Mood: majestic, sublime, uplifting; conveys all nine rasas in skilled hands. Around 120 BPM. Keep the raga line monophonic and melodic; do not force Western chord changes onto it."
+          "prompt": "organic house fused with Carnatic raga Dheerasankarabharanam, Carnatic vocal, bamboo flute and veena lead, tanpura drone, mridangam, gamakam ornamentation, majestic, sublime, uplifting, 120 BPM"
         },
         {
           "genre": "funk",
           "fit": 0.861,
           "why": "groovy, joyful, syncopated",
-          "prompt": "funk fused with South Indian Carnatic classical melody in raga Dheerasankarabharanam. The lead melody strictly follows raga Dheerasankarabharanam: ascending S R2 G3 M1 P D2 N3 S, descending S N3 D2 P M1 G3 R2 S, with ornamented, gliding gamakam phrasing (meend-style slides between notes). Carry the raga line on continuous-pitch voices — solo voice, Carnatic violin, veena, or bamboo flute — never piano. Underneath, full funk production: modern drums, bass and texture characteristic of funk. Tanpura drone and mridangam accents bridge the two worlds. Mood: majestic, sublime, uplifting; conveys all nine rasas in skilled hands. Around 108 BPM. Keep the raga line monophonic and melodic; do not force Western chord changes onto it."
+          "prompt": "funk fused with Carnatic raga Dheerasankarabharanam, Carnatic vocal, bamboo flute and veena lead, tanpura drone, mridangam, gamakam ornamentation, majestic, sublime, uplifting, 108 BPM"
         }
-      ]
+      ],
+      "composition": "[Mood: majestic, sublime, uplifting]\n[Tempo: 120 BPM]\n[Instrumental]\n[Instrument: bamboo flute, veena, tanpura, mridangam]\n\n[Intro]\n[Free alapana]\n[Solo bamboo flute]\n[Tanpura drone]\n[No percussion]\n\n[Theme]\n[Raga Dheerasankarabharanam melody]\n[organic house groove]\n[Energy: Medium]\n\n[Development]\n[Raga variations]\n[Layered texture]\n[Energy: Rising]\n\n[Bridge]\n[Shift to funk]\n[funk texture]\n[Energy: High]\n\n[Climax]\n[Full organic house]\n[Soaring raga lead]\n[Energy: High]\n\n[Outro]\n[Tanpura drone returns]\n[Fade Out]\n[End]",
+      "cover": {
+        "file": "covers/chalamela-shankarabharanam-ata-kvn.mp3",
+        "varnam": "Chalamela",
+        "artist": "K.V. Narayanaswamy"
+      }
     },
     {
       "name": "Hanumatodi",
@@ -377,15 +407,21 @@
           "genre": "trip-hop",
           "fit": 0.782,
           "why": "moody, shadowy, cinematic groove",
-          "prompt": "trip-hop fused with South Indian Carnatic classical melody in raga Hanumatodi. The lead melody strictly follows raga Hanumatodi: ascending S R1 G2 M1 P D1 N2 S, descending S N2 D1 P M1 G2 R1 S, with ornamented, gliding gamakam phrasing (meend-style slides between notes). Carry the raga line on continuous-pitch voices — solo voice, Carnatic violin, veena, or bamboo flute — never piano. Underneath, full trip-hop production: modern drums, bass and texture characteristic of trip-hop. Tanpura drone and mridangam accents bridge the two worlds. Mood: deep pathos with profound devotion; heavy and emotionally complex. Around 88 BPM. Keep the raga line monophonic and melodic; do not force Western chord changes onto it."
+          "prompt": "trip-hop fused with Carnatic raga Hanumatodi, Carnatic vocal, bamboo flute and veena lead, tanpura drone, mridangam, gamakam ornamentation, deep pathos with profound devotion, 88 BPM"
         },
         {
           "genre": "organic house",
           "fit": 0.777,
           "why": "earthy, textural, percussive — a natural Indian-fusion lane",
-          "prompt": "organic house fused with South Indian Carnatic classical melody in raga Hanumatodi. The lead melody strictly follows raga Hanumatodi: ascending S R1 G2 M1 P D1 N2 S, descending S N2 D1 P M1 G2 R1 S, with ornamented, gliding gamakam phrasing (meend-style slides between notes). Carry the raga line on continuous-pitch voices — solo voice, Carnatic violin, veena, or bamboo flute — never piano. Underneath, full organic house production: modern drums, bass and texture characteristic of organic house. Tanpura drone and mridangam accents bridge the two worlds. Mood: deep pathos with profound devotion; heavy and emotionally complex. Around 120 BPM. Keep the raga line monophonic and melodic; do not force Western chord changes onto it."
+          "prompt": "organic house fused with Carnatic raga Hanumatodi, Carnatic vocal, bamboo flute and veena lead, tanpura drone, mridangam, gamakam ornamentation, deep pathos with profound devotion, 120 BPM"
         }
-      ]
+      ],
+      "composition": "[Mood: deep pathos with profound devotion]\n[Tempo: 88 BPM]\n[Instrumental]\n[Instrument: bamboo flute, veena, tanpura, mridangam]\n\n[Intro]\n[Free alapana]\n[Solo bamboo flute]\n[Tanpura drone]\n[No percussion]\n\n[Theme]\n[Raga Hanumatodi melody]\n[trip-hop groove]\n[Energy: Medium]\n\n[Development]\n[Raga variations]\n[Layered texture]\n[Energy: Rising]\n\n[Bridge]\n[Shift to organic house]\n[organic house texture]\n[Energy: High]\n\n[Climax]\n[Full trip-hop]\n[Soaring raga lead]\n[Energy: High]\n\n[Outro]\n[Tanpura drone returns]\n[Fade Out]\n[End]",
+      "cover": {
+        "file": "covers/eranapai-thodi-bs.mp3",
+        "varnam": "Era Napai",
+        "artist": "Bombay Sisters"
+      }
     },
     {
       "name": "Kambodhi",
@@ -444,15 +480,21 @@
           "genre": "romantic R&B",
           "fit": 0.945,
           "why": "sensual, smooth, intimate",
-          "prompt": "romantic R&B fused with South Indian Carnatic classical melody in raga Kambodhi. The lead melody strictly follows raga Kambodhi: ascending S R2 G3 M1 P D2 S, descending S N2 D2 P M1 G3 R2 S, with ornamented, gliding gamakam phrasing (meend-style slides between notes). Carry the raga line on continuous-pitch voices — solo voice, Carnatic violin, veena, or bamboo flute — never piano. Underneath, full romantic R&B production: modern drums, bass and texture characteristic of romantic R&B. Tanpura drone and mridangam accents bridge the two worlds. Mood: grand, majestic, regal devotion with feminine grace. Around 92 BPM. Keep the raga line monophonic and melodic; do not force Western chord changes onto it."
+          "prompt": "romantic R&B fused with Carnatic raga Kambodhi, Carnatic vocal, bamboo flute and veena lead, tanpura drone, mridangam, gamakam ornamentation, grand, majestic, regal devotion with feminine grace, 92 BPM"
         },
         {
           "genre": "organic house",
           "fit": 0.921,
           "why": "earthy, textural, percussive — a natural Indian-fusion lane",
-          "prompt": "organic house fused with South Indian Carnatic classical melody in raga Kambodhi. The lead melody strictly follows raga Kambodhi: ascending S R2 G3 M1 P D2 S, descending S N2 D2 P M1 G3 R2 S, with ornamented, gliding gamakam phrasing (meend-style slides between notes). Carry the raga line on continuous-pitch voices — solo voice, Carnatic violin, veena, or bamboo flute — never piano. Underneath, full organic house production: modern drums, bass and texture characteristic of organic house. Tanpura drone and mridangam accents bridge the two worlds. Mood: grand, majestic, regal devotion with feminine grace. Around 120 BPM. Keep the raga line monophonic and melodic; do not force Western chord changes onto it."
+          "prompt": "organic house fused with Carnatic raga Kambodhi, Carnatic vocal, bamboo flute and veena lead, tanpura drone, mridangam, gamakam ornamentation, grand, majestic, regal devotion with feminine grace, 120 BPM"
         }
-      ]
+      ],
+      "composition": "[Mood: grand, majestic, regal devotion with feminine grace]\n[Tempo: 92 BPM]\n[Instrumental]\n[Instrument: bamboo flute, veena, tanpura, mridangam]\n\n[Intro]\n[Free alapana]\n[Solo bamboo flute]\n[Tanpura drone]\n[No percussion]\n\n[Theme]\n[Raga Kambodhi melody]\n[romantic R&B groove]\n[Energy: Medium]\n\n[Development]\n[Raga variations]\n[Layered texture]\n[Energy: Rising]\n\n[Bridge]\n[Shift to organic house]\n[organic house texture]\n[Energy: High]\n\n[Climax]\n[Full romantic R&B]\n[Soaring raga lead]\n[Energy: High]\n\n[Outro]\n[Tanpura drone returns]\n[Fade Out]\n[End]",
+      "cover": {
+        "file": "covers/sarasijanabha-kambodhi-ata-tkr.mp3",
+        "varnam": "Sarasija Nabha",
+        "artist": "T.K. Rangachari"
+      }
     },
     {
       "name": "Kanada",
@@ -511,15 +553,592 @@
           "genre": "emotional piano-electronic",
           "fit": 0.904,
           "why": "tender, sorrowful, plaintive",
-          "prompt": "emotional piano-electronic fused with South Indian Carnatic classical melody in raga Kanada. The lead melody strictly follows raga Kanada: ascending S R2 G2 M1 D2 N2 S, descending S N2 P M1 G2 M1 R2 S, with ornamented, gliding gamakam phrasing (meend-style slides between notes). Carry the raga line on continuous-pitch voices — solo voice, Carnatic violin, veena, or bamboo flute — never piano. Underneath, full emotional piano-electronic production: modern drums, bass and texture characteristic of emotional piano-electronic. Tanpura drone and mridangam accents bridge the two worlds. Mood: grave, emotional, weighty; compassion from overflowing love. Keep the raga line monophonic and melodic; do not force Western chord changes onto it. Honour the raga's vakra (zig-zag) phrasing — the note order is deliberately crooked, not a straight scale. It is a bhashanga raga — a foreign note appears as brief colour; keep it a passing touch, never a resting note."
+          "prompt": "emotional piano-electronic fused with Carnatic raga Kanada, Carnatic vocal, bamboo flute and veena lead, tanpura drone, mridangam, gamakam ornamentation, vakra phrasing, grave, emotional, weighty"
         },
         {
           "genre": "trip-hop",
           "fit": 0.903,
           "why": "moody, shadowy, cinematic groove",
-          "prompt": "trip-hop fused with South Indian Carnatic classical melody in raga Kanada. The lead melody strictly follows raga Kanada: ascending S R2 G2 M1 D2 N2 S, descending S N2 P M1 G2 M1 R2 S, with ornamented, gliding gamakam phrasing (meend-style slides between notes). Carry the raga line on continuous-pitch voices — solo voice, Carnatic violin, veena, or bamboo flute — never piano. Underneath, full trip-hop production: modern drums, bass and texture characteristic of trip-hop. Tanpura drone and mridangam accents bridge the two worlds. Mood: grave, emotional, weighty; compassion from overflowing love. Around 88 BPM. Keep the raga line monophonic and melodic; do not force Western chord changes onto it. Honour the raga's vakra (zig-zag) phrasing — the note order is deliberately crooked, not a straight scale. It is a bhashanga raga — a foreign note appears as brief colour; keep it a passing touch, never a resting note."
+          "prompt": "trip-hop fused with Carnatic raga Kanada, Carnatic vocal, bamboo flute and veena lead, tanpura drone, mridangam, gamakam ornamentation, vakra phrasing, grave, emotional, weighty, 88 BPM"
         }
-      ]
+      ],
+      "composition": "[Mood: grave, emotional, weighty]\n[Instrumental]\n[Instrument: bamboo flute, veena, tanpura, mridangam]\n\n[Intro]\n[Free alapana]\n[Solo bamboo flute]\n[Tanpura drone]\n[No percussion]\n\n[Theme]\n[Raga Kanada melody]\n[emotional piano-electronic groove]\n[Energy: Medium]\n\n[Development]\n[Raga variations]\n[Layered texture]\n[Energy: Rising]\n\n[Bridge]\n[Shift to trip-hop]\n[trip-hop texture]\n[Energy: High]\n\n[Climax]\n[Full emotional piano-electronic]\n[Soaring raga lead]\n[Energy: High]\n\n[Outro]\n[Tanpura drone returns]\n[Fade Out]\n[End]",
+      "cover": {
+        "file": "covers/neranammithi-kanada-ata-kvn.mp3",
+        "varnam": "Nera Nammithi",
+        "artist": "K.V. Narayanaswamy"
+      }
+    },
+    {
+      "name": "Saveri",
+      "also_known_as": null,
+      "lineage": "Janya of Mayamalavagowla",
+      "tagline": "Deep pathos, plaintive yearning — a morning raga of compassion.",
+      "arohanam": [
+        "S",
+        "R1",
+        "M1",
+        "P",
+        "D1",
+        "S"
+      ],
+      "avarohanam": [
+        "S",
+        "N3",
+        "D1",
+        "P",
+        "M1",
+        "G3",
+        "R1",
+        "S"
+      ],
+      "note_count": 5,
+      "pentatonic": true,
+      "vakra": false,
+      "bhashanga": false,
+      "rasa": "karuna",
+      "mood": "pathos, compassion, plaintive yearning",
+      "time_of_day": "morning (a relatively firm traditional association)",
+      "vector": {
+        "valence": 0.25,
+        "arousal": 0.42,
+        "brightness": 0.25,
+        "density": 0.5,
+        "regularity": 0.75
+      },
+      "recordings": [
+        {
+          "id": "sarasuda-saveri-bs",
+          "varnam": "Sarasuda Ninne",
+          "artist": "Bombay Sisters",
+          "file": "https://www.shivkumar.org/music/varnams/originals/sarasuda_saveri_adi_varnam.mp3"
+        }
+      ],
+      "fusion": [
+        {
+          "genre": "trip-hop",
+          "fit": 0.899,
+          "why": "moody, shadowy, cinematic groove",
+          "prompt": "trip-hop fused with Carnatic raga Saveri, Carnatic vocal, bamboo flute and veena lead, tanpura drone, mridangam, gamakam ornamentation, pentatonic, pathos, compassion, plaintive yearning, 88 BPM"
+        },
+        {
+          "genre": "emotional piano-electronic",
+          "fit": 0.843,
+          "why": "tender, sorrowful, plaintive",
+          "prompt": "emotional piano-electronic fused with Carnatic raga Saveri, Carnatic vocal, bamboo flute and veena lead, tanpura drone, mridangam, gamakam ornamentation, pentatonic, pathos, compassion, plaintive yearning"
+        }
+      ],
+      "composition": "[Mood: pathos, compassion, plaintive yearning]\n[Tempo: 88 BPM]\n[Instrumental]\n[Instrument: bamboo flute, veena, tanpura, mridangam]\n\n[Intro]\n[Free alapana]\n[Solo bamboo flute]\n[Tanpura drone]\n[No percussion]\n\n[Theme]\n[Raga Saveri melody]\n[trip-hop groove]\n[Energy: Medium]\n\n[Development]\n[Raga variations]\n[Layered texture]\n[Energy: Rising]\n\n[Bridge]\n[Shift to emotional piano-electronic]\n[emotional piano-electronic texture]\n[Energy: High]\n\n[Climax]\n[Full trip-hop]\n[Soaring raga lead]\n[Energy: High]\n\n[Outro]\n[Tanpura drone returns]\n[Fade Out]\n[End]",
+      "cover": {
+        "file": "covers/sarasuda-saveri-bs.mp3",
+        "varnam": "Sarasuda Ninne",
+        "artist": "Bombay Sisters"
+      }
+    },
+    {
+      "name": "Saaranga",
+      "also_known_as": null,
+      "lineage": "Janya of Mechakalyani",
+      "tagline": "Wondrous and refreshing — bright, restless spring air in sound.",
+      "arohanam": [
+        "S",
+        "R2",
+        "G3",
+        "M2",
+        "P",
+        "D2",
+        "N3",
+        "S"
+      ],
+      "avarohanam": [
+        "S",
+        "N3",
+        "D2",
+        "P",
+        "M2",
+        "R2",
+        "G3",
+        "M1",
+        "R2",
+        "S"
+      ],
+      "note_count": 7,
+      "pentatonic": false,
+      "vakra": true,
+      "bhashanga": true,
+      "rasa": "adbhuta / shringara",
+      "mood": "wondrous, refreshing, bright",
+      "time_of_day": "no strong traditional association (Hindustani Saranga is noon)",
+      "vector": {
+        "valence": 0.8,
+        "arousal": 0.605,
+        "brightness": 0.708,
+        "density": 0.95,
+        "regularity": 0.25
+      },
+      "recordings": [
+        {
+          "id": "inthamodi-saaranga-dsr",
+          "varnam": "Intha Modi",
+          "artist": "Dr. S. Ramanathan",
+          "file": "https://www.shivkumar.org/music/varnams/originals/01b-varnam-saranga-inthamodi-DSR-RN-TU.mp3"
+        },
+        {
+          "id": "inthamodi-saaranga-dsr-swarakalpana",
+          "varnam": "Intha Modi (swarakalpana)",
+          "artist": "Dr. S. Ramanathan",
+          "file": "https://www.shivkumar.org/music/varnams/originals/01c-varnam-saranga-swarakalpana-DSR-RN-TU.mp3"
+        },
+        {
+          "id": "inthamodi-saaranga-rk",
+          "varnam": "Intha Modi",
+          "artist": "Ram Kaushik",
+          "file": "https://www.shivkumar.org/music/varnams/originals/Varnam_Saranga_RK.mp3"
+        }
+      ],
+      "fusion": [
+        {
+          "genre": "epic cinematic",
+          "fit": 0.822,
+          "why": "grand, orchestral, swelling — heroic scale",
+          "prompt": "epic cinematic fused with Carnatic raga Saaranga, Carnatic vocal, bamboo flute and veena lead, tanpura drone, mridangam, gamakam ornamentation, vakra phrasing, wondrous, refreshing, bright"
+        },
+        {
+          "genre": "sufi electronic",
+          "fit": 0.756,
+          "why": "devotional ecstasy; the established Indian-fusion lane",
+          "prompt": "sufi electronic fused with Carnatic raga Saaranga, Carnatic vocal, bamboo flute and veena lead, tanpura drone, mridangam, gamakam ornamentation, vakra phrasing, wondrous, refreshing, bright, 100 BPM"
+        }
+      ],
+      "composition": "[Mood: wondrous, refreshing, bright]\n[Instrumental]\n[Instrument: bamboo flute, veena, tanpura, mridangam]\n\n[Intro]\n[Free alapana]\n[Solo bamboo flute]\n[Tanpura drone]\n[No percussion]\n\n[Theme]\n[Raga Saaranga melody]\n[epic cinematic groove]\n[Energy: Medium]\n\n[Development]\n[Raga variations]\n[Layered texture]\n[Energy: Rising]\n\n[Bridge]\n[Shift to sufi electronic]\n[sufi electronic texture]\n[Energy: High]\n\n[Climax]\n[Full epic cinematic]\n[Soaring raga lead]\n[Energy: High]\n\n[Outro]\n[Tanpura drone returns]\n[Fade Out]\n[End]",
+      "cover": {
+        "file": "covers/inthamodi-saaranga-dsr.mp3",
+        "varnam": "Intha Modi",
+        "artist": "Dr. S. Ramanathan"
+      }
+    },
+    {
+      "name": "Abhogi",
+      "also_known_as": null,
+      "lineage": "Janya of Kharaharapriya",
+      "tagline": "A serene pentatonic — introspective, soulful, no Pa or Ni.",
+      "arohanam": [
+        "S",
+        "R2",
+        "G2",
+        "M1",
+        "D2",
+        "S"
+      ],
+      "avarohanam": [
+        "S",
+        "D2",
+        "M1",
+        "G2",
+        "R2",
+        "S"
+      ],
+      "note_count": 5,
+      "pentatonic": true,
+      "vakra": false,
+      "bhashanga": false,
+      "rasa": "shanta / bhakti",
+      "mood": "serene, introspective, soulful",
+      "time_of_day": "no strong traditional association",
+      "vector": {
+        "valence": 0.7,
+        "arousal": 0.265,
+        "brightness": 0.375,
+        "density": 0.2,
+        "regularity": 1.0
+      },
+      "recordings": [
+        {
+          "id": "evvaribodhana-abhogi-bs",
+          "varnam": "Evvari Bodhana",
+          "artist": "Bombay Sisters",
+          "file": "https://www.shivkumar.org/music/varnams/originals/evvari_bodhana_abogi_adi_varnam.mp3"
+        }
+      ],
+      "fusion": [
+        {
+          "genre": "lo-fi hip-hop",
+          "fit": 0.899,
+          "why": "warm, intimate, unhurried — a soft grid for a calm raga line",
+          "prompt": "lo-fi hip-hop fused with Carnatic raga Abhogi, Carnatic vocal, bamboo flute and veena lead, tanpura drone, mridangam, gamakam ornamentation, pentatonic, serene, introspective, soulful, 82 BPM"
+        },
+        {
+          "genre": "lo-fi chillhop",
+          "fit": 0.892,
+          "why": "mellow, jazzy calm; lets the raga set the tone",
+          "prompt": "lo-fi chillhop fused with Carnatic raga Abhogi, Carnatic vocal, bamboo flute and veena lead, tanpura drone, mridangam, gamakam ornamentation, pentatonic, serene, introspective, soulful, 84 BPM"
+        }
+      ],
+      "composition": "[Mood: serene, introspective, soulful]\n[Tempo: 82 BPM]\n[Instrumental]\n[Instrument: bamboo flute, veena, tanpura, mridangam]\n\n[Intro]\n[Free alapana]\n[Solo bamboo flute]\n[Tanpura drone]\n[No percussion]\n\n[Theme]\n[Raga Abhogi melody]\n[lo-fi hip-hop groove]\n[Energy: Medium]\n\n[Development]\n[Raga variations]\n[Layered texture]\n[Energy: Rising]\n\n[Bridge]\n[Shift to lo-fi chillhop]\n[lo-fi chillhop texture]\n[Energy: High]\n\n[Climax]\n[Full lo-fi hip-hop]\n[Soaring raga lead]\n[Energy: High]\n\n[Outro]\n[Tanpura drone returns]\n[Fade Out]\n[End]",
+      "cover": {
+        "file": "covers/evvaribodhana-abhogi-bs.mp3",
+        "varnam": "Evvari Bodhana",
+        "artist": "Bombay Sisters"
+      }
+    },
+    {
+      "name": "Vasanta",
+      "also_known_as": null,
+      "lineage": "Janya of Suryakantam",
+      "tagline": "The raga of spring — festive, fragrant, blossoming.",
+      "arohanam": [
+        "S",
+        "M1",
+        "G3",
+        "M1",
+        "D2",
+        "N3",
+        "S"
+      ],
+      "avarohanam": [
+        "S",
+        "N3",
+        "D2",
+        "M1",
+        "G3",
+        "R1",
+        "S"
+      ],
+      "note_count": 5,
+      "pentatonic": true,
+      "vakra": true,
+      "bhashanga": false,
+      "rasa": "shringara / adbhuta",
+      "mood": "springlike, festive, fragrant — the raga of the spring season",
+      "time_of_day": "evening; spring season (ritu raga association)",
+      "vector": {
+        "valence": 0.8,
+        "arousal": 0.605,
+        "brightness": 0.5,
+        "density": 0.35,
+        "regularity": 0.25
+      },
+      "recordings": [
+        {
+          "id": "ninnukori-vasanta-bs",
+          "varnam": "Ninnukori",
+          "artist": "Bombay Sisters",
+          "file": "https://www.shivkumar.org/music/varnams/originals/ninnukori_vasantha_adi_varnam.mp3"
+        }
+      ],
+      "fusion": [
+        {
+          "genre": "sufi electronic",
+          "fit": 0.799,
+          "why": "devotional ecstasy; the established Indian-fusion lane",
+          "prompt": "sufi electronic fused with Carnatic raga Vasanta, Carnatic vocal, bamboo flute and veena lead, tanpura drone, mridangam, gamakam ornamentation, pentatonic, vakra phrasing, springlike, festive, fragrant — the raga of the spring season, 100 BPM"
+        },
+        {
+          "genre": "ambient devotional",
+          "fit": 0.799,
+          "why": "prayerful stillness",
+          "prompt": "ambient devotional fused with Carnatic raga Vasanta, Carnatic vocal, bamboo flute and veena lead, tanpura drone, mridangam, gamakam ornamentation, pentatonic, vakra phrasing, springlike, festive, fragrant — the raga of the spring season"
+        }
+      ],
+      "composition": "[Mood: springlike, festive, fragrant — the raga of the spring season]\n[Tempo: 100 BPM]\n[Instrumental]\n[Instrument: bamboo flute, veena, tanpura, mridangam]\n\n[Intro]\n[Free alapana]\n[Solo bamboo flute]\n[Tanpura drone]\n[No percussion]\n\n[Theme]\n[Raga Vasanta melody]\n[sufi electronic groove]\n[Energy: Medium]\n\n[Development]\n[Raga variations]\n[Layered texture]\n[Energy: Rising]\n\n[Bridge]\n[Shift to ambient devotional]\n[ambient devotional texture]\n[Energy: High]\n\n[Climax]\n[Full sufi electronic]\n[Soaring raga lead]\n[Energy: High]\n\n[Outro]\n[Tanpura drone returns]\n[Fade Out]\n[End]",
+      "cover": {
+        "file": "covers/ninnukori-vasanta-bs.mp3",
+        "varnam": "Ninnukori",
+        "artist": "Bombay Sisters"
+      }
+    },
+    {
+      "name": "Reethigowla",
+      "also_known_as": null,
+      "lineage": "Janya of Kharaharapriya",
+      "tagline": "Sweet and winding — classical, introspective, devotional.",
+      "arohanam": [
+        "S",
+        "G2",
+        "R2",
+        "G2",
+        "M1",
+        "N2",
+        "D2",
+        "M1",
+        "N2",
+        "N2",
+        "S"
+      ],
+      "avarohanam": [
+        "S",
+        "N2",
+        "D2",
+        "M1",
+        "G2",
+        "M1",
+        "P",
+        "M1",
+        "G2",
+        "R2",
+        "S"
+      ],
+      "note_count": 6,
+      "pentatonic": false,
+      "vakra": true,
+      "bhashanga": true,
+      "rasa": "bhakti / shringara",
+      "mood": "sweet, classical, romantic-devotional; introspective",
+      "time_of_day": "evening (loose modern convention)",
+      "vector": {
+        "valence": 0.79,
+        "arousal": 0.465,
+        "brightness": 0.353,
+        "density": 0.65,
+        "regularity": 0.25
+      },
+      "recordings": [
+        {
+          "id": "vanajaksha-reethigowla-ata-mdr",
+          "varnam": "Vanajaksha",
+          "artist": "M.D. Ramanathan",
+          "file": "https://www.shivkumar.org/music/varnams/originals/01a-varnam-reethigowlai-vanajaksha-ata-mdr-c25.mp3"
+        }
+      ],
+      "fusion": [
+        {
+          "genre": "sufi electronic",
+          "fit": 0.822,
+          "why": "devotional ecstasy; the established Indian-fusion lane",
+          "prompt": "sufi electronic fused with Carnatic raga Reethigowla, Carnatic vocal, bamboo flute and veena lead, tanpura drone, mridangam, gamakam ornamentation, vakra phrasing, sweet, classical, romantic-devotional, 100 BPM"
+        },
+        {
+          "genre": "cinematic ambient",
+          "fit": 0.816,
+          "why": "film-score atmosphere with room for pathos",
+          "prompt": "cinematic ambient fused with Carnatic raga Reethigowla, Carnatic vocal, bamboo flute and veena lead, tanpura drone, mridangam, gamakam ornamentation, vakra phrasing, sweet, classical, romantic-devotional"
+        }
+      ],
+      "composition": "[Mood: sweet, classical, romantic-devotional]\n[Tempo: 100 BPM]\n[Instrumental]\n[Instrument: bamboo flute, veena, tanpura, mridangam]\n\n[Intro]\n[Free alapana]\n[Solo bamboo flute]\n[Tanpura drone]\n[No percussion]\n\n[Theme]\n[Raga Reethigowla melody]\n[sufi electronic groove]\n[Energy: Medium]\n\n[Development]\n[Raga variations]\n[Layered texture]\n[Energy: Rising]\n\n[Bridge]\n[Shift to cinematic ambient]\n[cinematic ambient texture]\n[Energy: High]\n\n[Climax]\n[Full sufi electronic]\n[Soaring raga lead]\n[Energy: High]\n\n[Outro]\n[Tanpura drone returns]\n[Fade Out]\n[End]",
+      "cover": {
+        "file": "covers/vanajaksha-reethigowla-ata-mdr.mp3",
+        "varnam": "Vanajaksha",
+        "artist": "M.D. Ramanathan"
+      }
+    },
+    {
+      "name": "Nalinakanthi",
+      "also_known_as": null,
+      "lineage": "Janya of Sarasangi",
+      "tagline": "Charming and lyrical — a modern raga, the romantic's choice.",
+      "arohanam": [
+        "S",
+        "G3",
+        "R2",
+        "M1",
+        "P",
+        "N3",
+        "S"
+      ],
+      "avarohanam": [
+        "S",
+        "N3",
+        "P",
+        "M1",
+        "G3",
+        "R2",
+        "S"
+      ],
+      "note_count": 6,
+      "pentatonic": false,
+      "vakra": true,
+      "bhashanga": false,
+      "rasa": "shringara",
+      "mood": "charming, romantic, lyrical",
+      "time_of_day": "no strong traditional association",
+      "vector": {
+        "valence": 0.8,
+        "arousal": 0.55,
+        "brightness": 0.625,
+        "density": 0.5,
+        "regularity": 0.5
+      },
+      "recordings": [
+        {
+          "id": "nivegatiyani-nalinakanthi-vidya",
+          "varnam": "Nive Gatiyani",
+          "artist": "Vidya Subramanian",
+          "file": "https://www.shivkumar.org/music/varnams/originals/001-Nalinakanthi-LalgudiVarnam-Vidya.mp3"
+        }
+      ],
+      "fusion": [
+        {
+          "genre": "sufi electronic",
+          "fit": 0.911,
+          "why": "devotional ecstasy; the established Indian-fusion lane",
+          "prompt": "sufi electronic fused with Carnatic raga Nalinakanthi, Carnatic vocal, bamboo flute and veena lead, tanpura drone, mridangam, gamakam ornamentation, vakra phrasing, charming, romantic, lyrical, 100 BPM"
+        },
+        {
+          "genre": "world-fusion chillout",
+          "fit": 0.868,
+          "why": "global, spiritual, ambient-leaning texture",
+          "prompt": "world-fusion chillout fused with Carnatic raga Nalinakanthi, Carnatic vocal, bamboo flute and veena lead, tanpura drone, mridangam, gamakam ornamentation, vakra phrasing, charming, romantic, lyrical, 96 BPM"
+        }
+      ],
+      "composition": "[Mood: charming, romantic, lyrical]\n[Tempo: 100 BPM]\n[Instrumental]\n[Instrument: bamboo flute, veena, tanpura, mridangam]\n\n[Intro]\n[Free alapana]\n[Solo bamboo flute]\n[Tanpura drone]\n[No percussion]\n\n[Theme]\n[Raga Nalinakanthi melody]\n[sufi electronic groove]\n[Energy: Medium]\n\n[Development]\n[Raga variations]\n[Layered texture]\n[Energy: Rising]\n\n[Bridge]\n[Shift to world-fusion chillout]\n[world-fusion chillout texture]\n[Energy: High]\n\n[Climax]\n[Full sufi electronic]\n[Soaring raga lead]\n[Energy: High]\n\n[Outro]\n[Tanpura drone returns]\n[Fade Out]\n[End]",
+      "cover": {
+        "file": "covers/nivegatiyani-nalinakanthi-vidya.mp3",
+        "varnam": "Nive Gatiyani",
+        "artist": "Vidya Subramanian"
+      }
+    },
+    {
+      "name": "Sahana",
+      "also_known_as": null,
+      "lineage": "Janya of Harikambhoji",
+      "tagline": "Gentle pathos and surrender — a karuna-rasa raga of devotion.",
+      "arohanam": [
+        "S",
+        "R2",
+        "G3",
+        "M1",
+        "P",
+        "M1",
+        "D2",
+        "N2",
+        "S"
+      ],
+      "avarohanam": [
+        "S",
+        "N2",
+        "D2",
+        "P",
+        "M1",
+        "G3",
+        "M1",
+        "R2",
+        "G3",
+        "R2",
+        "S"
+      ],
+      "note_count": 7,
+      "pentatonic": false,
+      "vakra": true,
+      "bhashanga": true,
+      "rasa": "karuna / bhakti",
+      "mood": "gentle pathos, unconditional surrender, daasya-bhava",
+      "time_of_day": "no strong traditional association (often evening)",
+      "vector": {
+        "valence": 0.515,
+        "arousal": 0.4,
+        "brightness": 0.464,
+        "density": 0.8,
+        "regularity": 0.5
+      },
+      "recordings": [
+        {
+          "id": "karunimpa-sahana-ravikiran",
+          "varnam": "Karunimpa",
+          "artist": "Chitravina Ravikiran",
+          "file": "https://www.shivkumar.org/music/varnams/originals/Karunimpa-Sahana-Varnam-RaviKiran.mp3"
+        },
+        {
+          "id": "karunimpa-sahana-tmk",
+          "varnam": "Karunimpa",
+          "artist": "T.M. Krishna",
+          "file": "https://www.shivkumar.org/music/varnams/originals/1-KarunimpaIdi-TMK.mp3"
+        }
+      ],
+      "fusion": [
+        {
+          "genre": "cinematic ambient",
+          "fit": 0.919,
+          "why": "film-score atmosphere with room for pathos",
+          "prompt": "cinematic ambient fused with Carnatic raga Sahana, Carnatic vocal, bamboo flute and veena lead, tanpura drone, mridangam, gamakam ornamentation, vakra phrasing, gentle pathos, unconditional surrender, daasya-bhava"
+        },
+        {
+          "genre": "emotional piano-electronic",
+          "fit": 0.87,
+          "why": "tender, sorrowful, plaintive",
+          "prompt": "emotional piano-electronic fused with Carnatic raga Sahana, Carnatic vocal, bamboo flute and veena lead, tanpura drone, mridangam, gamakam ornamentation, vakra phrasing, gentle pathos, unconditional surrender, daasya-bhava"
+        }
+      ],
+      "composition": "[Mood: gentle pathos, unconditional surrender, daasya-bhava]\n[Instrumental]\n[Instrument: bamboo flute, veena, tanpura, mridangam]\n\n[Intro]\n[Free alapana]\n[Solo bamboo flute]\n[Tanpura drone]\n[No percussion]\n\n[Theme]\n[Raga Sahana melody]\n[cinematic ambient groove]\n[Energy: Medium]\n\n[Development]\n[Raga variations]\n[Layered texture]\n[Energy: Rising]\n\n[Bridge]\n[Shift to emotional piano-electronic]\n[emotional piano-electronic texture]\n[Energy: High]\n\n[Climax]\n[Full cinematic ambient]\n[Soaring raga lead]\n[Energy: High]\n\n[Outro]\n[Tanpura drone returns]\n[Fade Out]\n[End]",
+      "cover": {
+        "file": "covers/karunimpa-sahana-ravikiran.mp3",
+        "varnam": "Karunimpa",
+        "artist": "Chitravina Ravikiran"
+      }
+    },
+    {
+      "name": "Sri Ragam",
+      "also_known_as": "Sree",
+      "lineage": "Janya of Kharaharapriya",
+      "tagline": "Serene and sacred — one of the five Ghana ragas, deeply auspicious.",
+      "arohanam": [
+        "S",
+        "R2",
+        "M1",
+        "P",
+        "N2",
+        "S"
+      ],
+      "avarohanam": [
+        "S",
+        "N2",
+        "P",
+        "D2",
+        "N2",
+        "P",
+        "M1",
+        "R2",
+        "G2",
+        "R2",
+        "S"
+      ],
+      "note_count": 5,
+      "pentatonic": true,
+      "vakra": true,
+      "bhashanga": false,
+      "rasa": "shanta / bhakti",
+      "mood": "serene, sacred, deeply devotional — highly auspicious",
+      "time_of_day": "concert-end / mangalam",
+      "vector": {
+        "valence": 0.7,
+        "arousal": 0.265,
+        "brightness": 0.4,
+        "density": 0.5,
+        "regularity": 0.25
+      },
+      "recordings": [
+        {
+          "id": "samininne-sriragam-tmk",
+          "varnam": "Sami Ninne",
+          "artist": "T.M. Krishna",
+          "file": "https://www.shivkumar.org/music/varnams/originals/01a-varnam-sri-samininne-tmk-c01.mp3"
+        },
+        {
+          "id": "samininne-sriragam-bs",
+          "varnam": "Sami Ninne",
+          "artist": "Bombay Sisters",
+          "file": "https://www.shivkumar.org/music/varnams/originals/samininne_sri_ragam_adi_varnam.mp3"
+        }
+      ],
+      "fusion": [
+        {
+          "genre": "ambient devotional",
+          "fit": 0.897,
+          "why": "prayerful stillness",
+          "prompt": "ambient devotional fused with Carnatic raga Sri Ragam, Carnatic vocal, bamboo flute and veena lead, tanpura drone, mridangam, gamakam ornamentation, pentatonic, vakra phrasing, serene, sacred, deeply devotional — highly auspicious"
+        },
+        {
+          "genre": "ambient",
+          "fit": 0.87,
+          "why": "weightless, formless space for a free raga",
+          "prompt": "ambient fused with Carnatic raga Sri Ragam, Carnatic vocal, bamboo flute and veena lead, tanpura drone, mridangam, gamakam ornamentation, pentatonic, vakra phrasing, serene, sacred, deeply devotional — highly auspicious"
+        }
+      ],
+      "composition": "[Mood: serene, sacred, deeply devotional — highly auspicious]\n[Instrumental]\n[Instrument: bamboo flute, veena, tanpura, mridangam]\n\n[Intro]\n[Free alapana]\n[Solo bamboo flute]\n[Tanpura drone]\n[No percussion]\n\n[Theme]\n[Raga Sri Ragam melody]\n[ambient devotional groove]\n[Energy: Medium]\n\n[Development]\n[Raga variations]\n[Layered texture]\n[Energy: Rising]\n\n[Bridge]\n[Shift to ambient]\n[ambient texture]\n[Energy: High]\n\n[Climax]\n[Full ambient devotional]\n[Soaring raga lead]\n[Energy: High]\n\n[Outro]\n[Tanpura drone returns]\n[Fade Out]\n[End]",
+      "cover": {
+        "file": "covers/samininne-sriragam-tmk.mp3",
+        "varnam": "Sami Ninne",
+        "artist": "T.M. Krishna"
+      }
     }
   ]
 }
