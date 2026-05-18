@@ -1,0 +1,14 @@
+{
+  "name": "Pulse Of Raga",
+  "short_name": "Pulse Of Raga",
+  "description": "A Carnatic raga explorer — scales, master recordings, and Suno fusion seeds.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#140d1a",
+  "theme_color": "#140d1a",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}

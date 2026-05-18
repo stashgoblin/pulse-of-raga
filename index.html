@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <title>Pulse Of Raga</title>
+  <meta name="description" content="A Carnatic raga explorer — scales, master recordings, and Suno fusion seeds." />
+  <meta name="theme-color" content="#140d1a" />
+  <link rel="manifest" href="manifest.webmanifest" />
+  <link rel="icon" href="icon.svg" type="image/svg+xml" />
+  <link rel="apple-touch-icon" href="icon.svg" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header class="hero">
+    <h1>Pulse Of Raga</h1>
+    <p id="subtitle">A Carnatic raga explorer</p>
+  </header>
+
+  <main id="grid" class="grid" aria-label="Ragas"></main>
+
+  <footer class="foot">
+    Carnatic raga data from the shivkumar.org archive · built with MusicMaker
+  </footer>
+
+  <!-- Raga detail overlay -->
+  <div id="detail" class="detail" hidden>
+    <div class="sheet" role="dialog" aria-modal="true" aria-labelledby="d-name">
+      <button id="close" class="close" aria-label="Close">&times;</button>
+      <div id="detail-body"></div>
+    </div>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>
